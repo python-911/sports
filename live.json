@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Seattle Mariners VS Detroit Tigers",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "641821179436",
+    "okassetkey": "684493875269",
     "widevine_data": {
-      "kid": "3deee452ac404ebbc7ae1f52a0d12ede",
-      "key": "053791f9ba018a81ff9ce5309dff45a5"
+      "kid": "3c2904614b063c8d1099a427b61a4966",
+      "key": "300c0e1f14c8efff555b260419a2cf6a"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "CFS Pinnacle Pro VS AZ Black Eagles",
     "imageUrl": "https://images.fancode.com/aig/match/v1/127730_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "684668060029",
+    "okassetkey": "973801649420",
     "widevine_data": {
-      "kid": "4eba9cdbcc2225635214d2f4ee8c7dde",
-      "key": "72bc50ecbe0fe454e49b04d02e936c8b"
+      "kid": "a91fcf5bfbd84fc8de22d6ec371d4327",
+      "key": "5f4195baf99c28b36f0b7801f0a78008"
     },
     "sources": []
   },
@@ -39,10 +39,10 @@
     "isLive": "true",
     "title": "Nicosia Tigers VS Cyprus Super Kings",
     "imageUrl": "https://images.fancode.com/aig/match/v1/70428_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "587983925790",
+    "okassetkey": "556054605127",
     "widevine_data": {
-      "kid": "76adebdad600417a90108420a95d45bb",
-      "key": "e6829941f913021cd716526e206d39e2"
+      "kid": "352f45ad057c82fa77f597cde405b271",
+      "key": "2ffdcf0e9bd98538716cb399eaa88aba"
     },
     "sources": []
   },
@@ -53,10 +53,10 @@
     "isLive": "true",
     "title": "Nakuru Leopards VS Mombasa Rhino",
     "imageUrl": "https://images.fancode.com/aig/match/v1/61748_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "036893093211",
+    "okassetkey": "277715502790",
     "widevine_data": {
-      "kid": "6020e0730ae897d74d190e2448186454",
-      "key": "bce038a8c02dc1854ac76748ef168c70"
+      "kid": "62aedbf033fe828bf805f5fab47461d5",
+      "key": "0601b2bd6219c16f2c3fa7352ab7376c"
     },
     "sources": []
   }
