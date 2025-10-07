@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Seattle Mariners VS Detroit Tigers",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "188355074799",
+    "okassetkey": "699373318317",
     "widevine_data": {
-      "kid": "6463a43d10c0ecd051865f954eb8c785",
-      "key": "6d62e799e2b298946ba53b58c88bc513"
+      "kid": "6997792bb8c06d454500430b61fbd4d2",
+      "key": "50dfc626abf4519f9edaef5c4d740586"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "Chicago CC VS Houston Generals CC",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137299_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "419333441451",
+    "okassetkey": "515851072856",
     "widevine_data": {
-      "kid": "f80486f879ca4016958c8b159d08af2a",
-      "key": "c5426eef45b4d735e61556bc197f097a"
+      "kid": "63532e09e3bc2ac5ca1a8312a9c66c8d",
+      "key": "7ea6c15afdf8bdc2956675c0a8c8268b"
     },
     "sources": [
       {
@@ -42,26 +42,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Puerto Rico VS Venezuela",
-    "imageUrl": "",
-    "okassetkey": "280163189224",
-    "widevine_data": {
-      "kid": "5c7a640d6f8cc82ab6a063bfc8864019",
-      "key": "2828324be901b05c164c421cb8bd27dd"
-    },
-    "sources": []
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Victoria Women VS Tasmania Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133956_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "658189240456",
+    "okassetkey": "876152331659",
     "widevine_data": {
-      "kid": "372394b11cc802470794f8dfb888b167",
-      "key": "c48f64b4a1802e2e01159129a19338f2"
+      "kid": "1728a7323aba5139bdf2ff39a42b3240",
+      "key": "50a2468bd00c53a1db88aa6b1f2a59c7"
     },
     "sources": [
       {
@@ -69,19 +55,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-133956.m3u8"
       }
     ]
-  },
-  {
-    "id": 5,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Charlotte Hornets VS Memphis Grizzlies",
-    "imageUrl": "",
-    "okassetkey": "165044778569",
-    "widevine_data": {
-      "kid": "e993abf852c68688b717ea856736eb9f",
-      "key": "88ce2b3e8166fe93a192435c122e1d0a"
-    },
-    "sources": []
   }
 ]
