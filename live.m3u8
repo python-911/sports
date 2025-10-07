@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137570_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Seattle Mariners VS Detroit Tigers
+https://live-aws-cdn.okflix.top/hls/fan1-137570.m3u8
