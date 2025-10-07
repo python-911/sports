@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Seattle Mariners VS Detroit Tigers",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "017995163525",
+    "okassetkey": "615142000208",
     "widevine_data": {
-      "kid": "c63f1d04edf015d6fcaf51ef254fef52",
-      "key": "ff3696a9cfdca5460b4d56ee61d723d9"
+      "kid": "5050266f0a2fbf6cb2c006f5dae08fc2",
+      "key": "0019d5d880ee4fea61acb0fe37414e83"
     },
     "sources": [
       {
@@ -17,75 +17,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137570.m3u8"
       }
     ]
-  },
-  {
-    "id": 2,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Emirates Blues VS Abu Dhabi",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137480_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "196517672064",
-    "widevine_data": {
-      "kid": "c9b9cc640edad8da167d7e6447eb5e49",
-      "key": "cfb5912feb5551afe05f5b0c49e36105"
-    },
-    "sources": []
-  },
-  {
-    "id": 3,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Paris FC Women VS Oud-Heverlee Leuven Women",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137452_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "605658068409",
-    "widevine_data": {
-      "kid": "414e5a197efb724f99eb5e9461ff8522",
-      "key": "433fe6eabf586f6efeef55e25d3eedd4"
-    },
-    "sources": []
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "ACC Bucharest VS Transylvania",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/135769_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "473011626639",
-    "widevine_data": {
-      "kid": "3ecebee15cd466427b445e58ee677f80",
-      "key": "ba011d1bd25159a9238c3e30f8d24300"
-    },
-    "sources": []
-  },
-  {
-    "id": 5,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "FEC Playoffs",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/133433_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "565380663681",
-    "widevine_data": {
-      "kid": "b6aeb63175b3c8c45489c68bff14ab8a",
-      "key": "57d94aa5ff44dbe3e69ea8e5b74c9554"
-    },
-    "sources": []
-  },
-  {
-    "id": 6,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Dhaka Metropolis VS Barisal Division",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/114944_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "233592543195",
-    "widevine_data": {
-      "kid": "42b975394b2e777fb929b64ec11bee51",
-      "key": "66850ef66ad7770793bf469cf8cb96db"
-    },
-    "sources": []
   }
 ]
