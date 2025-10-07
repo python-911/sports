@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Seattle Mariners VS Detroit Tigers",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "261766346186",
+    "okassetkey": "015657690266",
     "widevine_data": {
-      "kid": "bc6e7878a2608528ff796ee48d502f6f",
-      "key": "de9efd95d001ac1642bdbc69a8ce558f"
+      "kid": "634278b93693d9bd152f51eb7542f2f2",
+      "key": "75c1e11d91f186046bc143d87d24973f"
     },
     "sources": [
       {
@@ -17,47 +17,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137570.m3u8"
       }
     ]
-  },
-  {
-    "id": 2,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "CFS Pinnacle Pro VS AZ Black Eagles",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/127730_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "185201240475",
-    "widevine_data": {
-      "kid": "da9247939dc3b3ba8203e3b8cb613369",
-      "key": "2fc5a028b49beb7ee982860c36b32974"
-    },
-    "sources": []
-  },
-  {
-    "id": 3,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Nicosia Tigers VS Cyprus Super Kings",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/70428_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "762679270277",
-    "widevine_data": {
-      "kid": "19a4ea192846df2f8c7bcc63b18e5f15",
-      "key": "f012d09de54314c93908735057b87dce"
-    },
-    "sources": []
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Nakuru Leopards VS Mombasa Rhino",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/61748_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "767189772979",
-    "widevine_data": {
-      "kid": "d35ad6e98d050eedaa2e53b47bebe239",
-      "key": "a91b4c87c3e573c69de1c7bb223db1cd"
-    },
-    "sources": []
   }
 ]
