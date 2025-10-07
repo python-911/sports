@@ -4,31 +4,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Seattle Mariners VS Detroit Tigers",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "980682151788",
-    "widevine_data": {
-      "kid": "df4a2e7e657cc7a9a08aa06be336951e",
-      "key": "f8750ad44479295b9290b684dde0f9c3"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137570.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Chicago CC VS Houston Generals CC",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137299_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "081846961698",
+    "okassetkey": "405309181099",
     "widevine_data": {
-      "kid": "bf343737699cd0d669527401f4a1294a",
-      "key": "a3cc62bcdf9011e8c06c52ff9f2edd0e"
+      "kid": "10ca184872fabe65d7a3b65ad7104275",
+      "key": "372e2f48ffbee0dd67683196a0e80781"
     },
     "sources": [
       {
@@ -38,30 +19,16 @@
     ]
   },
   {
-    "id": 3,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "United CC Bucharest VS ACC Bucharest",
-    "imageUrl": "",
-    "okassetkey": "692825693074",
-    "widevine_data": {
-      "kid": "26b7c99763c9fc45cf4e40bd1da20fed",
-      "key": "f8d6ce19d4fdbd8214d30f95858ea6b2"
-    },
-    "sources": []
-  },
-  {
-    "id": 4,
+    "id": 2,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Victoria Women VS Tasmania Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133956_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "474637795267",
+    "okassetkey": "090467154900",
     "widevine_data": {
-      "kid": "3c6667507e502778daffdc4c0e711010",
-      "key": "091caf4616e6b19b59a0f3483d4158bd"
+      "kid": "7f0b3e50db0307b6cae1945d3599050b",
+      "key": "2f48198842566d4090c26e5834424327"
     },
     "sources": [
       {
@@ -69,19 +36,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-133956.m3u8"
       }
     ]
-  },
-  {
-    "id": 5,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "MOTUL GRAND PRIX OF JAPAN",
-    "imageUrl": "",
-    "okassetkey": "469843438688",
-    "widevine_data": {
-      "kid": "e0cbc1821346c7ea0a25693ed514f6ca",
-      "key": "1fbe34cc181e0f20fb73c2fbaee72d1f"
-    },
-    "sources": []
   }
 ]
