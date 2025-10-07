@@ -1,136 +1,86 @@
 [
   {
     "id": 1,
-    "genre": "KABADDI",
+    "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Haryana Steelers vs Dabang Delhi K.C.",
-    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2306/1759749252306-h",
-    "okassetkey": "696149313223",
+    "title": "Seattle Mariners VS Detroit Tigers",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137570_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "418538565740",
     "widevine_data": {
-      "kid": "5928a1371d9c6298d4d530ad7d4ed6f7",
-      "key": "6d8933074a48cc33c0792178320a4b7d"
+      "kid": "3eec6912269e449c0bb3295da48e7091",
+      "key": "0afb0345c0a0739235ac3d7562293466"
     },
-    "sources": [
-      {
-        "name": "Hindi",
-        "language": "hin",
-        "hls": "https://live-aws-cdn.okflix.top/hls/hin/hs-1540050525.m3u8"
-      },
-      {
-        "name": "English",
-        "language": "eng",
-        "hls": "https://live-aws-cdn.okflix.top/hls/eng/hs-1540050525.m3u8"
-      },
-      {
-        "name": "Haryanvi",
-        "language": "har",
-        "hls": "https://live-aws-cdn.okflix.top/hls/har/hs-1540050525.m3u8"
-      },
-      {
-        "name": "Bhojpuri",
-        "language": "bih",
-        "hls": "https://live-aws-cdn.okflix.top/hls/bih/hs-1540050525.m3u8"
-      },
-      {
-        "name": "Marathi",
-        "language": "mar",
-        "hls": "https://live-aws-cdn.okflix.top/hls/mar/hs-1540050525.m3u8"
-      },
-      {
-        "name": "Telugu",
-        "language": "tel",
-        "hls": "https://live-aws-cdn.okflix.top/hls/tel/hs-1540050525.m3u8"
-      },
-      {
-        "name": "Tamil",
-        "language": "tam",
-        "hls": "https://live-aws-cdn.okflix.top/hls/tam/hs-1540050525.m3u8"
-      },
-      {
-        "name": "Kannada",
-        "language": "kan",
-        "hls": "https://live-aws-cdn.okflix.top/hls/kan/hs-1540050525.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 2,
-    "genre": "Cricket",
+    "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "England W vs Bangladesh W",
-    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2301/1759748252301-h",
-    "okassetkey": "810458524104",
+    "title": "Emirates Blues VS Abu Dhabi",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137480_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "472109168342",
     "widevine_data": {
-      "kid": "b770396df778dead81e602fbe0d6db6c",
-      "key": "9a002bed6ad01819f1fe2875efde5cfd"
+      "kid": "184d1496b2b6a8fb44363548eb615bd9",
+      "key": "cd445f391f8287dd12533cc3cd2e5014"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "eng",
-        "hls": "https://live-aws-cdn.okflix.top/hls/eng/hs-1540051845.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 3,
-    "genre": "Tennis",
+    "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Sony Sports Ten 5",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009657/175925330553358_ATP1000_Shanghai_Masters_30sep_round4_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "370257816303",
+    "title": "Paris FC Women VS Oud-Heverlee Leuven Women",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137452_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "664371915881",
     "widevine_data": {
-      "kid": "63696d42a9169434dee42e07ced518b0",
-      "key": "272698a60f8e507c8e38bc4168e5d114"
+      "kid": "34d955269b34027d29f697f1bd79bec8",
+      "key": "0e4bdf2c821fa1521ee0eed553956c81"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090491801.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 4,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Sharjah VS Fujairah",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137479_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "460540108714",
+    "title": "ACC Bucharest VS Transylvania",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/135769_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "900677813283",
     "widevine_data": {
-      "kid": "a968aee6908e4e119bbc2fed9acd35a9",
-      "key": "212f677eda41c158928c6a80e5a86e85"
+      "kid": "bcba65d8f91362b08e9020014df10088",
+      "key": "f174c656ec3a2634c5c2505d843306c3"
     },
-    "sources": [
-      {
-        "name": "English",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137479.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 5,
-    "genre": "Game Show",
+    "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "SET",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "059551767685",
+    "title": "FEC Playoffs",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/133433_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "385183153667",
     "widevine_data": {
-      "kid": "10824809768c99bdd6b53754283fae02",
-      "key": "9a43459382b8e82eb22de4fc8617fcf9"
+      "kid": "a053522bcc5c1c5802fbe2f8cae989be",
+      "key": "c874ae79fbcbc3566e610dbd0bfea4be"
     },
-    "sources": [
-      {
-        "name": "Hindi",
-        "language": "HIN",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090486148.m3u8"
-      }
-    ]
+    "sources": []
+  },
+  {
+    "id": 6,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Dhaka Metropolis VS Barisal Division",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/114944_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "503088240346",
+    "widevine_data": {
+      "kid": "70032376c5de6bf3ed8ac8c8ecc0cd8e",
+      "key": "131f27c577943735808a611dbf049f23"
+    },
+    "sources": []
   }
 ]
