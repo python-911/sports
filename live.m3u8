@@ -3,6 +3,8 @@
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491860.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Dubai VS Fujairah
 https://live-aws-cdn.okflix.top/hls/fan1-137482.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137264_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Indonesia VS Saudi Arabia
+https://live-aws-cdn.okflix.top/hls/fan1-137264.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Afghanistan VS Bangladesh
 https://live-aws-cdn.okflix.top/hls/fan1-136881.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low" group-title="Game Show",SET
