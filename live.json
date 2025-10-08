@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Telugu Titans vs Haryana Steelers",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/5618/1759835415618-h",
-    "okassetkey": "181753150719",
+    "okassetkey": "715385855618",
     "widevine_data": {
-      "kid": "f05e1e73decf4ea8bc21aad381d9ba73",
-      "key": "a381cf45b0cc23e9e4d8f641deb0badb"
+      "kid": "ead5be9cd8468a3acc068bb8893b58db",
+      "key": "d90a1e74b48ae11f40d20cb1cdb2208a"
     },
     "sources": [
       {
@@ -61,10 +61,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543059966452_APL25_Day7_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "292734859934",
+    "okassetkey": "931480070081",
     "widevine_data": {
-      "kid": "b8c29961e9448f974f5ad9f982e58e8c",
-      "key": "0bd4bccdcd23ffe9ac2ef739c76a3d80"
+      "kid": "6f35db46ab9f5d5b49f7985875db5d7e",
+      "key": "e3f669f1c0fa0846781566a866cf32f9"
     },
     "sources": [
       {
@@ -81,10 +81,10 @@
     "isLive": "true",
     "title": "Australia W vs Pakistan W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3386/1759834923386-h",
-    "okassetkey": "701529825380",
+    "okassetkey": "146953333863",
     "widevine_data": {
-      "kid": "4a410f7467ac67430af975844a1a7ee0",
-      "key": "1000ccc10075589fc3b8e221838b29d9"
+      "kid": "2477ca607c04faee212d33d14d1798e5",
+      "key": "b38e8a98440a2b38c81fbc724d601b88"
     },
     "sources": [
       {
@@ -101,10 +101,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009657/175925330553358_ATP1000_Shanghai_Masters_30sep_round4_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "390266663780",
+    "okassetkey": "344188015295",
     "widevine_data": {
-      "kid": "82f119b4eb0e4ce5645f86a37d05b267",
-      "key": "c4f440a3483769dab9b3c148b5d597b4"
+      "kid": "9628db026ea88364a7e35e42da708173",
+      "key": "14092e41375d9c9535e5b430db2f2a34"
     },
     "sources": [
       {
@@ -121,10 +121,10 @@
     "isLive": "true",
     "title": "Sharjah VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137481_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "861741061543",
+    "okassetkey": "649114584698",
     "widevine_data": {
-      "kid": "65a0aec00a9118e73d30c0796fb0f0a0",
-      "key": "9f3694fd8784376c33e4b982307773f4"
+      "kid": "34f4dd0019215b91e0c5d27b3decb593",
+      "key": "e9bd3f702ad92092db0c4d144651ae17"
     },
     "sources": [
       {
@@ -140,17 +140,12 @@
     "isLive": "true",
     "title": "Mauritius VS Cameroon",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137349_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "847614176913",
+    "okassetkey": "269094790375",
     "widevine_data": {
-      "kid": "34fdbef97d5f6940d8aadda8ccf7c725",
-      "key": "791f7b4d2af1cfc1c38754b8be11d24b"
+      "kid": "1602bad4829fb2deb39e6ef2e6db47f5",
+      "key": "f8db5ad12ad5bed00d3d6bb95c093c37"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137349.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 7,
@@ -159,17 +154,12 @@
     "isLive": "true",
     "title": "Libya VS Cabo Verde",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137352_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "822512755582",
+    "okassetkey": "774651680896",
     "widevine_data": {
-      "kid": "c4779f01ed591a18051dcf1ec4a5bf37",
-      "key": "a546b37b959c805036cabf6cd906725a"
+      "kid": "bcec1a6ca4c7f342480afe4dd60df5a1",
+      "key": "479eee8638cb39a780f4ced6a4df0241"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137352.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 8,
@@ -178,10 +168,10 @@
     "isLive": "true",
     "title": "Nepal VS Kuwait",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137176_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "723403949374",
+    "okassetkey": "045815920801",
     "widevine_data": {
-      "kid": "79cb9eb14c36181995a688c91969fb15",
-      "key": "ed6bb222a47fd3602df9fad7adb82dcd"
+      "kid": "a1c9278d5902009685ccdd601cc0fde9",
+      "key": "138ee446c28b5a55616229e52e53e1d0"
     },
     "sources": [
       {
@@ -197,10 +187,10 @@
     "isLive": "true",
     "title": "Oman VS Qatar",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137124_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "276071693331",
+    "okassetkey": "356897089667",
     "widevine_data": {
-      "kid": "c239e35155d055d86a9438c305b3114d",
-      "key": "af4999494e1b46cff053d58760127c5f"
+      "kid": "6bf39e93d880bd97895a0d60355b6369",
+      "key": "bad8c50b2fa63241598c059d3a55cf11"
     },
     "sources": [
       {
@@ -216,10 +206,10 @@
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "713194957828",
+    "okassetkey": "710486172705",
     "widevine_data": {
-      "kid": "8f22444d82959f277d91aab7e5c74206",
-      "key": "8920b510202baf0f3e619e215ca257f0"
+      "kid": "f0e552a326d272db0e1fbab8f72ffad4",
+      "key": "ce519a42aa6cb53ee101ae22fe86c1a5"
     },
     "sources": [
       {
@@ -235,10 +225,10 @@
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "718908309059",
+    "okassetkey": "449787329291",
     "widevine_data": {
-      "kid": "a52cf81c59c0b3b5a87e131ff899e556",
-      "key": "6319ac8e7f930539ffd8d937281cfb7d"
+      "kid": "8d22dc4f8170291907c6e72afd5ffac3",
+      "key": "f8f732ac2e4f1571d35d41a3c006e03f"
     },
     "sources": [
       {
