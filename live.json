@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Milwaukee Brewers VS Chicago Cubs",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137573_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "020657868001",
+    "okassetkey": "174642293960",
     "widevine_data": {
-      "kid": "bf14cccc5a85401ede91d1d5380a5eaa",
-      "key": "ef03654ad65ee76613c1019caed9d7e8"
+      "kid": "f2701a38aa7ef5964d771a66b7f4e68e",
+      "key": "8fc77b0351b0a4947074fdb83e713bc7"
     },
     "sources": [
       {
@@ -17,47 +17,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137573.m3u8"
       }
     ]
-  },
-  {
-    "id": 2,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "United CC Bucharest VS Transylvania",
-    "imageUrl": "",
-    "okassetkey": "597218272898",
-    "widevine_data": {
-      "kid": "3f06233823cb1a343a1853eff45cf931",
-      "key": "896f0183ff24edf80f2abba11271d162"
-    },
-    "sources": []
-  },
-  {
-    "id": 3,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "USA VS Brazil",
-    "imageUrl": "",
-    "okassetkey": "513198527686",
-    "widevine_data": {
-      "kid": "2b6d9cbc42a11dff05879ec74a1e4079",
-      "key": "ecce179817108eef555418d8d616e5db"
-    },
-    "sources": []
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Brazil VS Uruguay",
-    "imageUrl": "",
-    "okassetkey": "472974759325",
-    "widevine_data": {
-      "kid": "56803d80c1cacb72d84c4ce0ef473018",
-      "key": "4e5f3ff732828191a70306e7ab930338"
-    },
-    "sources": []
   }
 ]
