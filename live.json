@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Puneri Paltan vs U Mumba",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6513/1759835486513-h",
-    "okassetkey": "747945894364",
+    "okassetkey": "695039822357",
     "widevine_data": {
-      "kid": "60d955c911bcfcd55c9a6524193a2324",
-      "key": "0e9bc4c5d14a1e803fd74f098b8050ec"
+      "kid": "9573d4397d8f30d939c8930d393050f3",
+      "key": "222e9f35155d889fc3dbd19349f26f37"
     },
     "sources": [
       {
@@ -61,10 +61,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543059966452_APL25_Day7_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "961338570941",
+    "okassetkey": "584469497262",
     "widevine_data": {
-      "kid": "f3dd78f86f5b0e285fb57f8abbac696b",
-      "key": "c6fb1aa30d161f1aa1c61e5ffaac1cbb"
+      "kid": "7261a84929bc9f78f65bb5b49c6d5e75",
+      "key": "098529a86ee43b257909e644572b1fa4"
     },
     "sources": [
       {
@@ -81,10 +81,10 @@
     "isLive": "true",
     "title": "Australia W vs Pakistan W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3386/1759834923386-h",
-    "okassetkey": "398792359728",
+    "okassetkey": "859018750200",
     "widevine_data": {
-      "kid": "2412648bb1b9a9753a5a3d79eaaf3ef6",
-      "key": "d724c8201ddbcb72b990c865378f6b19"
+      "kid": "a9c60e2aa82713deee7611f0acee5214",
+      "key": "731e93c254c2477591192e88727d258f"
     },
     "sources": [
       {
@@ -101,10 +101,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009657/175925330553358_ATP1000_Shanghai_Masters_30sep_round4_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "819817267618",
+    "okassetkey": "830003146390",
     "widevine_data": {
-      "kid": "d4d06a48838062d79f75bfbc69eb65b0",
-      "key": "206902fbbccd8f9e06054b1e9d394f31"
+      "kid": "8235730d341abd72faf23131f0afc386",
+      "key": "c86e1de1d6e19103edab460ee2d5d3fc"
     },
     "sources": [
       {
@@ -121,10 +121,10 @@
     "isLive": "true",
     "title": "Sharjah VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137481_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "449506340652",
+    "okassetkey": "458725819408",
     "widevine_data": {
-      "kid": "2cf1957d0bcb5e1b89d7b82e9256ecaa",
-      "key": "08270035aa04624c11c2f14c0bfc2998"
+      "kid": "e8407f34e0bacd855d9d46f6d8d6d0b4",
+      "key": "301da507571fb646b37e82e4cd3b8995"
     },
     "sources": [
       {
@@ -140,10 +140,10 @@
     "isLive": "true",
     "title": "Nepal VS Kuwait",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137176_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "281548018415",
+    "okassetkey": "686482728558",
     "widevine_data": {
-      "kid": "16ce008a60be9faf5f6bc864a3f72604",
-      "key": "31dd2a3bfe33ca9c79ba40974f93c0d3"
+      "kid": "54ad73b561c10ead858ffe12c4f213d9",
+      "key": "8de72043d2fe4b3fb9d29300ef913117"
     },
     "sources": [
       {
@@ -159,17 +159,12 @@
     "isLive": "true",
     "title": "Oman VS Qatar",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137124_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "553411882322",
+    "okassetkey": "006383064636",
     "widevine_data": {
-      "kid": "ac76584e21a12770b870d2273bd5f592",
-      "key": "d9fdf45982501d34acb1053676734dc8"
+      "kid": "f991e382492a9a8990f2644b04eda263",
+      "key": "12673ddf5fba742305971e828c8d7a06"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137124.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 8,
@@ -178,10 +173,10 @@
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "356182232147",
+    "okassetkey": "995905624337",
     "widevine_data": {
-      "kid": "5f0fdaefcd0ab852b05356ace4e66f90",
-      "key": "65afce2ec68bdb5c92347938a7c5a6c2"
+      "kid": "26dd5f6bbd617fa8ffa5095e8f10d661",
+      "key": "1866c508243947f0bb9db8fa79060dda"
     },
     "sources": [
       {
@@ -197,10 +192,10 @@
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "201930105669",
+    "okassetkey": "852649299322",
     "widevine_data": {
-      "kid": "a0c3b6c3c5aa8e0edde51f31564f0cde",
-      "key": "fefa86eb120e58639a3c6915d88eeb41"
+      "kid": "badb4b68158f6978298491f3427b51b8",
+      "key": "42baf581a824a7ea255cc78a17db0a1a"
     },
     "sources": [
       {
@@ -217,10 +212,10 @@
     "isLive": "true",
     "title": "Nakuru Leopards VS Mombasa Rhino",
     "imageUrl": "https://images.fancode.com/aig/match/v1/61748_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "040987720390",
+    "okassetkey": "705505995120",
     "widevine_data": {
-      "kid": "ba9ad0dd4f35a0ab3419ded229a96291",
-      "key": "cf8b848f1596245b28f834a9d1263c5a"
+      "kid": "e2d250232e7d00724551c3745af3b6cc",
+      "key": "7ac8d87ee0e769a53c571049a66a32cf"
     },
     "sources": []
   }
