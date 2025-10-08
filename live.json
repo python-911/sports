@@ -1,77 +1,41 @@
 [
   {
     "id": 1,
-    "genre": "Sports",
+    "genre": "Cricket",
     "payType": "P",
     "isLive": "true",
-    "title": "Toronto Blue Jays VS New York Yankees",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137571_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "673710824384",
+    "title": "Australia W vs Pakistan W",
+    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3386/1759834923386-h",
+    "okassetkey": "356122210834",
     "widevine_data": {
-      "kid": "aed3cf94672910174177d6e57fe65c6f",
-      "key": "aee19e6f669cb35ddf5fb2c407179f2b"
+      "kid": "9134b5b0a2d9a38921251e4b98b826c2",
+      "key": "9357ee854430233d83ac115ae8f06e6d"
     },
     "sources": [
       {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137571.m3u8"
+        "name": "English",
+        "language": "eng",
+        "hls": "https://live-aws-cdn.okflix.top/hls/eng/hs-1540051848.m3u8"
       }
     ]
   },
   {
     "id": 2,
-    "genre": "Sports",
+    "genre": "Archery",
     "payType": "P",
     "isLive": "true",
-    "title": "Malaysia Women VS Nepal Women",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137342_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "480649223406",
+    "title": "LIV",
+    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543059966452_APL25_Day7_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
+    "okassetkey": "292633042861",
     "widevine_data": {
-      "kid": "353d2ead1ec300efa078623d7a9eeb60",
-      "key": "fb4b825951cfff0e87e6ccfc29ccbac8"
+      "kid": "a0749aced159ad4d72d1631365abeba2",
+      "key": "f061c0a29ee3ca369679d82c2560bd19"
     },
     "sources": [
       {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137342.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "New York Lions CC VS Dallas Lonestars CC",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137300_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "795607953005",
-    "widevine_data": {
-      "kid": "0f08368b5b9501544ddc216504c1a21f",
-      "key": "42615e8a861a36453a37be76cb66acab"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137300.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Victoria Women VS Tasmania Women",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/133956_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "972341310517",
-    "widevine_data": {
-      "kid": "3629fe0010f38c1df7bf253cb5da5f0c",
-      "key": "435595e8f9c4f48ba0206401cae967ac"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-133956.m3u8"
+        "name": "English",
+        "language": "ENG",
+        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090491806.m3u8"
       }
     ]
   }
