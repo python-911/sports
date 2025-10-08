@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009963/1759836605688132_IF25_Gibraltar_vs_NewCaledonia_Landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
-https://live-aws-cdn.okflix.top/hls/sliv1-1090491860.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Dubai VS Fujairah
 https://live-aws-cdn.okflix.top/hls/fan1-137482.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137458_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",VfL Wolfsburg Women VS Paris Saint-Germain Women
