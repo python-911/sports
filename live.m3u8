@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137571_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Toronto Blue Jays VS New York Yankees
-https://live-aws-cdn.okflix.top/hls/fan1-137571.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137342_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Malaysia Women VS Nepal Women
-https://live-aws-cdn.okflix.top/hls/fan1-137342.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137300_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",New York Lions CC VS Dallas Lonestars CC
-https://live-aws-cdn.okflix.top/hls/fan1-137300.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133956_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Victoria Women VS Tasmania Women
-https://live-aws-cdn.okflix.top/hls/fan1-133956.m3u8
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3386/1759834923386-h" group-title="Cricket",Australia W vs Pakistan W
+https://live-aws-cdn.okflix.top/hls/eng/hs-1540051848.m3u8
+#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543059966452_APL25_Day7_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Archery",LIV
+https://live-aws-cdn.okflix.top/hls/sliv1-1090491806.m3u8
