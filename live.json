@@ -6,18 +6,12 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009963/1759836605688132_IF25_Gibraltar_vs_NewCaledonia_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "058432321861",
+    "okassetkey": "401546644198",
     "widevine_data": {
-      "kid": "e9488497285b02fe4da40392bf439051",
-      "key": "03666c096edd6eea91635338a899ee8f"
+      "kid": "e79261416681e4d61e3fd63bd849587d",
+      "key": "8f1814174d71f51f7b5645a9c9845284"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090491860.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 2,
@@ -26,10 +20,10 @@
     "isLive": "true",
     "title": "Dubai VS Fujairah",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "612897658210",
+    "okassetkey": "054390270059",
     "widevine_data": {
-      "kid": "22d4a93a95a5f8e18b18f7110ef9eed0",
-      "key": "94d20135b372e467b124902777bdfb57"
+      "kid": "c7fd5d2b6f963b7fa6453fe921958a23",
+      "key": "7a393dce3824a84ef5b3766a8b3536ae"
     },
     "sources": [
       {
@@ -45,10 +39,10 @@
     "isLive": "true",
     "title": "VfL Wolfsburg Women VS Paris Saint-Germain Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137458_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "373748052593",
+    "okassetkey": "093472438434",
     "widevine_data": {
-      "kid": "dbb14533c00300afe5b36be44841dda1",
-      "key": "87a6f0eb05f4d441fb6694908d0ad895"
+      "kid": "f70baa4837911b5319e8ee44e2cca837",
+      "key": "bb0927ec98800a9ad3d7e8098ed9ab2b"
     },
     "sources": [
       {
@@ -64,10 +58,10 @@
     "isLive": "true",
     "title": "Manchester United Women VS Valerenga Fotball Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137457_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "092713236298",
+    "okassetkey": "590359189688",
     "widevine_data": {
-      "kid": "c15361dc631148ecc4e337197a9f5b4f",
-      "key": "ec61f982720441589ac8bfdfbcf4ea77"
+      "kid": "2db6ae1380b29201b23243084490c258",
+      "key": "91ca8d6060d027d593b97d43b7546ba2"
     },
     "sources": [
       {
@@ -83,10 +77,10 @@
     "isLive": "true",
     "title": "SKN St. Polten Women VS Club Atletico de Madrid Femenino",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137456_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "210925526434",
+    "okassetkey": "429371354836",
     "widevine_data": {
-      "kid": "36ea47de3b89e3c6e158026b6f0d09fb",
-      "key": "ed018ecad079fbd97f72e5cf14448eb2"
+      "kid": "0cf263b8ba1794699c1c9153ef0938cc",
+      "key": "14f888fbce193aa3493aa7abbd2a7cf6"
     },
     "sources": [
       {
@@ -102,10 +96,10 @@
     "isLive": "true",
     "title": "Niger VS Congo",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137365_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "453699465720",
+    "okassetkey": "392231974831",
     "widevine_data": {
-      "kid": "455cd3c50392a90cb02cc2cd3bdafd8b",
-      "key": "9f229293b6802024cf7f3a06190a0ebf"
+      "kid": "b26ce07ef45eb308dfd2840d4a2af957",
+      "key": "b53e506bf99b36808d81d0b64b26228d"
     },
     "sources": [
       {
@@ -121,10 +115,10 @@
     "isLive": "true",
     "title": "Tanzania VS Zambia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137364_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "426728354893",
+    "okassetkey": "282702752207",
     "widevine_data": {
-      "kid": "4ceb7a46ecba8686380573e7972106aa",
-      "key": "3fb0b688ca48833f4c02d2bdec63e71e"
+      "kid": "2955b560212cb3ff65778cc0095e2db5",
+      "key": "600d416519fab68775622d31131f31a9"
     },
     "sources": [
       {
@@ -140,10 +134,10 @@
     "isLive": "true",
     "title": "Indonesia VS Saudi Arabia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137264_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "459411343490",
+    "okassetkey": "523533289923",
     "widevine_data": {
-      "kid": "a678fb57e98a6410d6260e9e59ea7c11",
-      "key": "f1ed5b08de3f100458831b68c9acc711"
+      "kid": "c8f04899900582c46636d08dd82ad894",
+      "key": "024628ead6af297a51bc144571c51e72"
     },
     "sources": [
       {
@@ -159,10 +153,10 @@
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "435378772120",
+    "okassetkey": "962557115946",
     "widevine_data": {
-      "kid": "f0ef03d24382d4fb51d92d50f333f2de",
-      "key": "7a942d9e7498ac07b735a59453a17458"
+      "kid": "d0f2547c067b991c8cb234de19208511",
+      "key": "454905f5fea2a9a362e577e1613f1caa"
     },
     "sources": [
       {
@@ -178,10 +172,10 @@
     "isLive": "true",
     "title": "Lankan Lions VS Transylvania",
     "imageUrl": "",
-    "okassetkey": "466577141182",
+    "okassetkey": "482840705195",
     "widevine_data": {
-      "kid": "bccee2b189bf5a6f3e25b2becef3472b",
-      "key": "a81294c62743740b6b779799aae8131f"
+      "kid": "7c436332072c4855233913d7fc7afa36",
+      "key": "3e861c498a93675e4bf4f7d644daabe1"
     },
     "sources": []
   },
@@ -192,10 +186,10 @@
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "855241919395",
+    "okassetkey": "590630830907",
     "widevine_data": {
-      "kid": "64ec52945536c50de75bc791cc91202e",
-      "key": "7190ef43169ccef267a808d344becacf"
+      "kid": "9ff6d757f1a82c41239d7f97846b408e",
+      "key": "8a42062c51772a47f25b4d7eca4c22bf"
     },
     "sources": [
       {
@@ -212,10 +206,10 @@
     "isLive": "true",
     "title": "Rwanda VS Tanzania",
     "imageUrl": "",
-    "okassetkey": "513768612856",
+    "okassetkey": "413803559874",
     "widevine_data": {
-      "kid": "3129dc3d775d07437e1b4f02b511682b",
-      "key": "97df905295c5c023919288164292a131"
+      "kid": "811a852b373a7c744ec139b73e6c065d",
+      "key": "f93d7f5306376d7a29b1a244f7f091aa"
     },
     "sources": []
   }
