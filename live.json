@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543059966452_APL25_Day7_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "067123276246",
+    "okassetkey": "564071938805",
     "widevine_data": {
-      "kid": "81f5b0420b76b74d779e7d26d4a1ffbe",
-      "key": "86238bb8a10c315a1a9c091f9ed7c9ca"
+      "kid": "47e8229c3c7a558cafda3e08a8877b70",
+      "key": "7a1a6ac73a1450e30c2f1713c8a9c33f"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Australia W vs Pakistan W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3386/1759834923386-h",
-    "okassetkey": "536121339929",
+    "okassetkey": "510303954756",
     "widevine_data": {
-      "kid": "8f91e43197bb2f5c9773a9beb8fa000a",
-      "key": "d6cb7960774b8613e067672eca50441b"
+      "kid": "6a12aae8b1a9d183c85c6281da635086",
+      "key": "49abdfd5330c5fa834f59b98c5a36656"
     },
     "sources": [
       {
@@ -46,10 +46,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009657/175925330553358_ATP1000_Shanghai_Masters_30sep_round4_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "587606873262",
+    "okassetkey": "504937499475",
     "widevine_data": {
-      "kid": "019fb3436fccc7820b9dc9f55b4c2303",
-      "key": "1386899cec412e3271d6c9b05a6413ee"
+      "kid": "026771f498be4d5a920e90c1a3dec69b",
+      "key": "ca0b6dd6c12a4e84fc9de76d8275d235"
     },
     "sources": [
       {
@@ -66,10 +66,10 @@
     "isLive": "true",
     "title": "Sharjah VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137481_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "899812765115",
+    "okassetkey": "375407496740",
     "widevine_data": {
-      "kid": "5901ee469ae8447523e24a23e5a08d54",
-      "key": "8d0e309e13dbc60ea09cb7c0290fbeaa"
+      "kid": "86d90ca522bb3af30c1c57ae7cff2fba",
+      "key": "ccb6b9298f8ab05ce830baba49d15238"
     },
     "sources": [
       {
@@ -85,10 +85,10 @@
     "isLive": "true",
     "title": "Mauritius VS Cameroon",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137349_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "959960261173",
+    "okassetkey": "037225073555",
     "widevine_data": {
-      "kid": "3d60447d9c5b20956baf5e15af4b9397",
-      "key": "ccebe55f4df727d3f565e2d56c57d66c"
+      "kid": "04db7a3a65032e1cc38023e3737d916e",
+      "key": "60ea28e5eba4ef980fd3c76104e71b50"
     },
     "sources": [
       {
@@ -104,10 +104,10 @@
     "isLive": "true",
     "title": "Eswatini VS Angola",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137351_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "444152489779",
+    "okassetkey": "502463458177",
     "widevine_data": {
-      "kid": "fc6983541d124e3d7fdd60f0003d775c",
-      "key": "0d5936bbbc54953aa8c64dd9b8ecbd03"
+      "kid": "d5b0ee97608a323c65473c1e76febb7c",
+      "key": "2b4455bdd3f7073f8718b504a63036a3"
     },
     "sources": [
       {
@@ -123,10 +123,10 @@
     "isLive": "true",
     "title": "Ethiopia VS Guinea-Bissau",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137346_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "452040886637",
+    "okassetkey": "107162173985",
     "widevine_data": {
-      "kid": "00eb2efeace0af3f874963844419b348",
-      "key": "cd409fadb3c160f986ea87f5390131e9"
+      "kid": "def483fce34045fe41f05307f3bca94a",
+      "key": "6bea125670b5867d64120ca53c6c06d5"
     },
     "sources": [
       {
@@ -142,10 +142,10 @@
     "isLive": "true",
     "title": "Libya VS Cabo Verde",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137352_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "884700165506",
+    "okassetkey": "436877948162",
     "widevine_data": {
-      "kid": "ee054e542244d3e3e50d242cdc5cc96f",
-      "key": "bd14c5e446b737ad26680f1ecec12042"
+      "kid": "4b505485d8ae25b1521eccf21a1c879e",
+      "key": "106a3065ca352525f63c3ce0f98f74d1"
     },
     "sources": [
       {
@@ -161,10 +161,10 @@
     "isLive": "true",
     "title": "Porsche Mobil 1 Super Cup",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137324_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "136263445541",
+    "okassetkey": "266229690698",
     "widevine_data": {
-      "kid": "f038d0c230b897599d261f6cbae6ac2d",
-      "key": "9a5aefeaefc75ea8511d231996019bf3"
+      "kid": "a04c23d32346abe7fda94f0655f1c167",
+      "key": "710fb615b12c42ed1cfe2826a305a236"
     },
     "sources": []
   },
@@ -175,10 +175,10 @@
     "isLive": "true",
     "title": "United Arab Emirates VS Qatar",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137175_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "809213061498",
+    "okassetkey": "819854686593",
     "widevine_data": {
-      "kid": "a3eaa6ef4ef27bc1a13a6e157d770eda",
-      "key": "969220f3480dcaf78baf997d14d0fa85"
+      "kid": "527c8d2842b0db61e4a7b07aacd207a7",
+      "key": "cdf8a33833601e3aa2f930f464a356fc"
     },
     "sources": [
       {
@@ -194,10 +194,10 @@
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "105147549299",
+    "okassetkey": "416827063512",
     "widevine_data": {
-      "kid": "3c5612f0ef85917d4bc9c29e363a4121",
-      "key": "04217b7146c33439a270246cea1ec90f"
+      "kid": "4a815b4b01f06d91236f3db01f996119",
+      "key": "335964915a784bf4d5a21a929388276c"
     },
     "sources": [
       {
@@ -213,10 +213,10 @@
     "isLive": "true",
     "title": "ACC Bucharest VS Transylvania",
     "imageUrl": "https://images.fancode.com/aig/match/v1/135766_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "102380261998",
+    "okassetkey": "291315908075",
     "widevine_data": {
-      "kid": "40893a9871b604abd0d662abee34f2e7",
-      "key": "f9a1c6e4f2aa6b15e1f97024a1009e45"
+      "kid": "893213e99bf0f59f9709edf0801ba9e5",
+      "key": "e2c266456ba3fbfa4d0cb74c68cdc0b2"
     },
     "sources": []
   },
@@ -227,10 +227,10 @@
     "isLive": "true",
     "title": "Baneasa VS Transylvania",
     "imageUrl": "https://images.fancode.com/aig/match/v1/135760_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "158692391737",
+    "okassetkey": "003627073276",
     "widevine_data": {
-      "kid": "1366223a089fe9e45bb5144ab935e542",
-      "key": "b2a188d4c6843327b7348cc6a0c9283d"
+      "kid": "f860efeff4fa457ed5083266fd8b6b5f",
+      "key": "74edb1ea6d07d0f81222e8372fd36975"
     },
     "sources": []
   },
@@ -241,10 +241,10 @@
     "isLive": "true",
     "title": "Baneasa VS United CC Bucharest",
     "imageUrl": "https://images.fancode.com/aig/match/v1/135753_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "560538533102",
+    "okassetkey": "096519340484",
     "widevine_data": {
-      "kid": "4f65b57c38c88971cd63559a3c1d74e3",
-      "key": "28f37540a1e2662e7ac926862242a07c"
+      "kid": "70bfcb45eae65e904841d8c692e8a43a",
+      "key": "7b8948d0f794a5188939eb160676520f"
     },
     "sources": []
   }
