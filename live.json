@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Telugu Titans vs Haryana Steelers",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/5618/1759835415618-h",
-    "okassetkey": "334388916889",
+    "okassetkey": "461863016759",
     "widevine_data": {
-      "kid": "3097f826959d0d7bcace9723e4d1da21",
-      "key": "5790f74a7d6a9f3c1f434de9f20d2612"
+      "kid": "b15a9814ef1d35922bb30ea9a4d040ba",
+      "key": "5372d053eaa5733e841d6f73266d10e4"
     },
     "sources": [
       {
@@ -61,10 +61,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543059966452_APL25_Day7_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "631183072302",
+    "okassetkey": "289441823859",
     "widevine_data": {
-      "kid": "fea7c309a794ef6bf63d3c670e15b571",
-      "key": "4df00416cf8fe5c599fce2c64f8cb957"
+      "kid": "695fddd7586bca462253e4aa41ee7b69",
+      "key": "e5a296ebc055f75429ca2b14e552c7bd"
     },
     "sources": [
       {
@@ -81,10 +81,10 @@
     "isLive": "true",
     "title": "Australia W vs Pakistan W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3386/1759834923386-h",
-    "okassetkey": "644965771361",
+    "okassetkey": "254930632769",
     "widevine_data": {
-      "kid": "66f9f35ffd595daf412e2865b2d66055",
-      "key": "a097db3585face87142b6b23e4120140"
+      "kid": "64759bf71900117dfc7f8a73a41e9c99",
+      "key": "caf5a0a7e0a4773f84ab0f5f7438e95e"
     },
     "sources": [
       {
@@ -101,10 +101,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009657/175925330553358_ATP1000_Shanghai_Masters_30sep_round4_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "057799614346",
+    "okassetkey": "989988093173",
     "widevine_data": {
-      "kid": "e78a4f6c022dd50e2a4c88e418d5e9df",
-      "key": "86070ca4526a6a858d5591b90400e86f"
+      "kid": "0ab315a1814a466a976787ef7c347672",
+      "key": "8e4f229ae80861332f6ec8c2aecfee89"
     },
     "sources": [
       {
@@ -121,10 +121,10 @@
     "isLive": "true",
     "title": "Sharjah VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137481_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "083505807289",
+    "okassetkey": "085361413500",
     "widevine_data": {
-      "kid": "68178bf10da591106a94fc0ab8f01f9a",
-      "key": "a2c6fc83d06696fdfc20bf0c77defa7d"
+      "kid": "88a6334fd1670c3d5ba6b3e39c092ade",
+      "key": "cda81cfc6198c9f2f34f457cff9bb465"
     },
     "sources": [
       {
@@ -140,10 +140,10 @@
     "isLive": "true",
     "title": "Mauritius VS Cameroon",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137349_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "068337414558",
+    "okassetkey": "246696298104",
     "widevine_data": {
-      "kid": "73255216cb70f8afb00392cabe86048f",
-      "key": "cc6825f4e7ebaa7a5b1cbbd297aba51d"
+      "kid": "d1d850d31c6b859722385846aeeb7293",
+      "key": "d7bbbf428a47afbd1caeb5c280e18af2"
     },
     "sources": [
       {
@@ -157,50 +157,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Eswatini VS Angola",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137351_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "613026425066",
-    "widevine_data": {
-      "kid": "cdc7161e9b29b6f3916a147780b36508",
-      "key": "b8f6b4bd8ce25fdb0e8b17fb9552b3c8"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137351.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Ethiopia VS Guinea-Bissau",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137346_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "598303489134",
-    "widevine_data": {
-      "kid": "e1e2a8a535650c6068f6333e6a235c39",
-      "key": "78b8666731ea552bbbfac631d6ac9ac0"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137346.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Libya VS Cabo Verde",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137352_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "974680205652",
+    "okassetkey": "027420202320",
     "widevine_data": {
-      "kid": "0b9642aa3d093b866eae20980b39eb6a",
-      "key": "d49e159dd508307ad1f72da6b111bc31"
+      "kid": "a0c27303da4bccbf574e675b860698a6",
+      "key": "8a2303a6a6dd60f9f92e6021055b0757"
     },
     "sources": [
       {
@@ -210,30 +172,16 @@
     ]
   },
   {
-    "id": 10,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Porsche Mobil 1 Super Cup",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137321_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "838387723502",
-    "widevine_data": {
-      "kid": "16f7e1af18370555a9fd6c3e905d57e0",
-      "key": "2829204ca1258c74ffe9ada1c75f648e"
-    },
-    "sources": []
-  },
-  {
-    "id": 11,
+    "id": 8,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Nepal VS Kuwait",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137176_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "144953544868",
+    "okassetkey": "303276051875",
     "widevine_data": {
-      "kid": "dc736fcefdd9962fae57e2b2fa288cba",
-      "key": "b13916cede42131c26b682e3fedf7b23"
+      "kid": "95e194f502982dc365762caf1b670a35",
+      "key": "cc8b2b529404c9889a706896a83781f6"
     },
     "sources": [
       {
@@ -243,16 +191,16 @@
     ]
   },
   {
-    "id": 12,
+    "id": 9,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Oman VS Qatar",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137124_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "077974942879",
+    "okassetkey": "552217152368",
     "widevine_data": {
-      "kid": "3d971c14d0f7340e809f4009ba5644b1",
-      "key": "b19e6867f141fd395bdaf5882d814c32"
+      "kid": "a904b7dd4afd416f316a448c941a96ca",
+      "key": "953645d29434979e0ba2df73c2bd0fd7"
     },
     "sources": [
       {
@@ -262,16 +210,16 @@
     ]
   },
   {
-    "id": 13,
+    "id": 10,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "326754567947",
+    "okassetkey": "502400159511",
     "widevine_data": {
-      "kid": "23bade58e5d8ce6eed6ebcdaedddc8d9",
-      "key": "7868dfaabce91885ab7d3cc57c9c2e6c"
+      "kid": "85abea5670e08ed1d21e7ab6b789da87",
+      "key": "9cb239153afe86fc438d5cf7e662c640"
     },
     "sources": [
       {
@@ -281,16 +229,16 @@
     ]
   },
   {
-    "id": 14,
+    "id": 11,
     "genre": "Game Show",
     "payType": "P",
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "407570005762",
+    "okassetkey": "588332384264",
     "widevine_data": {
-      "kid": "5b65352006a137ada9ace275bd4afbc3",
-      "key": "cedd774f6d3779ec291f5b9f3204e864"
+      "kid": "dca1a7d00f48011c16acae4a762a208f",
+      "key": "c9e671c9d2287f23871bdaa2122a5abf"
     },
     "sources": [
       {
@@ -299,19 +247,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090486148.m3u8"
       }
     ]
-  },
-  {
-    "id": 15,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "FEC Playoffs",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/133436_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "841057375074",
-    "widevine_data": {
-      "kid": "dd854d935f7a27f8f6a79397d9406ef9",
-      "key": "eaf21fbc9eed157d7269bdc4852cd771"
-    },
-    "sources": []
   }
 ]
