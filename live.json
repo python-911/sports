@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Milwaukee Brewers VS Chicago Cubs",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137573_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "609116479072",
+    "okassetkey": "131559692829",
     "widevine_data": {
-      "kid": "dffacd0d1d7c4a57ec588773a8ad8428",
-      "key": "f83a2bd90bbcb499b09841fb826b47dc"
+      "kid": "373f2b28c06d9d59908c7bbdfccf997e",
+      "key": "8a6b513658e0435b53007d2051e6a551"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "Detroit Tigers VS Seattle Mariners",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137572_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "311538645421",
+    "okassetkey": "490478547811",
     "widevine_data": {
-      "kid": "3c0dbcbf4da165273ed44034ff034dc3",
-      "key": "f5e2472000d28662e6e71c6a110004bc"
+      "kid": "9d45857d3d39cb420d32a6a4be9715b1",
+      "key": "ee0e0b57ff4095ad2761378001316b94"
     },
     "sources": [
       {
@@ -44,17 +44,12 @@
     "isLive": "true",
     "title": "Niger VS Congo",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137365_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "064130189897",
+    "okassetkey": "541096167977",
     "widevine_data": {
-      "kid": "009e627849121e60e00994e271961a96",
-      "key": "933681fa473ff087bd166e117d29e075"
+      "kid": "dbc48128a108db5c3678f07b687dc396",
+      "key": "6d21784ca898909cb1be13cc5bd97817"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137365.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 4,
@@ -63,17 +58,12 @@
     "isLive": "true",
     "title": "Tanzania VS Zambia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137364_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "717198321977",
+    "okassetkey": "625451267365",
     "widevine_data": {
-      "kid": "edfc0a65c4cecc6810e0231be775995a",
-      "key": "d0f97eae883dd4ea86a6af71b70d6830"
+      "kid": "8d7a546a7a0955e942cefd34dda8e6c3",
+      "key": "27b8dafc64dee90e3ceb37e28d2d9588"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137364.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 5,
@@ -82,10 +72,10 @@
     "isLive": "true",
     "title": "Nairobi Lions VS Thika Hippo",
     "imageUrl": "https://images.fancode.com/aig/match/v1/61758_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "336757042253",
+    "okassetkey": "108002552978",
     "widevine_data": {
-      "kid": "ee338ae760fda8f058c4e2697758a7ae",
-      "key": "f7a4ebe5798ee6d4b36e3260c32e5234"
+      "kid": "7b7340f2ffa957b1ed7f906b63426cf2",
+      "key": "737475395da6395c391e1a3e3e87cf00"
     },
     "sources": []
   }
