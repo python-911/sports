@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Milwaukee Brewers VS Chicago Cubs",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137573_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "129939015580",
+    "okassetkey": "022554927593",
     "widevine_data": {
-      "kid": "bc6a6c87dcb4da5512bc85430058e63a",
-      "key": "f7c7bee1c2085a48877f3b5c3d5929a1"
+      "kid": "1a1520c6ebc9d9731f60b389d14f08ec",
+      "key": "6bcc5e16bb55e2c08ca9add5da2b3238"
     },
     "sources": [
       {
@@ -17,19 +17,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137573.m3u8"
       }
     ]
-  },
-  {
-    "id": 2,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Argentina VS Dominican Republic",
-    "imageUrl": "",
-    "okassetkey": "570186534506",
-    "widevine_data": {
-      "kid": "629d9f151c04a9314b985431a70e37d6",
-      "key": "1c1efdc4ad7d2a6f8f51a133b39e9379"
-    },
-    "sources": []
   }
 ]
