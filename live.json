@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Detroit Tigers VS Seattle Mariners",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137572_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "119887918420",
+    "okassetkey": "988985423897",
     "widevine_data": {
-      "kid": "34e6a524fb3ddc245c5cb0227c9f8e22",
-      "key": "5fd383fb522e473173a3db24015aca64"
+      "kid": "e42a9073a1a2f040e36c30675883a020",
+      "key": "2aa6cc3f97d716cf09d36d2c120ed45b"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "Dubai VS Fujairah",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "708714791690",
+    "okassetkey": "328319715289",
     "widevine_data": {
-      "kid": "ed0b0037b2cabe3b1a3a408c71a72a9f",
-      "key": "2bc84306fc5161fc8f34badf857d437f"
+      "kid": "3e700cbb4f290ba416dfa9c01ad7e202",
+      "key": "4edcc58a51d089a17141094e1522d568"
     },
     "sources": [
       {
@@ -44,10 +44,10 @@
     "isLive": "true",
     "title": "VfL Wolfsburg Women VS Paris Saint-Germain Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137458_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "152837894256",
+    "okassetkey": "818741675766",
     "widevine_data": {
-      "kid": "373ee6df09d2ed1c7df20a46bd277f02",
-      "key": "cde39131116248912c26179f89835590"
+      "kid": "cf6f0b0a7ef82916bfac158c3c141983",
+      "key": "fd16209d35f48e0d63aecf5247a80088"
     },
     "sources": [
       {
@@ -63,10 +63,10 @@
     "isLive": "true",
     "title": "Manchester United Women VS Valerenga Fotball Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137457_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "521563758764",
+    "okassetkey": "632554758731",
     "widevine_data": {
-      "kid": "5a057874f3e012ddec72c4e2ec1b5cc8",
-      "key": "af511b1c2cbcb821999501d72e22932f"
+      "kid": "99d2685e15a65669922d35fb27ffdbfc",
+      "key": "a362f953e7684f7e69b3f0f4e13cc084"
     },
     "sources": [
       {
@@ -82,10 +82,10 @@
     "isLive": "true",
     "title": "SKN St. Polten Women VS Club Atletico de Madrid Femenino",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137456_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "741328920433",
+    "okassetkey": "557562948796",
     "widevine_data": {
-      "kid": "d344951ff839b472ed2080ff02881ffd",
-      "key": "28cfdc415009509faf670e6ec9e1bec5"
+      "kid": "18e97c30027fcd20bd45753bbf7b3aa1",
+      "key": "f4df64977a85fb8c6e76f5789c1dcc78"
     },
     "sources": [
       {
@@ -101,10 +101,10 @@
     "isLive": "true",
     "title": "Niger VS Congo",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137365_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "444899756922",
+    "okassetkey": "527528387083",
     "widevine_data": {
-      "kid": "debadfc8f689067aa0625e7db4d4a3b5",
-      "key": "2d352fc7e9d1a7598a4d5cc5c5bbb9f8"
+      "kid": "57fd1db2e56fd4d654cfa5c90df17191",
+      "key": "f0cae553fa0c730e5104b568ec469668"
     },
     "sources": [
       {
@@ -120,10 +120,10 @@
     "isLive": "true",
     "title": "Tanzania VS Zambia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137364_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "516006496715",
+    "okassetkey": "089268928659",
     "widevine_data": {
-      "kid": "e255d677773f5781b76c860307f82e41",
-      "key": "77ce1dd34b747fa425ce433948b89f33"
+      "kid": "925c43c7e75fd62bdc37927addf4d376",
+      "key": "a04ffff048160c6ce9749ecf7221d754"
     },
     "sources": [
       {
@@ -139,10 +139,10 @@
     "isLive": "true",
     "title": "Indonesia VS Saudi Arabia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137264_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "716150313944",
+    "okassetkey": "645720300786",
     "widevine_data": {
-      "kid": "0bcc79461c54a934661c04cfc9918fb0",
-      "key": "02c6d5e42d7f7d43a254530c64fc7030"
+      "kid": "15b6a44cab88623daaf4c63363375aff",
+      "key": "390af6c2ace3f0fe57b717122f375a6f"
     },
     "sources": [
       {
@@ -150,19 +150,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137264.m3u8"
       }
     ]
-  },
-  {
-    "id": 9,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Uruguay VS USA",
-    "imageUrl": "",
-    "okassetkey": "705986496060",
-    "widevine_data": {
-      "kid": "6d2b479d7c4e9b9a37be267d585aafd9",
-      "key": "eb922c98b3cd004e0a1b0fb944bd0ec8"
-    },
-    "sources": []
   }
 ]
