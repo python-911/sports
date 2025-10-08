@@ -3,5 +3,7 @@
 https://live-aws-cdn.okflix.top/hls/fan1-137571.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137570_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Seattle Mariners VS Detroit Tigers
 https://live-aws-cdn.okflix.top/hls/fan1-137570.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137299_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Chicago CC VS Houston Generals CC
+https://live-aws-cdn.okflix.top/hls/fan1-137299.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133956_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Victoria Women VS Tasmania Women
 https://live-aws-cdn.okflix.top/hls/fan1-133956.m3u8
