@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Milwaukee Brewers VS Chicago Cubs",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137573_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "737742335572",
+    "okassetkey": "804104371823",
     "widevine_data": {
-      "kid": "9bf9c5395ed3c41caa737b0f600be825",
-      "key": "c2b17b3512e662cb43b53fc80e261d8e"
+      "kid": "83bb315a9aed5708269f55c40eeb4eb7",
+      "key": "51cfb79ac4a623cbfcbf0fe930584071"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "Atlanta Kings CC VS Chicago CC",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137301_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "686955358198",
+    "okassetkey": "010146361631",
     "widevine_data": {
-      "kid": "acd1fa3d9f55c5f1c2379c5714bd9954",
-      "key": "3a6f3d56b04523cc09ce7bc330f22331"
+      "kid": "730d71da366bcefb953b1d56b1e3c2a8",
+      "key": "4c372d118f95450166da1b4d6710e208"
     },
     "sources": [
       {
@@ -42,40 +42,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Uruguay VS Bahamas",
-    "imageUrl": "",
-    "okassetkey": "301964908949",
-    "widevine_data": {
-      "kid": "b9efddbddee53f5a50b27b036cbb664d",
-      "key": "509febb7bba5c50df88a647646bd8e8e"
-    },
-    "sources": []
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Dominican Republic VS Colombia",
-    "imageUrl": "",
-    "okassetkey": "161731675062",
-    "widevine_data": {
-      "kid": "b21175ee7d9842f63ff266ef55bfd499",
-      "key": "880923845c2a48a0e7798f6e222b5299"
-    },
-    "sources": []
-  },
-  {
-    "id": 5,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "New South Wales Breakers VS Western Australia Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133958_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "387674614492",
+    "okassetkey": "226585741063",
     "widevine_data": {
-      "kid": "2e0065b815fb97bf60c59541fc4f74fb",
-      "key": "8f0f9632b57f2bd7ff0c6aeb50632912"
+      "kid": "ba31919136865fdcaa8b2e240303dc8e",
+      "key": "14793d1d566b784deae48d5bd7f79468"
     },
     "sources": [
       {
@@ -83,19 +55,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-133958.m3u8"
       }
     ]
-  },
-  {
-    "id": 6,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "BWIN GRAND PRIX OF AUSTRIA",
-    "imageUrl": "",
-    "okassetkey": "725035436360",
-    "widevine_data": {
-      "kid": "3bb08558d02b6d604a2f7472bd97c5c8",
-      "key": "79eefa3a14dee5129d4b65e089488952"
-    },
-    "sources": []
   }
 ]
