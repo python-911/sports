@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Detroit Tigers VS Seattle Mariners",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137572_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "188455450223",
+    "okassetkey": "576259337974",
     "widevine_data": {
-      "kid": "c1b4b8b01394eea9a877b680fd8545c9",
-      "key": "7cb357ad8a30899079d969dc62db2da9"
+      "kid": "05813ce887a169b7a1ae8107764c94b2",
+      "key": "0a5fbebdbf7377864a95aab6d70149e2"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "Dubai VS Fujairah",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "116906274107",
+    "okassetkey": "971673052799",
     "widevine_data": {
-      "kid": "3376249b840decf251c1d65a0f16c270",
-      "key": "e80274d57ce7b2dfdbe760ee43ed49ec"
+      "kid": "c6a7062d3be892b81965714b930f1be6",
+      "key": "33fb5e2701b0c5188adf68177ff17437"
     },
     "sources": [
       {
@@ -44,10 +44,10 @@
     "isLive": "true",
     "title": "VfL Wolfsburg Women VS Paris Saint-Germain Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137458_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "370803134442",
+    "okassetkey": "445170642826",
     "widevine_data": {
-      "kid": "fe93ac7eca3d14f3e28b06df54aff54a",
-      "key": "c5c5e492676ce35400ce1265a621e1c5"
+      "kid": "a165200c7606b59f67a61f6943fe82cb",
+      "key": "c82e492027e0a710160c8c2c7dc7df35"
     },
     "sources": [
       {
@@ -63,10 +63,10 @@
     "isLive": "true",
     "title": "Manchester United Women VS Valerenga Fotball Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137457_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "780070234631",
+    "okassetkey": "402327558146",
     "widevine_data": {
-      "kid": "1a47afeaac9881c80739a7cce46037ed",
-      "key": "54337f3b07ccf97e1e0407a48ac50ce3"
+      "kid": "ea3980fb85c6369f4b689c0dad2f8083",
+      "key": "c5eea5bd87defc1fd80ebf5332f2db98"
     },
     "sources": [
       {
@@ -82,10 +82,10 @@
     "isLive": "true",
     "title": "SKN St. Polten Women VS Club Atletico de Madrid Femenino",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137456_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "188845080472",
+    "okassetkey": "714634529312",
     "widevine_data": {
-      "kid": "f1929e2f8417c82d16a94886ed8de24f",
-      "key": "f6e1a44f8b1c6d1f5f8958894c5a874d"
+      "kid": "a55ef326eef48ecbbace525db9b35c6f",
+      "key": "961ba30a32f156d60a717061aec0687b"
     },
     "sources": [
       {
@@ -101,10 +101,10 @@
     "isLive": "true",
     "title": "Niger VS Congo",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137365_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "772130021067",
+    "okassetkey": "116909445906",
     "widevine_data": {
-      "kid": "c96a61ff120d67eeebad54d5dcd5d122",
-      "key": "fccaa1b0e2cf53b3cf88a33cd8021a07"
+      "kid": "c5cb6af163ade0346e0912c6a5189fe4",
+      "key": "9754f943c9dfd00caa5e1d5115775fba"
     },
     "sources": [
       {
@@ -120,34 +120,15 @@
     "isLive": "true",
     "title": "Tanzania VS Zambia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137364_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "675213418958",
+    "okassetkey": "319561322876",
     "widevine_data": {
-      "kid": "a98b3683b618b2aeaf71af943ae51670",
-      "key": "38494ce77443dbcc371910262dd63257"
+      "kid": "166b917e54af609750656857067d2c0f",
+      "key": "9b930c9448158c0d11dfd7d67ae2d737"
     },
     "sources": [
       {
         "name": "HLS",
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137364.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Indonesia VS Saudi Arabia",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137264_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "707688473008",
-    "widevine_data": {
-      "kid": "37347f1ae271b3d6d3c717954733018e",
-      "key": "6931a8e8abb1a075f29e3b6eec5f383e"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137264.m3u8"
       }
     ]
   }
