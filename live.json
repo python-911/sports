@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Milwaukee Brewers VS Chicago Cubs",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137573_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "900838808450",
+    "okassetkey": "798711244260",
     "widevine_data": {
-      "kid": "831b5cc7cf758c0aa3513cffad04649c",
-      "key": "919ed8eb33d2e29a368cbddd724f51a4"
+      "kid": "0701a85895c474a0b29772d83cb1d318",
+      "key": "4a82b2b1fbf5bf7087c181903a8a0d7e"
     },
     "sources": [
       {
@@ -17,38 +17,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137573.m3u8"
       }
     ]
-  },
-  {
-    "id": 2,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Detroit Tigers VS Seattle Mariners",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137572_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "922689906165",
-    "widevine_data": {
-      "kid": "038a942b42c3bf691b0ecc9a5ccad1fd",
-      "key": "68da908b489a3192882699d0d4acc958"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137572.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Baneasa VS Cluj",
-    "imageUrl": "",
-    "okassetkey": "807726564838",
-    "widevine_data": {
-      "kid": "507863f3a13fe599012eb715b5e90a84",
-      "key": "3064ec608e813b640b41004cf5542d38"
-    },
-    "sources": []
   }
 ]
