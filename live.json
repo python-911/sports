@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Puneri Paltan vs U Mumba",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6513/1759835486513-h",
-    "okassetkey": "906454611161",
+    "okassetkey": "310362139712",
     "widevine_data": {
-      "kid": "2aea3c5a9ffbbfb00571eafa21380bf8",
-      "key": "ad2cc61aabfd4cfff2461c28c62556bd"
+      "kid": "c88e188f6286ed0d218938199a695a83",
+      "key": "a76f770432ceb95e8663a1aca3bce6f5"
     },
     "sources": [
       {
@@ -61,10 +61,10 @@
     "isLive": "true",
     "title": "Australia W vs Pakistan W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3386/1759834923386-h",
-    "okassetkey": "074965698487",
+    "okassetkey": "452935381256",
     "widevine_data": {
-      "kid": "8eb89abd0a16b816c8e023f09f91662b",
-      "key": "0036e63686623526a453637ae0986ae3"
+      "kid": "cda34793084114ba03f2bac7af951c2e",
+      "key": "097128522b5ab5c696923e9e30fdf9e7"
     },
     "sources": [
       {
@@ -79,31 +79,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Sharjah VS Ajman",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137481_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "019245095764",
-    "widevine_data": {
-      "kid": "e196d883d24dd061fa39abe482474871",
-      "key": "cf48010b47d063b6e26005ff45b2ce57"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137481.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Sierra Leone VS Burkina Faso",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137358_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "329283514536",
+    "okassetkey": "823402917661",
     "widevine_data": {
-      "kid": "d85140500985453c3e776994352e5cb1",
-      "key": "4bd974a7e95d411dbe799c118928c8b3"
+      "kid": "cb18d4abbf013f6b7e56a67fa1639329",
+      "key": "6069ef863d42846e99898b1fb68893c4"
     },
     "sources": [
       {
@@ -113,16 +94,16 @@
     ]
   },
   {
-    "id": 5,
+    "id": 4,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Djibouti VS Egypt",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137360_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "855268864211",
+    "okassetkey": "446422132132",
     "widevine_data": {
-      "kid": "f52fd3e27292d9cf7d2c91fdeae821a3",
-      "key": "01869dff3cb8ed18fef7b409d56179ba"
+      "kid": "e8947c16d62fa7149fc9b3efe6b390a0",
+      "key": "acde475285140d0e04385b1f9e1f6c02"
     },
     "sources": [
       {
@@ -132,16 +113,16 @@
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Chad VS Mali",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137363_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "309073845637",
+    "okassetkey": "070842098031",
     "widevine_data": {
-      "kid": "123eae4b6b1680f9bef63d6cd07c48ec",
-      "key": "af0ea759b7e611eccde1510aeacf6950"
+      "kid": "f860f407c93ef321e155edf634fc9324",
+      "key": "fdc91f4cb370626a042bb8fc53b9017b"
     },
     "sources": [
       {
@@ -151,16 +132,16 @@
     ]
   },
   {
-    "id": 7,
+    "id": 6,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Comoros VS Madagascar",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137362_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "533181828235",
+    "okassetkey": "523831315535",
     "widevine_data": {
-      "kid": "b03b0c1341fbf502d315b7a26bb4109b",
-      "key": "b44e280fbbe11c9795863520e659e628"
+      "kid": "899165f4151618824ef6dc8a9831a836",
+      "key": "fc70ce3c09fad7f542ac533448ac4d24"
     },
     "sources": [
       {
@@ -170,16 +151,16 @@
     ]
   },
   {
-    "id": 8,
+    "id": 7,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Central African Republic VS Ghana",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137361_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "071476297546",
+    "okassetkey": "622113497325",
     "widevine_data": {
-      "kid": "b793637dfe7e5af51eb1680206e28f77",
-      "key": "b2274b0d0186b85c1bbc45a884736db9"
+      "kid": "731329f1afa69cc2f6b0bb0f978260cc",
+      "key": "9b45faac3b5f3b12e4cfdbdbb4516a8f"
     },
     "sources": [
       {
@@ -189,16 +170,16 @@
     ]
   },
   {
-    "id": 9,
+    "id": 8,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Nepal VS Kuwait",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137176_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "635273245811",
+    "okassetkey": "559772830809",
     "widevine_data": {
-      "kid": "2572cb992e5786a5dfc23bcbb8163f7c",
-      "key": "956d21f1e080a63f240fb9066a73ccae"
+      "kid": "0c5230c4c78696e7a497a1289fe6e5f0",
+      "key": "b49cfdcfd8ef60b021810db22cf922ad"
     },
     "sources": [
       {
@@ -208,16 +189,16 @@
     ]
   },
   {
-    "id": 10,
+    "id": 9,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Oman VS Qatar",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137124_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "750276611463",
+    "okassetkey": "562567698869",
     "widevine_data": {
-      "kid": "a99d9f948899b63374848d32de62470e",
-      "key": "c0f690c00d26dc9f2420e6c3c0e4a89f"
+      "kid": "0911090dfa7e5f0b710c55910dcc8945",
+      "key": "dbbb3b7b9e5c6fe719459f778c496272"
     },
     "sources": [
       {
@@ -227,16 +208,16 @@
     ]
   },
   {
-    "id": 11,
+    "id": 10,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "336793496324",
+    "okassetkey": "075754305475",
     "widevine_data": {
-      "kid": "ae96ec24156dd3cf40126fe25599c5cc",
-      "key": "6e54ff676b7df2a7b3cad44304e5b403"
+      "kid": "9eb21b0454bc19b3130cc924c5abfd4b",
+      "key": "477f9114086360d9589ace8f68fec684"
     },
     "sources": [
       {
@@ -246,16 +227,16 @@
     ]
   },
   {
-    "id": 12,
+    "id": 11,
     "genre": "Game Show",
     "payType": "P",
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "325937364181",
+    "okassetkey": "103427446133",
     "widevine_data": {
-      "kid": "8d54b50951ce21ff74a49a41dc603f74",
-      "key": "40190619d41e6aec3c7ce0c5b9c43807"
+      "kid": "d9ccb206b6f5805b787af21d32ef8728",
+      "key": "004c9c2c0becf3e555dc2b6d33c2fbb9"
     },
     "sources": [
       {
