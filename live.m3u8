@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009963/1759836605688132_IF25_Gibraltar_vs_NewCaledonia_Landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
+https://live-aws-cdn.okflix.top/hls/sliv1-1090491860.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6513/1759835486513-h" group-title="KABADDI",Puneri Paltan vs U Mumba
 https://live-aws-cdn.okflix.top/hls/hin/hs-1540050528.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6513/1759835486513-h" group-title="KABADDI",Puneri Paltan vs U Mumba
@@ -15,8 +17,6 @@ https://live-aws-cdn.okflix.top/hls/tel/hs-1540050528.m3u8
 https://live-aws-cdn.okflix.top/hls/tam/hs-1540050528.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6513/1759835486513-h" group-title="KABADDI",Puneri Paltan vs U Mumba
 https://live-aws-cdn.okflix.top/hls/kan/hs-1540050528.m3u8
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3386/1759834923386-h" group-title="Cricket",Australia W vs Pakistan W
-https://live-aws-cdn.okflix.top/hls/eng/hs-1540051848.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137358_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Sierra Leone VS Burkina Faso
 https://live-aws-cdn.okflix.top/hls/fan1-137358.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137360_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Djibouti VS Egypt
