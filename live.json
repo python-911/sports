@@ -1,15 +1,70 @@
 [
   {
     "id": 1,
+    "genre": "KABADDI",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Telugu Titans vs Haryana Steelers",
+    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/5618/1759835415618-h",
+    "okassetkey": "552456146383",
+    "widevine_data": {
+      "kid": "5b412b7bcd54858b04387e4533a81edc",
+      "key": "cdfda94b01410930dac6378f08e7b62d"
+    },
+    "sources": [
+      {
+        "name": "Hindi",
+        "language": "hin",
+        "hls": "https://live-aws-cdn.okflix.top/hls/hin/hs-1540050528.m3u8"
+      },
+      {
+        "name": "English",
+        "language": "eng",
+        "hls": "https://live-aws-cdn.okflix.top/hls/eng/hs-1540050528.m3u8"
+      },
+      {
+        "name": "Haryanvi",
+        "language": "har",
+        "hls": "https://live-aws-cdn.okflix.top/hls/har/hs-1540050528.m3u8"
+      },
+      {
+        "name": "Bhojpuri",
+        "language": "bih",
+        "hls": "https://live-aws-cdn.okflix.top/hls/bih/hs-1540050528.m3u8"
+      },
+      {
+        "name": "Marathi",
+        "language": "mar",
+        "hls": "https://live-aws-cdn.okflix.top/hls/mar/hs-1540050528.m3u8"
+      },
+      {
+        "name": "Telugu",
+        "language": "tel",
+        "hls": "https://live-aws-cdn.okflix.top/hls/tel/hs-1540050528.m3u8"
+      },
+      {
+        "name": "Tamil",
+        "language": "tam",
+        "hls": "https://live-aws-cdn.okflix.top/hls/tam/hs-1540050528.m3u8"
+      },
+      {
+        "name": "Kannada",
+        "language": "kan",
+        "hls": "https://live-aws-cdn.okflix.top/hls/kan/hs-1540050528.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 2,
     "genre": "Archery",
     "payType": "P",
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543059966452_APL25_Day7_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "200964254355",
+    "okassetkey": "880900220435",
     "widevine_data": {
-      "kid": "ea6b5a2e911900ce4ddd19ce6c71e9b3",
-      "key": "2839f1430eaa1bc011e565be03e5d272"
+      "kid": "c3a767cdb5a370e18677ec883cab21aa",
+      "key": "b434754b3870e33d71c317567f4e26b4"
     },
     "sources": [
       {
@@ -20,16 +75,16 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "genre": "Cricket",
     "payType": "P",
     "isLive": "true",
     "title": "Australia W vs Pakistan W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3386/1759834923386-h",
-    "okassetkey": "633319701778",
+    "okassetkey": "858668469294",
     "widevine_data": {
-      "kid": "e133969faae8ff4e37e717a0c46584af",
-      "key": "c0e5ef4726b0925822735d46da60027a"
+      "kid": "1aba61d81120dd4dd24f234adea4f504",
+      "key": "5830588a4b9a23525f669dd517e9dc03"
     },
     "sources": [
       {
@@ -40,16 +95,16 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "genre": "Tennis",
     "payType": "P",
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009657/175925330553358_ATP1000_Shanghai_Masters_30sep_round4_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "625902202355",
+    "okassetkey": "987278364055",
     "widevine_data": {
-      "kid": "1886cb0b009ad4cd676750c19006ab4b",
-      "key": "47a3fa5b72759e005b7a51da5c0296ce"
+      "kid": "1d8d0cea1955a470c6feb666c9c85597",
+      "key": "1f50281d3c929291e6f55c8285fdbe46"
     },
     "sources": [
       {
@@ -60,16 +115,16 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Sharjah VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137481_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "382422831388",
+    "okassetkey": "358139005557",
     "widevine_data": {
-      "kid": "9f5c559ae4b8930bab236d99313440f4",
-      "key": "253086e8b8f6d992108dd27c15cd82b6"
+      "kid": "0b0a76e94657792631ab636018a9cfc8",
+      "key": "46814d3264ab45e28cc19a29f14b5843"
     },
     "sources": [
       {
@@ -79,35 +134,30 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Mauritius VS Cameroon",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137349_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "043227114394",
+    "okassetkey": "437637064708",
     "widevine_data": {
-      "kid": "06eaf4cdc2d4d85e744923992c1b1696",
-      "key": "b7ab64d02f18f103469f3187853a64ea"
+      "kid": "183530d5ef12c9c75fb1395c7e4236bb",
+      "key": "283993ed98f345be9a7e4f6a584879e7"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137349.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
-    "id": 6,
+    "id": 7,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Eswatini VS Angola",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137351_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "540729263065",
+    "okassetkey": "397298225013",
     "widevine_data": {
-      "kid": "6ea3793f8dc41807d60337a371ba42fc",
-      "key": "a986e31281462a2e57a7e499967a3438"
+      "kid": "30d0265775a2ad738c706d37eace80b0",
+      "key": "335630bfd8c952d3386fb1f8bbc77088"
     },
     "sources": [
       {
@@ -117,16 +167,16 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Ethiopia VS Guinea-Bissau",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137346_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "096557839396",
+    "okassetkey": "296478431734",
     "widevine_data": {
-      "kid": "ed70a9274f05b1dfd8ad9b70789d14ee",
-      "key": "cfa0de3967b93051645644e6a2d7d2e5"
+      "kid": "85cd97b769e4908b6303d100369a1f59",
+      "key": "230afdc769e4b14db7869a8821fd00d4"
     },
     "sources": [
       {
@@ -136,16 +186,16 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Libya VS Cabo Verde",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137352_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "229152048140",
+    "okassetkey": "058516392805",
     "widevine_data": {
-      "kid": "ecfbe4a498eb21c4d65d46c4fa80387f",
-      "key": "1719e4c6fc251d6dc8a3b7622df5e9d4"
+      "kid": "f939b4a83f07b6726e7c64943aab5ef6",
+      "key": "5d50712ebbd7e7c9e4c89715a3447b6e"
     },
     "sources": [
       {
@@ -155,16 +205,16 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "United Arab Emirates VS Qatar",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137175_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "926631700959",
+    "okassetkey": "749307609149",
     "widevine_data": {
-      "kid": "1ef4f5237095648be4022ff30538473d",
-      "key": "e411757b578d53b5f3de8ba73a79b39f"
+      "kid": "4f04b4f5c88122dd0265f02c3cd57b47",
+      "key": "4b54c180bfe36a22f4c9f79f2d28484c"
     },
     "sources": [
       {
@@ -174,16 +224,16 @@
     ]
   },
   {
-    "id": 10,
+    "id": 11,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "003992925533",
+    "okassetkey": "726989316779",
     "widevine_data": {
-      "kid": "e6d73642c6118f5bf440d5c4373394d7",
-      "key": "6d3e3c95f6b5a61997207304e5856bba"
+      "kid": "84695a491cdcc2553f17fca50d267673",
+      "key": "b052dc4fced24817dbf2956bd1d2ace5"
     },
     "sources": [
       {
@@ -191,5 +241,47 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-136881.m3u8"
       }
     ]
+  },
+  {
+    "id": 12,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Nicaragua VS Argentina",
+    "imageUrl": "",
+    "okassetkey": "670238956337",
+    "widevine_data": {
+      "kid": "e97098e660b866b29b2e719bd058f721",
+      "key": "dac211ccfe3e70f06aeaf2c0f665c12f"
+    },
+    "sources": []
+  },
+  {
+    "id": 13,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Mis Ainak Region VS Boost Region",
+    "imageUrl": "",
+    "okassetkey": "825782008659",
+    "widevine_data": {
+      "kid": "a7b836329a9be6315a11583eb2af56d9",
+      "key": "08063f53e6ac1946b85b502e4b92595a"
+    },
+    "sources": []
+  },
+  {
+    "id": 14,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "FiberXers VS Barangay",
+    "imageUrl": "",
+    "okassetkey": "624149448709",
+    "widevine_data": {
+      "kid": "dde6d7089a9f1f9a5f9dd2ec1e71f498",
+      "key": "fc3d81a01b233132688e8acc14e9c195"
+    },
+    "sources": []
   }
 ]
