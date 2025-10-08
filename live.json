@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Puneri Paltan vs U Mumba",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6513/1759835486513-h",
-    "okassetkey": "882256448636",
+    "okassetkey": "011370579189",
     "widevine_data": {
-      "kid": "49292ce932ea64cc2f4ef7c1c38e2c8c",
-      "key": "f77520cb6605621de346934a4bb215e9"
+      "kid": "31ddfe57db5b658746dde0f6c2e972e7",
+      "key": "ffa231f1fbcebf7fde272fc2cbafb0d5"
     },
     "sources": [
       {
@@ -61,10 +61,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543059966452_APL25_Day7_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "720371356197",
+    "okassetkey": "069199955955",
     "widevine_data": {
-      "kid": "5ec94a9480c1e8d0567fec9e16d7d1ce",
-      "key": "1d3c5ce60288a28f299da8970f75f411"
+      "kid": "147165f6a06e6fd505769d4a90fd999e",
+      "key": "b796843ea8eaecb835f6c134f822007b"
     },
     "sources": [
       {
@@ -81,10 +81,10 @@
     "isLive": "true",
     "title": "Australia W vs Pakistan W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3386/1759834923386-h",
-    "okassetkey": "773638343947",
+    "okassetkey": "718066725387",
     "widevine_data": {
-      "kid": "fbe5e48f7cb97ea5e39ff16f894e9fb5",
-      "key": "923a503e6bac164a4a8a575383fdbc91"
+      "kid": "91c6e8e1c404ff621f1dfe8b5aaf596e",
+      "key": "7c22f12852114fe685950dffcc64e225"
     },
     "sources": [
       {
@@ -101,10 +101,10 @@
     "isLive": "true",
     "title": "Sharjah VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137481_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "312914773551",
+    "okassetkey": "244748750944",
     "widevine_data": {
-      "kid": "33ca77222ac55904ee1f8a8d485bad9a",
-      "key": "b9bb0575871129e138ee1ec109a501a9"
+      "kid": "1a9cd02565255e2c597981085c591a5d",
+      "key": "b5e8d85f10352f691a26241af8226844"
     },
     "sources": [
       {
@@ -118,12 +118,107 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
+    "title": "Sierra Leone VS Burkina Faso",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137358_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "868826568231",
+    "widevine_data": {
+      "kid": "5015f4a751de610e4242780817f55669",
+      "key": "d3acae9e2b19240aff9634519184ea78"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137358.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Djibouti VS Egypt",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137360_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "992783305165",
+    "widevine_data": {
+      "kid": "244c64ffe2ecdedaeb79e148ac1c03bf",
+      "key": "5c3f59abd714c9e4b63273e7e01c496c"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137360.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Chad VS Mali",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137363_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "785861320280",
+    "widevine_data": {
+      "kid": "afef7abf2d857d0c7b2df0513f32f728",
+      "key": "c8dfcedc3a31e8049759ce29dc5268ac"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137363.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Comoros VS Madagascar",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137362_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "450526687980",
+    "widevine_data": {
+      "kid": "8fc6cdeb8d33c5426c40436bc0a3c823",
+      "key": "8368a6a1661585b51c2c422c944adf9d"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137362.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Central African Republic VS Ghana",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137361_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "726498509818",
+    "widevine_data": {
+      "kid": "b0d2b1ad944c3e92ed6621824f080e1d",
+      "key": "b28ae24853f0f219dc07b85c497145c6"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137361.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
     "title": "Nepal VS Kuwait",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137176_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "558997637208",
+    "okassetkey": "512684055196",
     "widevine_data": {
-      "kid": "74f0f3a280a0d23363c8e552b95d228e",
-      "key": "ad8a6da853297b95582f46eac9d771dd"
+      "kid": "4bf4e5fd7826c5ebdb4d0fe287f06d11",
+      "key": "9789ce2024461d536177498b5184d41f"
     },
     "sources": [
       {
@@ -133,16 +228,16 @@
     ]
   },
   {
-    "id": 6,
+    "id": 11,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Oman VS Qatar",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137124_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "809324396395",
+    "okassetkey": "142235013901",
     "widevine_data": {
-      "kid": "6146bc4c6372fe3f36d0c81c19171f59",
-      "key": "424dbc28f89d015d1042a445ab35d6a7"
+      "kid": "7e18038bd21de2d4f8d7990b39ee5e68",
+      "key": "1dfdb922027ac9669d56507d39a5a5e9"
     },
     "sources": [
       {
@@ -152,16 +247,16 @@
     ]
   },
   {
-    "id": 7,
+    "id": 12,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "848167174750",
+    "okassetkey": "667866094896",
     "widevine_data": {
-      "kid": "98b40019b3748e0e0f5f48f3b77f4e4f",
-      "key": "3acd45a0a01458521b16a50470e5ce58"
+      "kid": "6838528788574b8dc094791355073143",
+      "key": "6f5a9986dac828e283c082837ab16f85"
     },
     "sources": [
       {
@@ -171,16 +266,16 @@
     ]
   },
   {
-    "id": 8,
+    "id": 13,
     "genre": "Game Show",
     "payType": "P",
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "695011285376",
+    "okassetkey": "637239849963",
     "widevine_data": {
-      "kid": "c5f752fe1645dcc19497e43ff2798fac",
-      "key": "03758782e1f749c39e6d14c724d3bbba"
+      "kid": "b648a7a3aa4e568c72884811fbf5ffb4",
+      "key": "ccc6a7c38c6d013f92e46c8f3702b897"
     },
     "sources": [
       {
