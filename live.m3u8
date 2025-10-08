@@ -19,12 +19,12 @@ https://live-aws-cdn.okflix.top/hls/kan/hs-1540050528.m3u8
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491807.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3386/1759834923386-h" group-title="Cricket",Australia W vs Pakistan W
 https://live-aws-cdn.okflix.top/hls/eng/hs-1540051848.m3u8
-#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009657/175925330553358_ATP1000_Shanghai_Masters_30sep_round4_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Tennis",Sony Sports Ten 5
-https://live-aws-cdn.okflix.top/hls/sliv1-1090491804.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137481_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Sharjah VS Ajman
 https://live-aws-cdn.okflix.top/hls/fan1-137481.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137176_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Nepal VS Kuwait
 https://live-aws-cdn.okflix.top/hls/fan1-137176.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137124_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Oman VS Qatar
+https://live-aws-cdn.okflix.top/hls/fan1-137124.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Afghanistan VS Bangladesh
 https://live-aws-cdn.okflix.top/hls/fan1-136881.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low" group-title="Game Show",SET
