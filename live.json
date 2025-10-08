@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009963/1759836605688132_IF25_Gibraltar_vs_NewCaledonia_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "923574640567",
+    "okassetkey": "565539716956",
     "widevine_data": {
-      "kid": "12dc46941fbf575824d656aa4296d910",
-      "key": "bd3429cd4ca43fbb9ed78ed50f0f1eb2"
+      "kid": "25dc5a62ed355ba920c567d8c48f21fc",
+      "key": "acc751f8c26e4529c23d4768141809cc"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Dubai VS Fujairah",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "354966940539",
+    "okassetkey": "216111664696",
     "widevine_data": {
-      "kid": "a6a8e079bc714d0c0dd525cf6d663578",
-      "key": "f99e3a1dbc00381b294ad7b89207f8f1"
+      "kid": "3aadde879273857bae8f179d7bf6a176",
+      "key": "aaf27d7616fe4e308b14726e43ecfd43"
     },
     "sources": [
       {
@@ -45,10 +45,10 @@
     "isLive": "true",
     "title": "Real Madrid Women VS Roma Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137455_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "631987922129",
+    "okassetkey": "865470568695",
     "widevine_data": {
-      "kid": "01efab3c06c0617b7f3b7453f5197f0f",
-      "key": "d20d5b8e71e65b678127829244fddea1"
+      "kid": "1eb6f1b56987f825cbdd708af75662cb",
+      "key": "9613851b2297eae01c969cf2d2cd3ded"
     },
     "sources": [
       {
@@ -64,10 +64,10 @@
     "isLive": "true",
     "title": "FC Twente Women VS Chelsea F.C. Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137453_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "284577626074",
+    "okassetkey": "845773629413",
     "widevine_data": {
-      "kid": "5826f5dac40254158494bc6c1e087bab",
-      "key": "5fc4ee5142a310ddbf366116573a4061"
+      "kid": "e2426d04eb0c241ad031e0c2e3231607",
+      "key": "69f1252e192e7287cc6c45a6478630ae"
     },
     "sources": [
       {
@@ -83,17 +83,12 @@
     "isLive": "true",
     "title": "Chad VS Mali",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137363_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "960672999011",
+    "okassetkey": "004725610030",
     "widevine_data": {
-      "kid": "8fd3b5a1c602578ccd1366a63cf27915",
-      "key": "064b3bdde7938205b2d0d245524d9cda"
+      "kid": "377ed32ea1642beb1ed35caf6753fa8a",
+      "key": "fe76fd696d5834df22ab9da0887900a2"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137363.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 6,
@@ -102,10 +97,10 @@
     "isLive": "true",
     "title": "Indonesia VS Saudi Arabia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137264_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "277405195622",
+    "okassetkey": "519581034363",
     "widevine_data": {
-      "kid": "4933098dfba4764a00276eee72d3197a",
-      "key": "548263d1cf9640f809ef771cfbe8d226"
+      "kid": "c53a4ae6ac3c3d533a30dd1a87855809",
+      "key": "542b41d85aae904e370e7c41c243852d"
     },
     "sources": [
       {
@@ -121,10 +116,10 @@
     "isLive": "true",
     "title": "Nepal VS Kuwait",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137176_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "836542176137",
+    "okassetkey": "067831763892",
     "widevine_data": {
-      "kid": "514b20422ab047779335c5228752e95e",
-      "key": "abc8d0ea47d36d5076963af77c94b8c3"
+      "kid": "f4e591b7a9e5f1b03b8468fc8d01470e",
+      "key": "54fae59fbec8fa490208a31166879c79"
     },
     "sources": [
       {
@@ -140,10 +135,10 @@
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "446257365398",
+    "okassetkey": "364387423871",
     "widevine_data": {
-      "kid": "9c03d6b228521064d9e203434755a0d7",
-      "key": "4b0cce296439036d273eb91863e722f4"
+      "kid": "5d74855ea3744ff2a2a22762fceff629",
+      "key": "8d0b0dbd2c9c4388460ed1ddf3007221"
     },
     "sources": [
       {
@@ -159,10 +154,10 @@
     "isLive": "true",
     "title": "United CC Bucharest VS Lankan Lions",
     "imageUrl": "https://images.fancode.com/aig/match/v1/135755_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "575343349298",
+    "okassetkey": "708756756453",
     "widevine_data": {
-      "kid": "7a8356d338ea96141d9579a70f854df7",
-      "key": "be40817982521e73ccbe25ee5140a499"
+      "kid": "d1877b45b31e1048866d2d2ead135e56",
+      "key": "39b943f5e24696205c265dd4a87d3e4e"
     },
     "sources": []
   },
@@ -173,10 +168,10 @@
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "579698562479",
+    "okassetkey": "168186735022",
     "widevine_data": {
-      "kid": "7c2dde73836e625a855c73dad4cde4b8",
-      "key": "9af22ae58a49071d149b41cdaaebfc54"
+      "kid": "f9bc5695eac6fe38ef4f66f4c85d9242",
+      "key": "d277ccca9bc14bcc67da893b3c394580"
     },
     "sources": [
       {
