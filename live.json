@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Detroit Tigers VS Seattle Mariners",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137572_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "197876847918",
+    "okassetkey": "362004207554",
     "widevine_data": {
-      "kid": "75bdfd8c9fd22226aa2e48657b0de154",
-      "key": "dbb9fe16d044ed0fb1e4cd65bf4bd06f"
+      "kid": "35fb4c0a0d2644a511b2c7a8b7fc0c75",
+      "key": "e538733655a46ae50035887eac884526"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "Dubai VS Fujairah",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "827506060057",
+    "okassetkey": "815262536214",
     "widevine_data": {
-      "kid": "c0cab00097dc02f52cbaf77fd7179c55",
-      "key": "9cb550bc3e6124e2581489abb826db11"
+      "kid": "02ad9299f70c8a5046f715ac229e8d27",
+      "key": "53d112b9e803eba818011f734586d1e7"
     },
     "sources": [
       {
@@ -44,17 +44,12 @@
     "isLive": "true",
     "title": "SKN St. Polten Women VS Club Atletico de Madrid Femenino",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137456_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "901266287026",
+    "okassetkey": "904323826527",
     "widevine_data": {
-      "kid": "fce4314c89d46dbeb9761b167992c4ef",
-      "key": "c82daf57c580c553a9b9f640e06b1bc9"
+      "kid": "c4ea0e54288bc70ae437bb59c3770020",
+      "key": "b5fc8cb6c3b914ae231cbc18ef83ecd8"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137456.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 4,
@@ -63,10 +58,10 @@
     "isLive": "true",
     "title": "Niger VS Congo",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137365_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "578263361025",
+    "okassetkey": "780006049477",
     "widevine_data": {
-      "kid": "c1072798f4e1658a99ce42299c961dd8",
-      "key": "4fb60cd7616aee0bb5bac464368eb5d9"
+      "kid": "34c3b98338627eb1bc1bfd8c1b4d4c2d",
+      "key": "38abaa20bbc51ad73b2eadc81d8994a0"
     },
     "sources": [
       {
@@ -82,10 +77,10 @@
     "isLive": "true",
     "title": "Tanzania VS Zambia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137364_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "771433671591",
+    "okassetkey": "260771838445",
     "widevine_data": {
-      "kid": "0f2fc34f51924c553b98d9083080a4e0",
-      "key": "ddb0ad2dcee6a737f7ad5fcade0dbeef"
+      "kid": "358e6c6b17bb620fe316f598e5b0954c",
+      "key": "d54f784b567523d5409f55c0bfff5c4d"
     },
     "sources": [
       {
