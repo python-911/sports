@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009963/1759836605688132_IF25_Gibraltar_vs_NewCaledonia_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "670651675268",
+    "okassetkey": "886808504404",
     "widevine_data": {
-      "kid": "9f245d85752c4c2e950afd159f8a9aae",
-      "key": "649ab437decc1ddba7a5b0edd607fa41"
+      "kid": "4b117e81f5cfd87b4e2f97aa8e69c0e9",
+      "key": "f466a810f2681dec6d7576840aac4e23"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Dubai VS Fujairah",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "840717394255",
+    "okassetkey": "193901589675",
     "widevine_data": {
-      "kid": "5ae5846ea952d0c65eeffce0bee0435d",
-      "key": "7b0ebb546b517d3966d8fc1751c0df41"
+      "kid": "5a527cc12fe4f1c115d8ae42d8240b56",
+      "key": "8ad878768beaa62e7d73410835a2c994"
     },
     "sources": [
       {
@@ -45,12 +45,17 @@
     "isLive": "true",
     "title": "Indonesia VS Saudi Arabia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137264_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "088439498089",
+    "okassetkey": "184009615115",
     "widevine_data": {
-      "kid": "79b11bb20abb426f425c3ba59bc827f9",
-      "key": "b17d8891cb98560511485a3de10da8e2"
+      "kid": "3c94a3f90e93f1a72a3364ec2a733697",
+      "key": "6d58cb63e75cd307b72a26b11454d259"
     },
-    "sources": []
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137264.m3u8"
+      }
+    ]
   },
   {
     "id": 4,
@@ -59,10 +64,10 @@
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "326324631433",
+    "okassetkey": "937496933050",
     "widevine_data": {
-      "kid": "c62f18849ba0d38cd25200af2f4d84b3",
-      "key": "78b0d0ed6ac0af6e6ff923279e361d3f"
+      "kid": "e0d1005661536a792814d4ec5c7db2b5",
+      "key": "b75eece7584d6eed3d655fbf39ca4a1f"
     },
     "sources": [
       {
@@ -78,10 +83,10 @@
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "470067629240",
+    "okassetkey": "112469372397",
     "widevine_data": {
-      "kid": "2bb8d9649d5e6de70db03b62afdaee91",
-      "key": "a355e88a02f0b83b811341c704f8a0ef"
+      "kid": "dda30904568054e98df84fa8c7dae612",
+      "key": "90eeecc0e082f1d96e8c7ccb78241d67"
     },
     "sources": [
       {
