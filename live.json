@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009963/1759836605688132_IF25_Gibraltar_vs_NewCaledonia_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "719834401975",
+    "okassetkey": "585396187683",
     "widevine_data": {
-      "kid": "ac82975773cb01fd27f8634ef19f4dd4",
-      "key": "1725a1c145c19b1e2e71e9ea79bf0a99"
+      "kid": "b607bfa2e2d54e156b093b7ac2c2289a",
+      "key": "4d053a082ddcc907ea128357fc8ff797"
     },
     "sources": [
       {
@@ -26,14 +26,14 @@
     "isLive": "true",
     "title": "Dubai VS Fujairah",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "686879929720",
+    "okassetkey": "632461678273",
     "widevine_data": {
-      "kid": "467ab8ad0e024444da6ec789629fe1db",
-      "key": "a7bcd8928159c37b52404368b3856b1d"
+      "kid": "69a211976867ef297610a8ffed522619",
+      "key": "011900147f6a207134cf1b9a9ba70d59"
     },
     "sources": [
       {
-        "name": "English",
+        "name": "HLS",
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137482.m3u8"
       }
     ]
@@ -45,14 +45,14 @@
     "isLive": "true",
     "title": "Real Madrid Women VS Roma Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137455_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "566020312280",
+    "okassetkey": "400772308838",
     "widevine_data": {
-      "kid": "63dc5195e071e53e319f30b7b8932734",
-      "key": "8f67531a20403068f4230c225ba70a0a"
+      "kid": "088058f05601460fc5554b5582be883c",
+      "key": "ee695c642b235efa573e6320d0f517a9"
     },
     "sources": [
       {
-        "name": "English",
+        "name": "HLS",
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137455.m3u8"
       }
     ]
@@ -64,14 +64,14 @@
     "isLive": "true",
     "title": "FC Twente Women VS Chelsea F.C. Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137453_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "836658483489",
+    "okassetkey": "058989387014",
     "widevine_data": {
-      "kid": "dc340ef9d6ccf0bf8f75e4be119e762b",
-      "key": "53e35669cbb67cbc2fb9d560037e6812"
+      "kid": "74ee5610fd6de46ba88a0da94670f91f",
+      "key": "1137a14a6028dee6ae9ddc457a82522b"
     },
     "sources": [
       {
-        "name": "English",
+        "name": "HLS",
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137453.m3u8"
       }
     ]
@@ -81,17 +81,17 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Sierra Leone VS Burkina Faso",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137358_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "769151584212",
+    "title": "Chad VS Mali",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137363_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "126003589680",
     "widevine_data": {
-      "kid": "da9a5e63833bce775c4abbe354f75afd",
-      "key": "bdbab1b1592d2d287d122ac5d8855cdf"
+      "kid": "86485aa2c8a37bccd0871f3370f8b26d",
+      "key": "27ef792fd2a84f7f9badfc82c70f1023"
     },
     "sources": [
       {
         "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137358.m3u8"
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137363.m3u8"
       }
     ]
   },
@@ -100,17 +100,17 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Djibouti VS Egypt",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137360_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "925596495663",
+    "title": "Indonesia VS Saudi Arabia",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137264_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "753180100866",
     "widevine_data": {
-      "kid": "6389c54bed0644f10da0f88d338aeda3",
-      "key": "5e7b65f5c488563e0d835c114a53ab78"
+      "kid": "5f33c1deec891eb10bb37bc4c50edc14",
+      "key": "f470f9e9e800f81ce450636be5f2127c"
     },
     "sources": [
       {
         "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137360.m3u8"
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137264.m3u8"
       }
     ]
   },
@@ -119,17 +119,17 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Chad VS Mali",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137363_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "708408277027",
+    "title": "Nepal VS Kuwait",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137176_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "174467108533",
     "widevine_data": {
-      "kid": "005ee22db40a6286f7dcf9e815fd0da8",
-      "key": "16fa83cf9ced982b56200af6c507792c"
+      "kid": "61b8f5363d4856a3d6f6aae4af111088",
+      "key": "0a6937a7480535df682e51261c3a02a3"
     },
     "sources": [
       {
-        "name": "English",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137363.m3u8"
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137176.m3u8"
       }
     ]
   },
@@ -138,107 +138,31 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Comoros VS Madagascar",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137362_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "540289772117",
-    "widevine_data": {
-      "kid": "56fb2561623a1aff1deb3bad3a2c1702",
-      "key": "241823fb00cc4216c1054099632822f7"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137362.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Central African Republic VS Ghana",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137361_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "263273513613",
-    "widevine_data": {
-      "kid": "8d2dceec956c86ab5aafe2796ea1d191",
-      "key": "e672f6a57d00e0fab0be14b163b77b01"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137361.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Indonesia VS Saudi Arabia",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137264_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "615135125054",
-    "widevine_data": {
-      "kid": "99bea7f0d91bb4ff56234465580a8f1e",
-      "key": "0988bcfe07f13d440fa47272ce571950"
-    },
-    "sources": [
-      {
-        "name": "English",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137264.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Nepal VS Kuwait",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137176_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "871058448670",
-    "widevine_data": {
-      "kid": "5ea548c6600a08935fc6d446e61a11e0",
-      "key": "95e24db97a5b40674d1f47ce98b19b07"
-    },
-    "sources": [
-      {
-        "name": "English",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137176.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "331629224773",
+    "okassetkey": "887901821052",
     "widevine_data": {
-      "kid": "270f745359f52fa8e42660114fd52b02",
-      "key": "e5ab62f721f85966225356c9e7db9268"
+      "kid": "42d88793ad9558aaf0b73073033c1d25",
+      "key": "954ff6acb3686d102814c1f51540e2e0"
     },
     "sources": [
       {
-        "name": "English",
+        "name": "HLS",
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-136881.m3u8"
       }
     ]
   },
   {
-    "id": 13,
+    "id": 9,
     "genre": "Game Show",
     "payType": "P",
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "498333991286",
+    "okassetkey": "034435564448",
     "widevine_data": {
-      "kid": "81cd17f652404ec5d7d1a66aa8023c39",
-      "key": "52227c535c51379cf9d698d225a95bc6"
+      "kid": "989eac3343b2630b3e4202ff9a95889c",
+      "key": "d3ffc0b3946206196aaaac2347394451"
     },
     "sources": [
       {
@@ -247,19 +171,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090486148.m3u8"
       }
     ]
-  },
-  {
-    "id": 14,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Tengapara C.C, Kokrajhar VS City Cricket Club",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/98917_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "443229582216",
-    "widevine_data": {
-      "kid": "402326346de18dcaaaa0d51f68489b56",
-      "key": "d9082f703ec29288800f41887911283e"
-    },
-    "sources": []
   }
 ]
