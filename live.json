@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Dubai VS Fujairah",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "973686385568",
+    "okassetkey": "727858686158",
     "widevine_data": {
-      "kid": "9ab59c461c9163b72769a5278eed751d",
-      "key": "08269b4ef468615982d57a62fce07b46"
+      "kid": "116dcc91df90e1969e66ba07767fed3b",
+      "key": "e11da4319046e88541008edc380fae84"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "VfL Wolfsburg Women VS Paris Saint-Germain Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137458_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "225666783323",
+    "okassetkey": "526596771280",
     "widevine_data": {
-      "kid": "87d973e19beaabbba741c2f93fa7cc97",
-      "key": "a72c44ff08d0027175fd5f4986447d54"
+      "kid": "afad5a32d0e7b9601967256cc3477659",
+      "key": "3d282444485848dc4fb9e8ac7e163d95"
     },
     "sources": [
       {
@@ -44,10 +44,10 @@
     "isLive": "true",
     "title": "Manchester United Women VS Valerenga Fotball Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137457_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "336352567953",
+    "okassetkey": "013643362424",
     "widevine_data": {
-      "kid": "5eaae3418a936513900089f06aab93dd",
-      "key": "1ec2500cd16e7224384e234d72e4cad1"
+      "kid": "237215ed6cd530887a7b5e85676abd72",
+      "key": "5c977b01955e6cfc0b4cb629d00b10db"
     },
     "sources": [
       {
@@ -63,10 +63,10 @@
     "isLive": "true",
     "title": "SKN St. Polten Women VS Club Atletico de Madrid Femenino",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137456_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "087107721863",
+    "okassetkey": "214897884957",
     "widevine_data": {
-      "kid": "c87e6ac8aee78eab4f982c37e0149fb5",
-      "key": "be8d1ac6fdce1b5374225d415fd64379"
+      "kid": "4b599309627fb8f998be97884923a9d7",
+      "key": "6a602fbe09e85dfc83cbab09d215d492"
     },
     "sources": [
       {
@@ -82,10 +82,10 @@
     "isLive": "true",
     "title": "Niger VS Congo",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137365_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "716974431346",
+    "okassetkey": "295180902975",
     "widevine_data": {
-      "kid": "207fa8cf4d5fc1b2704b8b3d325f4141",
-      "key": "08b7d2cb4b97d1ee70afbc689c6a9d74"
+      "kid": "f761bb11af83fcc65e6cd558a78563e4",
+      "key": "675cb924d8b8a2cf5645ec3797a46acd"
     },
     "sources": [
       {
@@ -101,10 +101,10 @@
     "isLive": "true",
     "title": "Tanzania VS Zambia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137364_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "542492755319",
+    "okassetkey": "397529086890",
     "widevine_data": {
-      "kid": "efd5b9b649ee83cc66cbf5345107cc2f",
-      "key": "14bc63374092ab2a779ba4b83c31c2b7"
+      "kid": "b07919c5228944fed308844a3594a72f",
+      "key": "15f9071f5b14b63dab14c9863784922b"
     },
     "sources": [
       {
@@ -120,10 +120,10 @@
     "isLive": "true",
     "title": "Indonesia VS Saudi Arabia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137264_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "063183337590",
+    "okassetkey": "942782741520",
     "widevine_data": {
-      "kid": "4b133d7fd5993f006543ea961cfcd51b",
-      "key": "82e9bf0602808c184eb7681a759bf342"
+      "kid": "ab36288d0d455aa3b3ff91db8d7ef32e",
+      "key": "9722677ddb167e7215e81457501dbf44"
     },
     "sources": [
       {
@@ -139,10 +139,10 @@
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "049893162857",
+    "okassetkey": "484216657924",
     "widevine_data": {
-      "kid": "a2eff3331ed2039390c71670584390eb",
-      "key": "28a8a6b69800e101e2865c1089a5f1c6"
+      "kid": "7ed087696c4df4f8d53d02d75c065259",
+      "key": "d5cda75b5d203c01771a669cda1035c5"
     },
     "sources": [
       {
@@ -153,29 +153,15 @@
   },
   {
     "id": 9,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Lankan Lions VS Transylvania",
-    "imageUrl": "",
-    "okassetkey": "118832036378",
-    "widevine_data": {
-      "kid": "c6c622394820840bc6caa4aaa71f4bfd",
-      "key": "435a3ef36ad3d9032bda49e40f47c5f8"
-    },
-    "sources": []
-  },
-  {
-    "id": 10,
     "genre": "Game Show",
     "payType": "P",
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "070196486883",
+    "okassetkey": "288998404851",
     "widevine_data": {
-      "kid": "d8192bb73c7389d5a216293ada0aa450",
-      "key": "c2545ec98ed6af1b691fc9d9b269e21d"
+      "kid": "9b2f7f6441936b77c9014219afa51df3",
+      "key": "77e1f7d6feb5a039b8f3e1cf27b4b5d1"
     },
     "sources": [
       {
@@ -184,19 +170,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090486148.m3u8"
       }
     ]
-  },
-  {
-    "id": 11,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Rwanda VS Tanzania",
-    "imageUrl": "",
-    "okassetkey": "759637360497",
-    "widevine_data": {
-      "kid": "a24894821ccc1be96edc615fbbfe4347",
-      "key": "7a5375ed2146049082ea38bc1261d204"
-    },
-    "sources": []
   }
 ]
