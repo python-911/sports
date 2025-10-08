@@ -31,5 +31,7 @@ https://live-aws-cdn.okflix.top/hls/fan1-137351.m3u8
 https://live-aws-cdn.okflix.top/hls/fan1-137346.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137352_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Libya VS Cabo Verde
 https://live-aws-cdn.okflix.top/hls/fan1-137352.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137175_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",United Arab Emirates VS Qatar
+https://live-aws-cdn.okflix.top/hls/fan1-137175.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136881_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Afghanistan VS Bangladesh
 https://live-aws-cdn.okflix.top/hls/fan1-136881.m3u8
