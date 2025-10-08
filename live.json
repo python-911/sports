@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Detroit Tigers VS Seattle Mariners",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137572_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "598845501110",
+    "okassetkey": "393825652157",
     "widevine_data": {
-      "kid": "0b28349b5edecd436622242f775302f5",
-      "key": "2bccdd593fbed7f4a4e00a33a8154c95"
+      "kid": "60d5a5dc381d84871cff09d9de1d1a6f",
+      "key": "30956192a136a7f026155c597b653c4e"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "Dubai VS Fujairah",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "782164850717",
+    "okassetkey": "634435789165",
     "widevine_data": {
-      "kid": "ce3c13b6180cd669cce3137f23e5d4b5",
-      "key": "2d672845a0c4ae362f98af2d5207600e"
+      "kid": "703a12909db11ad3d9a69dc1f5880216",
+      "key": "9d027b9d190766659890ae9b07d96351"
     },
     "sources": [
       {
@@ -44,10 +44,10 @@
     "isLive": "true",
     "title": "VfL Wolfsburg Women VS Paris Saint-Germain Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137458_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "773791992993",
+    "okassetkey": "571648578072",
     "widevine_data": {
-      "kid": "73ea224b658d887e6d7f34c5cb8c79c8",
-      "key": "db973b0ad3df1ac1832260c1fa88b8b5"
+      "kid": "02f1817464dd343f179cc4b47c471a05",
+      "key": "9a364926fedf22ae12a75558b2491fe1"
     },
     "sources": [
       {
@@ -63,10 +63,10 @@
     "isLive": "true",
     "title": "Manchester United Women VS Valerenga Fotball Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137457_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "576883267528",
+    "okassetkey": "307595689382",
     "widevine_data": {
-      "kid": "76b9bc493b1c1fb993741173910cb8ea",
-      "key": "9fdd8891378466799b7437e700a525e4"
+      "kid": "838c2d94ae3d4bb44a9b32f80daa0eda",
+      "key": "5ee5341445a82b59ed5423eaa756c59f"
     },
     "sources": [
       {
@@ -82,10 +82,10 @@
     "isLive": "true",
     "title": "SKN St. Polten Women VS Club Atletico de Madrid Femenino",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137456_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "799223033526",
+    "okassetkey": "936867591427",
     "widevine_data": {
-      "kid": "b23ccf6643771c2ae5ec989ca1630769",
-      "key": "1fa7fb794fa5d1cfaa78546983f3ab2f"
+      "kid": "3cb9adc6f673abb44f6895634dfcd12f",
+      "key": "a6b2fca4afeed85313bb93ddc481cde2"
     },
     "sources": [
       {
@@ -101,10 +101,10 @@
     "isLive": "true",
     "title": "Niger VS Congo",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137365_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "708182134890",
+    "okassetkey": "616215104361",
     "widevine_data": {
-      "kid": "a649237dcbf20d390c8adab646e6369b",
-      "key": "3a331d10e39bb590cb0f5251a2c68fee"
+      "kid": "8573b954c36fe6ff87d9a30c9ef4a7e2",
+      "key": "2c94116e41c1d4ca4fa286559f10c69e"
     },
     "sources": [
       {
@@ -120,10 +120,10 @@
     "isLive": "true",
     "title": "Tanzania VS Zambia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137364_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "419269753098",
+    "okassetkey": "529846788592",
     "widevine_data": {
-      "kid": "b16032ec370486fbcd3e3d2f60f25e4b",
-      "key": "7b3ed09f4b5a24b974c31c56824dd994"
+      "kid": "ca3ef2266f3e44e4bd3a18d752db45a8",
+      "key": "3d0286abb8dcd79d045a0e7082164378"
     },
     "sources": [
       {
@@ -139,10 +139,10 @@
     "isLive": "true",
     "title": "Indonesia VS Saudi Arabia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137264_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "339167073992",
+    "okassetkey": "426835224935",
     "widevine_data": {
-      "kid": "b061cf57251f5b7c9d5284fb3d89f1b9",
-      "key": "fad7487cf805b53e17f6b5bb8fc51f27"
+      "kid": "8cfd3ded7e63c6a63514530e1c7dfdc4",
+      "key": "e9262201d8903936ab98feb7a59b855b"
     },
     "sources": [
       {
@@ -156,40 +156,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "USA VS Bahamas",
+    "title": "Uruguay VS USA",
     "imageUrl": "",
-    "okassetkey": "368599726710",
+    "okassetkey": "687646784747",
     "widevine_data": {
-      "kid": "f587a4c0360397f4b34f24a43d7c0179",
-      "key": "801756c5d641eb1aa88153310167a0c0"
-    },
-    "sources": []
-  },
-  {
-    "id": 10,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "FEC Playoffs",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/133445_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "568991469929",
-    "widevine_data": {
-      "kid": "0b2b66eae4bf15cf8ef3fe28ff2e0d6e",
-      "key": "fabee7e4c28bd84fc5fcc71ebb603ee4"
-    },
-    "sources": []
-  },
-  {
-    "id": 11,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Band-e-Amir Region VS Speen Ghar Region",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/98332_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "825987284488",
-    "widevine_data": {
-      "kid": "58ccb17cda54058f55c6f48d3f5cddd0",
-      "key": "3863b248a0fc500e153d37cceb3ce460"
+      "kid": "4f84af3ce06648a26ead6766f09d557c",
+      "key": "5a82a64dcf1c090848158603ac6cb964"
     },
     "sources": []
   }
