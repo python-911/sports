@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Milwaukee Brewers VS Chicago Cubs",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137573_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "728667357287",
+    "okassetkey": "918934956292",
     "widevine_data": {
-      "kid": "50890c83e078140ef255a5923a09aeea",
-      "key": "a0c21181e540dc5bf9d61c9137d53deb"
+      "kid": "60b310ccbce0cc8f5f8f1d3bd781b03e",
+      "key": "3fc7f7310fa8c4f6a306107acefe2184"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "Detroit Tigers VS Seattle Mariners",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137572_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "639270221844",
+    "okassetkey": "760847377722",
     "widevine_data": {
-      "kid": "28517c1cffc12cc90e94eaa765bb65f7",
-      "key": "83e6273235b78674b6a8d084af0c94e7"
+      "kid": "bf420c8c512674c3210b8c3c78b075c3",
+      "key": "efffa46cb2647b04699d924622ddb4ae"
     },
     "sources": [
       {
@@ -42,31 +42,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Dubai VS Fujairah",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137482_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "908019900717",
-    "widevine_data": {
-      "kid": "af82ce4abf4a15bad63fd8eb6cf41dae",
-      "key": "42e29d7addd409285adcbb022b1018ca"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137482.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Niger VS Congo",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137365_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "544584091835",
+    "okassetkey": "982157515789",
     "widevine_data": {
-      "kid": "2f919114ab4417a5b96837ec769485c8",
-      "key": "9c7a75f117fc7f0a43bac10c602b93b3"
+      "kid": "5e160cb2fde958c9a292f387817f112b",
+      "key": "2fe36a1410bb661093762be4d0c91645"
     },
     "sources": [
       {
@@ -76,16 +57,16 @@
     ]
   },
   {
-    "id": 5,
+    "id": 4,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Tanzania VS Zambia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137364_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "111945013220",
+    "okassetkey": "947464488193",
     "widevine_data": {
-      "kid": "81b946603e0e0adbfe91455db43e6e59",
-      "key": "d665b9af046a865723760cb88b37e73f"
+      "kid": "8b8de436fcecb803e36ea4fa6347ee90",
+      "key": "9f274c41c44348c2934789f92cee5ce9"
     },
     "sources": [
       {
