@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Philadelphia Phillies VS Los Angeles Dodgers",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137576_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "996185134421",
+    "okassetkey": "743723720357",
     "widevine_data": {
-      "kid": "3b97de285b85087b4e181a12277d724c",
-      "key": "c05fe44b99e7b91544a1b87edbe6073d"
+      "kid": "5b4b01c658b98588302fc5efd9149b6e",
+      "key": "16b946bef4e887c53bdeb51436b8925e"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "Mississauga Masters VS Brampton Blitz",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137425_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "352411024242",
+    "okassetkey": "494213649309",
     "widevine_data": {
-      "kid": "1a4fad6b02491cd68cc37750670b7d95",
-      "key": "81f4dd64a65e76294580fed042bfb6f1"
+      "kid": "b2049b65c8b21e36774cc509c887f21b",
+      "key": "ffab402ac0ef61e94c250cacb3a78fb8"
     },
     "sources": [
       {
@@ -36,33 +36,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137425.m3u8"
       }
     ]
-  },
-  {
-    "id": 3,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Canada VS Puerto Rico",
-    "imageUrl": "",
-    "okassetkey": "501982622155",
-    "widevine_data": {
-      "kid": "6b6b6fbdcbb661992480413ceda38415",
-      "key": "a13fc3776483658066ca8197d8b16888"
-    },
-    "sources": []
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Nicaragua VS Argentina",
-    "imageUrl": "",
-    "okassetkey": "847630635673",
-    "widevine_data": {
-      "kid": "284cb90a95d477a387dc6e1af7f1086a",
-      "key": "15151f41b842de0fae77365e2c92e592"
-    },
-    "sources": []
   }
 ]
