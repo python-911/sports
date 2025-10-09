@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759480758967629_EQ_25_26_MD7_Finland_vs_Lithuania_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "612643626317",
+    "okassetkey": "445962309187",
     "widevine_data": {
-      "kid": "95f6ce5c01df13170759564e485f7aac",
-      "key": "63ed0bd9186c397c4f18a07ab9fa8500"
+      "kid": "4a63d27082becf34b1f8d227aaec689e",
+      "key": "0052b3c546bc29204aa9e1fb33c94378"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Gujarat Giants vs UP Yoddhas",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2749/1759922022749-h",
-    "okassetkey": "300053723569",
+    "okassetkey": "523488845819",
     "widevine_data": {
-      "kid": "32bba5774b4022c40051da4c2fdd7718",
-      "key": "3ac9e97636c7a5c40387111232d03a25"
+      "kid": "99444b281f139f5abd5d0871dfe7317a",
+      "key": "96ab52d3474cb2e27e7b64f58681e7dc"
     },
     "sources": []
   },
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543069118452_APL25_Day8_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "156584198951",
+    "okassetkey": "115469832176",
     "widevine_data": {
-      "kid": "d66bd9217c6977b715e0264db51d6bda",
-      "key": "c60dbbb8bac282df5fd24b7057ccddd9"
+      "kid": "d7b07de3de30ca1f7996933fc9d6159c",
+      "key": "419290ee1ce253ccfe7d9bba51f4af60"
     },
     "sources": [
       {
@@ -60,10 +60,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "414120884155",
+    "okassetkey": "403486515118",
     "widevine_data": {
-      "kid": "e50320b59969d84697f8266ca1e90691",
-      "key": "ab6cf4487b3b34738ebead258ef1e9ef"
+      "kid": "9e8c7755c75f81afcf0fd559125bf157",
+      "key": "5ae9dd885d7e696c49805b9b7e352dde"
     },
     "sources": []
   },
@@ -74,10 +74,10 @@
     "isLive": "true",
     "title": "Abu Dhabi VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137483_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "655833177798",
+    "okassetkey": "575359905499",
     "widevine_data": {
-      "kid": "34c1cac804ea32dca3c2ed7e790aea47",
-      "key": "dbb80b8b3045c31509ab9d13e46a7acf"
+      "kid": "6de20a8906caee677802ae913b9fed77",
+      "key": "443331d1ee6d1918036b7a868e182e08"
     },
     "sources": [
       {
@@ -93,10 +93,10 @@
     "isLive": "true",
     "title": "Papua New Guinea VS Samoa",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137179_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "672750764835",
+    "okassetkey": "787578517523",
     "widevine_data": {
-      "kid": "524b11af86e5a2ce82d54bc00972ca7d",
-      "key": "cb9ca0ff6cb4d44d6480c4671bb0aacf"
+      "kid": "ce67b8b2dc49efc921d5e9b69615aca4",
+      "key": "ec6c677fa6c0f4e38591bc4e5e2a440d"
     },
     "sources": [
       {
@@ -112,10 +112,10 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "047715584087",
+    "okassetkey": "596765673911",
     "widevine_data": {
-      "kid": "c0b67e2376138fd2e70680a6b490a5f9",
-      "key": "ad1c577ae72b879f0b8ac64ffa7bde39"
+      "kid": "556c1aaa66ac6c7a074e7bdf8d68c207",
+      "key": "f50263f7418fbbe92c2de343dfabe704"
     },
     "sources": [
       {
@@ -131,10 +131,10 @@
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "284911525736",
+    "okassetkey": "598217739628",
     "widevine_data": {
-      "kid": "9c46048d48aa04c06839bf83ca26519c",
-      "key": "d6cb8eebae7da21787fd8923f2ef7916"
+      "kid": "c81961ba77bdd9db45c88413d3c692b3",
+      "key": "fe2caca4b8eab32947939bfdf3ca44d6"
     },
     "sources": [
       {
