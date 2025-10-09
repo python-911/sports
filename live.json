@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Baycurrent Classic",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137311_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "972101499087",
+    "okassetkey": "989571397466",
     "widevine_data": {
-      "kid": "b28af1a2c2a347ff4140080859957461",
-      "key": "d4f3c9006a384a5030b3a3a87b02ffb0"
+      "kid": "c09b20d36ba784cd94566f1e1cb1df95",
+      "key": "ec1479734b32542e026b1d92c3ac318e"
     },
     "sources": [
       {
@@ -25,10 +25,10 @@
     "isLive": "true",
     "title": "Queensland VS Tasmania",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133935_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "339225426213",
+    "okassetkey": "535213036395",
     "widevine_data": {
-      "kid": "8f2cd53fded20e9ac1b609c4a70c5567",
-      "key": "cc19de91393e249bc44be8cb2473a4d1"
+      "kid": "6f10687e37807b947e859164526ef429",
+      "key": "96351b68c45ef5dc08fea44b0812f67c"
     },
     "sources": [
       {
@@ -44,10 +44,10 @@
     "isLive": "true",
     "title": "New South Wales Breakers VS Western Australia Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133958_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "941919750691",
+    "okassetkey": "113462805786",
     "widevine_data": {
-      "kid": "1c3324986208d06523a87ac4edc4a2a4",
-      "key": "9e402132b6ccbc8c5b3052a2f92d0d7b"
+      "kid": "5d07a9ef2371b6a73aa4fdccb8469928",
+      "key": "1a8b0e6a7c3643c8c9dc6f0a95e64660"
     },
     "sources": [
       {
@@ -63,10 +63,10 @@
     "isLive": "true",
     "title": "South Australia VS Victoria",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133934_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "265926814933",
+    "okassetkey": "674286922245",
     "widevine_data": {
-      "kid": "ada19d39852cafb17f73a4208312bb77",
-      "key": "4f936cc4f994fa9abf3ef36535b76260"
+      "kid": "b8c9dcd02b7baed8ab0664c6949a0a44",
+      "key": "cb0baa5b0b75c1e0232a3f1085b18c59"
     },
     "sources": [
       {
