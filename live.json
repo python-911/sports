@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Procore Championship",
     "imageUrl": "",
-    "okassetkey": "888837598186",
+    "okassetkey": "035372895254",
     "widevine_data": {
-      "kid": "3430ec959fbd27f90dd26ba4d3b99402",
-      "key": "73f8bb196d1b0212891501d4862d62b6"
+      "kid": "a314813cf890800873253e9bc85f2dcd",
+      "key": "23fc0f9e0b565cd9771a3039847929e9"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Procore Championship",
     "imageUrl": "",
-    "okassetkey": "399519261118",
+    "okassetkey": "771417116072",
     "widevine_data": {
-      "kid": "cc531d895f49b803f60dc4d8b0ccefbf",
-      "key": "7d296f712aa9e93c0add22dcbe1977ca"
+      "kid": "6a81c1b5bc7f314add3f12fee5336cc8",
+      "key": "b09490fe63eb53359e09d64956221f04"
     },
     "sources": []
   }
