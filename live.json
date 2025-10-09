@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "943080856500",
+    "okassetkey": "119360820595",
     "widevine_data": {
-      "kid": "86898e616dad1c55dfb22ac8b2089850",
-      "key": "092d2e5633d955fed73fdd7867b8a5c8"
+      "kid": "00200f01f399e91d5224591b49e2720b",
+      "key": "218ebe51baa7cd2c85e3bbd5f2cf8607"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: R16",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9198/1759986249198-h",
-    "okassetkey": "789099539441",
+    "okassetkey": "276541766092",
     "widevine_data": {
-      "kid": "b2fbb353de8716f7c4fdc42f676d5956",
-      "key": "16ef1fca94d40f07393ae58b46f8a96c"
+      "kid": "37844ecc81e1d26b698aa5b4926edabd",
+      "key": "055218a066cef40c95c94392cbe3fca8"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010026/1759994247762756_ShanghaiMasters25_QF_rune_vs_Vacherot_9oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "733983471670",
+    "okassetkey": "726720583313",
     "widevine_data": {
-      "kid": "20a71cf91c221b3f083fd1cc4b2646af",
-      "key": "8440ca0be3a48159a89e3a1af32500db"
+      "kid": "1d6a7562fae9507e2f1ee20bc793bc81",
+      "key": "af9a2557169b606b73983aadd231cea0"
     },
     "sources": [
       {
@@ -54,10 +54,10 @@
     "isLive": "true",
     "title": "Western Australia VS New South Wales",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133936_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "298579487947",
+    "okassetkey": "696684232382",
     "widevine_data": {
-      "kid": "57332ac4db18731df63720d399dc05e0",
-      "key": "af1e6f8a6f906c80a657b09bea8a0a08"
+      "kid": "b0738ff1560a08a297fc1e55309834e9",
+      "key": "96aeee8df48779c23000ce140f68fc6e"
     },
     "sources": [
       {
