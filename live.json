@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "350411734727",
+    "okassetkey": "793203034589",
     "widevine_data": {
-      "kid": "5f7dc1feedd08556bd467d6467e75bf9",
-      "key": "abcfedc373f42f75e85c3a9ba9b696df"
+      "kid": "149a7410cac7b44a1745f0b057e6f468",
+      "key": "a34d60aee16f6f6321280abb8c4c07bc"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: R16",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9198/1759986249198-h",
-    "okassetkey": "436137174361",
+    "okassetkey": "287309938991",
     "widevine_data": {
-      "kid": "bdd7ff86ee4b7b8e153864145f033117",
-      "key": "3011dd34ccd14e3ca004b76242635c98"
+      "kid": "fe9e992be345e4824de8e3dec9e58a42",
+      "key": "a40c72b6e5400ddbae14c51092f0ac13"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010026/1759994247762756_ShanghaiMasters25_QF_rune_vs_Vacherot_9oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "923187065871",
+    "okassetkey": "737504387207",
     "widevine_data": {
-      "kid": "5d511f98825bf7e5f225802e191342fd",
-      "key": "2dd169961b0b3500a4c836a689ac1cfe"
+      "kid": "72e433b2a1854a1131157bdbcae0fc23",
+      "key": "8d136406f5416c65d22df41ccaf46007"
     },
     "sources": [
       {
@@ -54,10 +54,10 @@
     "isLive": "true",
     "title": "Malaysia VS Qatar",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137177_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "678556475134",
+    "okassetkey": "733752102293",
     "widevine_data": {
-      "kid": "e663083ce03f7dd3c3eed8ae1a43186d",
-      "key": "96c0cbb2124aa1930a1299b2ebbef3b7"
+      "kid": "d7ebe7b380076437c9eaf242cd4fe91b",
+      "key": "0abae23daa0ded1fcc0c4188d0f5d7a5"
     },
     "sources": [
       {
@@ -73,10 +73,10 @@
     "isLive": "true",
     "title": "Western Australia VS New South Wales",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133936_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "843810376211",
+    "okassetkey": "685071312736",
     "widevine_data": {
-      "kid": "07541d9c0483b1c4c22c66149d56edb7",
-      "key": "08a422c775c7411eaec82086bde0eff4"
+      "kid": "7b2f4610569a723796714ee5280e7e27",
+      "key": "cd04bcce74cf6fd2270ef3649ebd1360"
     },
     "sources": [
       {
