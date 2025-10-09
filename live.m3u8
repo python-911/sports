@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543069118452_APL25_Day8_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Archery",LIV
+https://live-aws-cdn.okflix.top/hls/sliv1-1090491861.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000010040/1760014194948839_Extreme_E_and_Extreme_H_WC25_day1_9oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Racing",Sony Sports Ten 5
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491954.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137519_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Burundi VS Kenya
 https://live-aws-cdn.okflix.top/hls/fan1-137519.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137483_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Abu Dhabi VS Ajman
+https://live-aws-cdn.okflix.top/hls/fan1-137483.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137178_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Kuwait VS Japan
 https://live-aws-cdn.okflix.top/hls/fan1-137178.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Acciona Spanish Open presented by Madrid
