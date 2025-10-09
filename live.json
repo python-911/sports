@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Bengal Warriorz vs Dabang Delhi K.C.",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7793/1759921767793-h",
-    "okassetkey": "634180130418",
+    "okassetkey": "239782636508",
     "widevine_data": {
-      "kid": "038794653dedd22f6e6ccad74b47035b",
-      "key": "d25e1835faaa647dbfb6cee0526a35d9"
+      "kid": "f2f1a53b9f01145301e4da48ccbf8c0b",
+      "key": "d46d88837d2e8be2a87713f0c72e307c"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543069118452_APL25_Day8_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "601019918549",
+    "okassetkey": "214767909073",
     "widevine_data": {
-      "kid": "ff771024eb4d6776bf072d27cc30746f",
-      "key": "5cb8310e5a02452d39244657e28d91be"
+      "kid": "825e51f88edad8f4229cc35e2ce1020c",
+      "key": "b088857ac5af4e4149e518e11745aa57"
     },
     "sources": [
       {
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010040/1760014194948839_Extreme_E_and_Extreme_H_WC25_day1_9oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "398155841169",
+    "okassetkey": "995153004076",
     "widevine_data": {
-      "kid": "c9c8976475bf29546af82a9deb2362e7",
-      "key": "f78ab7d1af851ea1532b7f12c9d618f6"
+      "kid": "41ef7f4263d3f24aee87c3f75782b864",
+      "key": "983409bf3e3cb296868c49d2840c7025"
     },
     "sources": [
       {
@@ -60,10 +60,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "801127811308",
+    "okassetkey": "724593003493",
     "widevine_data": {
-      "kid": "87f72479b3706051007df1d2dc420e1e",
-      "key": "46867aadb7fb0a10305afb4cc8b0a4ef"
+      "kid": "82af3cd4e3320496955907b9967dc3cb",
+      "key": "534401332b4af96b2a895fd240a92979"
     },
     "sources": []
   },
@@ -74,10 +74,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: R16",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9198/1759986249198-h",
-    "okassetkey": "865467683462",
+    "okassetkey": "492548063899",
     "widevine_data": {
-      "kid": "46d9b95ad9b905d6173613ba147f7bf4",
-      "key": "74a485cd1cc7897fefbe6237908cf2ce"
+      "kid": "e69a3b71c990ab4215992c686a991255",
+      "key": "39fe3bcef82def25e58b9b2762760192"
     },
     "sources": []
   },
@@ -88,10 +88,10 @@
     "isLive": "true",
     "title": "Burundi VS Kenya",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137519_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "499781079448",
+    "okassetkey": "314049323808",
     "widevine_data": {
-      "kid": "35b5eb214cff4a25d5d46f152609b888",
-      "key": "ea7b6f8c0b6ee3fda4ebb4513ea9356d"
+      "kid": "bf5dfc8e49a0f398c4e5dc4f2f0878f8",
+      "key": "5dea19a6fdad127c174da397f89062ba"
     },
     "sources": [
       {
@@ -107,10 +107,10 @@
     "isLive": "true",
     "title": "Abu Dhabi VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137483_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "304222260562",
+    "okassetkey": "769726958003",
     "widevine_data": {
-      "kid": "e895b3c831db4edfce68d67c970e2b87",
-      "key": "c2d71e7f070e06dd0914022c10556bdc"
+      "kid": "336855864264a53a85f98e5ab0009c01",
+      "key": "da1bad1e373f8f882b5440a076024098"
     },
     "sources": [
       {
@@ -126,10 +126,10 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "869010623725",
+    "okassetkey": "276216167063",
     "widevine_data": {
-      "kid": "dc34a7513f82799273d95a8b8bdd6150",
-      "key": "60a948d3d23388b89c710cfa1d5eab89"
+      "kid": "862a884a686538958319703f70083d38",
+      "key": "14f0fd437b077fa1f4951c129a74b0af"
     },
     "sources": [
       {
@@ -143,12 +143,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Lankan Lions VS Transylvania",
+    "title": "Baneasa VS Lankan Lions",
     "imageUrl": "",
-    "okassetkey": "839378638398",
+    "okassetkey": "124668566777",
     "widevine_data": {
-      "kid": "4be7c3403f7dc71c9f493840b3436e46",
-      "key": "c26d4570ada7fe2f6f20fe4257947912"
+      "kid": "ba89de5d3c9ff9c40dffc9533992314a",
+      "key": "3fc01fc6f0e7f994ebb2df75c5896ece"
     },
     "sources": []
   },
@@ -157,12 +157,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "ECS Romania, Encore, 2025",
+    "title": "Lankan Lions VS Transylvania",
     "imageUrl": "",
-    "okassetkey": "787744301008",
+    "okassetkey": "889980158319",
     "widevine_data": {
-      "kid": "34dbe90b90ae9d518f6aaeb567770a2a",
-      "key": "8549b08e8df898470efcae28646384af"
+      "kid": "f4abfbafdd3423db7cc62503c26cf12e",
+      "key": "e552d0deba5f1b33274c8d98118ea42c"
     },
     "sources": []
   },
@@ -171,12 +171,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "USA VS Brazil",
+    "title": "ECS Romania, Encore, 2025",
     "imageUrl": "",
-    "okassetkey": "163014340497",
+    "okassetkey": "557684253752",
     "widevine_data": {
-      "kid": "032ef046e9b7107fed3cb5d5a31b4003",
-      "key": "bb5af98eedcba2100f63ed8971ac47e4"
+      "kid": "d4b561494bede8a6af24a2e23054a6ea",
+      "key": "258e438ee24e0ebec044b09a58ee21bb"
     },
     "sources": []
   },
@@ -185,12 +185,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Bahamas VS Brazil",
+    "title": "USA VS Brazil",
     "imageUrl": "",
-    "okassetkey": "328954492537",
+    "okassetkey": "244008852480",
     "widevine_data": {
-      "kid": "bc9fc1bcd7c5ca5bd07ec8a88d1f1617",
-      "key": "dd1c5200eb60f59541f33b7e1744c5a4"
+      "kid": "20216ada535944a30481fa73c1a2ac0d",
+      "key": "69e037dfa91cbc56764e3aca8bcc61fd"
     },
     "sources": []
   },
@@ -199,12 +199,26 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
+    "title": "Bahamas VS Brazil",
+    "imageUrl": "",
+    "okassetkey": "797969909362",
+    "widevine_data": {
+      "kid": "ba9a2b7d87314a368cdecfc76cb63158",
+      "key": "d993b37974f645fced6ca75f984742d9"
+    },
+    "sources": []
+  },
+  {
+    "id": 14,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
     "title": "Western Australia VS New South Wales",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133936_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "942271286291",
+    "okassetkey": "450278790296",
     "widevine_data": {
-      "kid": "17d9efe2faee3359779b5e6161843250",
-      "key": "9562705d116d2c03b2b188dc5bb6aa3a"
+      "kid": "56abfd5ecc35535790ec9e313620ee52",
+      "key": "5cf33cb50c82b051338fcf2036601348"
     },
     "sources": [
       {
@@ -214,16 +228,16 @@
     ]
   },
   {
-    "id": 14,
+    "id": 15,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Kenya VS Uganda",
     "imageUrl": "",
-    "okassetkey": "653153725195",
+    "okassetkey": "544667135691",
     "widevine_data": {
-      "kid": "07b8e0755b4ae726a8b519431bf40f66",
-      "key": "d6af262052a03a237778091abe05a971"
+      "kid": "9ec140e6a6820e2feb5579933c566954",
+      "key": "d1e7c2bb049f426562b9bdf17017f3f8"
     },
     "sources": []
   }
