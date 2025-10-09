@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Mississauga Masters VS Brampton Blitz",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137425_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "161079179426",
+    "okassetkey": "008215596291",
     "widevine_data": {
-      "kid": "99873ef5d0eeaa4a0b6cd7d5608cede0",
-      "key": "82052c6827bbd770c26719cdc0d57ca3"
+      "kid": "883085e4b8ef9b5a949fcdc586c37692",
+      "key": "09a5052c8e3f00898e76826156549e4c"
     },
     "sources": [
       {
@@ -17,47 +17,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137425.m3u8"
       }
     ]
-  },
-  {
-    "id": 2,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Baneasa VS Cluj",
-    "imageUrl": "",
-    "okassetkey": "107751129961",
-    "widevine_data": {
-      "kid": "47fc5a6399d0a50b2859bf658b9107be",
-      "key": "c3c88ee1d4c7300f048af53663aed9c1"
-    },
-    "sources": []
-  },
-  {
-    "id": 3,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Baneasa VS Cluj",
-    "imageUrl": "",
-    "okassetkey": "258664826329",
-    "widevine_data": {
-      "kid": "f65d022a732ad682df1d94cbaedcafaa",
-      "key": "c8db4a77bb6d6599babdee29c0fa0f7b"
-    },
-    "sources": []
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Inter Miami CF VS FC Dallas",
-    "imageUrl": "",
-    "okassetkey": "330054119914",
-    "widevine_data": {
-      "kid": "6cd0f278242a6db2f89239d0fabe4ece",
-      "key": "66540773177ba4e55b5e3c90417d7a32"
-    },
-    "sources": []
   }
 ]
