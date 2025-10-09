@@ -3,6 +3,8 @@
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491866.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137524_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Botswana VS Uganda
 https://live-aws-cdn.okflix.top/hls/fan1-137524.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137523_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Liberia VS Namibia
+https://live-aws-cdn.okflix.top/hls/fan1-137523.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137521_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Somalia VS Algeria
 https://live-aws-cdn.okflix.top/hls/fan1-137521.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137520_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Mozambique VS Guinea
