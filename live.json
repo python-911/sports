@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: R16",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9198/1759986249198-h",
-    "okassetkey": "896294202115",
+    "okassetkey": "020728651469",
     "widevine_data": {
-      "kid": "7df61e9d013ec469ce48e4ed18448a3d",
-      "key": "8ca34ea62dc2fef1a8c0bcbee27cdec2"
+      "kid": "ada76801a477eea7140f0eff4cc062aa",
+      "key": "3ba263e7dcb50879f53c161322066c79"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010026/1759994247762756_ShanghaiMasters25_QF_rune_vs_Vacherot_9oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "640514135060",
+    "okassetkey": "218308770241",
     "widevine_data": {
-      "kid": "6a359fb14d5011516b47d28b0b2843ab",
-      "key": "a0d36b18b3608aec3f940dad4d851137"
+      "kid": "fae4209e8551a188eee2bab6e0df6003",
+      "key": "c533f6a24e1e2f6a3ff9aca87f430d33"
     },
     "sources": [
       {
@@ -38,31 +38,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Vancouver Kings VS White Rock Warriors",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137424_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "490717895593",
-    "widevine_data": {
-      "kid": "b4deb4ad258161b3c3aa53448de935a4",
-      "key": "c7c59249d9a718613fda85db9529fc74"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137424.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Malaysia VS Qatar",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137177_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "023135433490",
+    "okassetkey": "704582285371",
     "widevine_data": {
-      "kid": "d07b054dde0e64bbd5611a0c5d3aa64d",
-      "key": "aa8e4f5045956ad65247d61f798f6de7"
+      "kid": "722dc8a441d00ad810fc670d4ec81eac",
+      "key": "0d6e32b60ce50a7ce859f9352f0c3de7"
     },
     "sources": [
       {
@@ -72,30 +53,16 @@
     ]
   },
   {
-    "id": 5,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Queensland VS Tasmania",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/133935_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "497712017768",
-    "widevine_data": {
-      "kid": "0e1b72830ab42494347044ce5dcfe107",
-      "key": "c968c72eee8c9862edb01eec2329a967"
-    },
-    "sources": []
-  },
-  {
-    "id": 6,
+    "id": 4,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Western Australia VS New South Wales",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133936_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "476880250563",
+    "okassetkey": "671396754627",
     "widevine_data": {
-      "kid": "183e2540b72dbbb3ac8c4422f887d629",
-      "key": "dd0b50dbada2edcbad0ad5924e756ad6"
+      "kid": "92e66d9ee967581e7ba9aa33ec1983f5",
+      "key": "d0da18bfe8eca6b01499ceba09fe8649"
     },
     "sources": [
       {
@@ -103,19 +70,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-133936.m3u8"
       }
     ]
-  },
-  {
-    "id": 7,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "South Australia VS Victoria",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/133934_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "464462874653",
-    "widevine_data": {
-      "kid": "08635c4ff0f0666cbe1844085973cc89",
-      "key": "a623e817246f9cbcd877d65a6c3ca313"
-    },
-    "sources": []
   }
 ]
