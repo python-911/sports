@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009887/1759599505926527_UEFA_INT_Friendlies_Poland_vs_New_Zealand_4oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "716371358467",
+    "okassetkey": "675923487861",
     "widevine_data": {
-      "kid": "976831a9d2ebac213f989b1150df48c3",
-      "key": "6e2bd6554d615c0b550e9433189a1841"
+      "kid": "5f9ea901009ba9155f8475f773e12c59",
+      "key": "22e0e25b05cb9235b34963ed689f97a9"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759485198567629_EQ_25_26_MD7_Scotland_vs_Greece_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "577509227435",
+    "okassetkey": "351092811668",
     "widevine_data": {
-      "kid": "936aeedb96a9311dd33ebcfbb5e1e286",
-      "key": "ecb533e8d176fc1a262a0e712447c62c"
+      "kid": "86662226439ccb5a9171ed3f3bc416e5",
+      "key": "e6823c6b098e7e22183872d16b92204d"
     },
     "sources": [
       {
@@ -46,18 +46,12 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759483936821629_EQ_25_26_MD7_Faroe_Islands_vs_Montenegro_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "726061001030",
+    "okassetkey": "633833774867",
     "widevine_data": {
-      "kid": "f7ccb16aacf0166274795e3d81b2fb94",
-      "key": "f3dec1646d06f2fb33493081eb09b410"
+      "kid": "8c0d5c2fb08936dbcf74a0dedeaba9bc",
+      "key": "5c0252d1ac647bc9b4404bced38f31f0"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090491927.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 4,
@@ -66,10 +60,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009887/1759599290415527_UEFA_INT_Friendlies_England_vs_Wales_4oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "278697366773",
+    "okassetkey": "077462154340",
     "widevine_data": {
-      "kid": "e05c3c3a93d9ad921af55c160d051b79",
-      "key": "8116497def7b25f0044173c5fcea47f8"
+      "kid": "e927853acc22a041f8950f6597fee34d",
+      "key": "679964278d5bff37da1de6842c4f5ac1"
     },
     "sources": [
       {
@@ -86,10 +80,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759481313299629_EQ_25_26_MD7_Belarus_vs_Denmark_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "445421801821",
+    "okassetkey": "245259487230",
     "widevine_data": {
-      "kid": "a0d7fa854fc33256c6af4435911050bc",
-      "key": "dcda5aa711c8b7bd9c1b64c70a97d1d9"
+      "kid": "79475d732c20cc09adae2d7e23429f6d",
+      "key": "0a16b67318e1037dbb8ee5f11eeb858c"
     },
     "sources": [
       {
@@ -106,10 +100,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759481052911629_EQ_25_26_MD7_Austria_vs_San_Marino_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "080396524972",
+    "okassetkey": "706559363909",
     "widevine_data": {
-      "kid": "adce30417acef3329b36ce60cfd96a22",
-      "key": "900593096409e1100460664a6462818e"
+      "kid": "fdc59df790d18b66d6f0b414d0abe500",
+      "key": "0705a62a6ac5f1590c529f436fcb9942"
     },
     "sources": [
       {
@@ -126,18 +120,12 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759482899453629_EQ_25_26_MD7_Czechia_vs_Croatia_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "901915639033",
+    "okassetkey": "588370013291",
     "widevine_data": {
-      "kid": "cfe8a964a88c52cc82237d5bb6eed6ee",
-      "key": "1c6049dc09d143f80615d97db7da2232"
+      "kid": "18cd887ee7fd5c3be1a8d3fc6731700b",
+      "key": "a5a0df3d7eb0fb00bb8d09f14f67ee6a"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090491926.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 8,
@@ -146,10 +134,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759481570562629_EQ_25_26_MD7_Cyprus_vs_Bosnia_Herzegovina_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "104585631865",
+    "okassetkey": "173321914874",
     "widevine_data": {
-      "kid": "7f20fc4bb0cc06d89da7ffc835e842ef",
-      "key": "fe389b0b262785e6ba9529b16ded2bc7"
+      "kid": "443038506382375e5291d343907d7365",
+      "key": "43b7912585c3f6406e4b1afe9e773047"
     },
     "sources": [
       {
@@ -166,10 +154,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759484986149629_EQ_25_26_MD7_Malta_vs_Netherlands_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "248832620125",
+    "okassetkey": "621222191406",
     "widevine_data": {
-      "kid": "bec6b257605ae4861f8b2428c8cfc987",
-      "key": "f970fa4f1f3b0ef13e07bf000a66b2a6"
+      "kid": "896830b599439e645d4e2a819dcbb997",
+      "key": "29c6a3ae50af52a198abf86d86c1886b"
     },
     "sources": [
       {
