@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Bengal Warriorz vs Dabang Delhi K.C.",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7793/1759921767793-h",
-    "okassetkey": "696664434809",
+    "okassetkey": "870079991916",
     "widevine_data": {
-      "kid": "1f2465b23a8e799bcd96e3fc66ada3dd",
-      "key": "fb30b33672ab7db25e05c05e47ab47bf"
+      "kid": "159aedad37257646eb6f7f301453dda5",
+      "key": "8fa7d3d87abe63a26f6545757c438a9f"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543069118452_APL25_Day8_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "098581287915",
+    "okassetkey": "076284935142",
     "widevine_data": {
-      "kid": "4042c6fce3d486e9e868cd758e6014db",
-      "key": "9e5767b932c24c5d43f5c2c065806bc2"
+      "kid": "e7e5b8e9d91834f4f50ab2c4c6e5792c",
+      "key": "212773783a79321614085adc01ae50f1"
     },
     "sources": [
       {
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "495588228664",
+    "okassetkey": "583759249762",
     "widevine_data": {
-      "kid": "ebf496efb95a9b995e78ecf1bd762309",
-      "key": "6242091512cc6b22cb32bf85623015f3"
+      "kid": "226072574fa4f0061c5750bb9dfd113a",
+      "key": "20d3e2effb9028efebf50a9b93096252"
     },
     "sources": []
   },
@@ -54,10 +54,10 @@
     "isLive": "true",
     "title": "Burundi VS Kenya",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137519_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "011405903543",
+    "okassetkey": "849283485000",
     "widevine_data": {
-      "kid": "9264deecb6fc0cd8934c7561524d1cec",
-      "key": "a90f778ea779fcc485248110689c7110"
+      "kid": "687f286244fa54c8b4c66e2296aad50d",
+      "key": "7d9e7360a491cd6c49c1bc875bd1f518"
     },
     "sources": [
       {
@@ -73,10 +73,10 @@
     "isLive": "true",
     "title": "Abu Dhabi VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137483_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "598839114973",
+    "okassetkey": "420733994608",
     "widevine_data": {
-      "kid": "21d29b7a0e2060d74044f30f9e794399",
-      "key": "c9798506934c7ba01ba89e45af96666d"
+      "kid": "f16f71f58911522aff4c6a8bc0c53f6a",
+      "key": "9f34b9f6ab3705814ca8b013eb97770d"
     },
     "sources": [
       {
@@ -90,17 +90,56 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
+    "title": "Papua New Guinea VS Samoa",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137179_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "728285546685",
+    "widevine_data": {
+      "kid": "986f435e0f6873770bd06820b582be12",
+      "key": "014951cf8600cd96066284b44d273fb4"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137179.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "810142756570",
+    "okassetkey": "328578740159",
     "widevine_data": {
-      "kid": "7dc569435518970f3ba3982d5037d46f",
-      "key": "41181b79887a2daf292d1ed1d9b87089"
+      "kid": "0006c521dbec8dbf1a825e7e02ca034d",
+      "key": "c2440c2f9faf2c6b7fac50e5a7dbb5ca"
     },
     "sources": [
       {
         "name": "HLS",
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-136859.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "genre": "Game Show",
+    "payType": "P",
+    "isLive": "true",
+    "title": "SET",
+    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
+    "okassetkey": "255489027227",
+    "widevine_data": {
+      "kid": "e25c32bf8a2a88462b246d6eacdd986b",
+      "key": "c7050c0212b54b59d9dd467abfebe433"
+    },
+    "sources": [
+      {
+        "name": "Hindi",
+        "language": "HIN",
+        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090486148.m3u8"
       }
     ]
   }
