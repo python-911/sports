@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Bengal Warriorz vs Dabang Delhi K.C.",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7793/1759921767793-h",
-    "okassetkey": "296809708830",
+    "okassetkey": "130918151196",
     "widevine_data": {
-      "kid": "b243e20b3f59339ce2657d665e9a1b09",
-      "key": "204cb2073ecb15019eadb5913ac44865"
+      "kid": "f7f918347b5d5415badf5e3a93819219",
+      "key": "b5096dd5e0a4dc3b2fcdcd3df6404b72"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543069118452_APL25_Day8_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "640366405906",
+    "okassetkey": "433868948529",
     "widevine_data": {
-      "kid": "2f0558d18e1adb0432257782f633779c",
-      "key": "8c2884efe240935c315dbbac2b06bea5"
+      "kid": "b357cca71a0d8316d3c5212bafb49523",
+      "key": "44ddeb5e9257f150f8e18f6928812033"
     },
     "sources": [
       {
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "032246560239",
+    "okassetkey": "661840254170",
     "widevine_data": {
-      "kid": "a3e662d87b8b9866c86c5537e370cc3d",
-      "key": "310ef65932dfc28f916e9f012db3ada9"
+      "kid": "d54f619ef7acda888d3fcbafb3c34cc6",
+      "key": "2844e29a38ac29d6e1048358bd96c72a"
     },
     "sources": []
   },
@@ -54,10 +54,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: R16",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9198/1759986249198-h",
-    "okassetkey": "833524974666",
+    "okassetkey": "520147770353",
     "widevine_data": {
-      "kid": "62bbe492b28628df86c4bf48405198e6",
-      "key": "3b3fa696f83ab72c75d801d4b9e5f435"
+      "kid": "4e060267260a95a1c3a3f2af47369208",
+      "key": "ee2d3e0d886518b4bcb4eb38ce371304"
     },
     "sources": []
   },
@@ -68,10 +68,10 @@
     "isLive": "true",
     "title": "Burundi VS Kenya",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137519_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "580253465318",
+    "okassetkey": "318743354084",
     "widevine_data": {
-      "kid": "5098475528b8691b4199030359209ec5",
-      "key": "a986b4a6963543bbd4f890d7b75a0e8e"
+      "kid": "d7460e1467a5575e3fb8c7078bfe37b2",
+      "key": "4dcea9ed20b1bdb0720630805390ec2f"
     },
     "sources": [
       {
@@ -87,10 +87,10 @@
     "isLive": "true",
     "title": "Abu Dhabi VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137483_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "484699682481",
+    "okassetkey": "974148947256",
     "widevine_data": {
-      "kid": "a724175bb131f2bae5afad8f843f0f56",
-      "key": "da2ea22158c8b24907368e2ab7ec22af"
+      "kid": "477ed99521600b7b4a9e0aad345af70c",
+      "key": "0c791725135898615c9aebd3562145a1"
     },
     "sources": [
       {
@@ -106,10 +106,10 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "819964034110",
+    "okassetkey": "777002337462",
     "widevine_data": {
-      "kid": "9f71c5c242944861f5e7bdfb92e74cb2",
-      "key": "fe00d60039af4bdc6ffd35a25ba314b8"
+      "kid": "3dadcb39e8d6b07b83bf141192c52b86",
+      "key": "0e02d9e532b057efcb8ca6e3f5a3621c"
     },
     "sources": [
       {
@@ -117,5 +117,33 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-136859.m3u8"
       }
     ]
+  },
+  {
+    "id": 8,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Charlotte Hornets VS Memphis Grizzlies",
+    "imageUrl": "",
+    "okassetkey": "435462864271",
+    "widevine_data": {
+      "kid": "24fccd901e6db0d1e53c766ff2f636f0",
+      "key": "bf864b7b65bc54ca6bc22dbc6396a1b3"
+    },
+    "sources": []
+  },
+  {
+    "id": 9,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Band-e-Amir Region VS Mis Ainak Region",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/98339_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "222912728720",
+    "widevine_data": {
+      "kid": "812515fc0ba19f6775d06c7c0b83bc42",
+      "key": "75f1196db2cda8365c6d56b88bc7efbe"
+    },
+    "sources": []
   }
 ]
