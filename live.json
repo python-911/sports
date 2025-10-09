@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010040/1760014194948839_Extreme_E_and_Extreme_H_WC25_day1_9oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "248211865661",
+    "okassetkey": "663122313602",
     "widevine_data": {
-      "kid": "c9019a6987069fa8ead405b0a54103ed",
-      "key": "51c0fa312f7e6725141ae194e97c9e64"
+      "kid": "31cb2745fdd56c726e8cbcd1c1ed4801",
+      "key": "07b378a37002be690523790f3a320b27"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "725042582643",
+    "okassetkey": "951756694868",
     "widevine_data": {
-      "kid": "1c3cfd54441e540bf9fc324316758dd8",
-      "key": "5a8bcf1d4639f4688db45df4025c2225"
+      "kid": "00843928f90c1c8a25fb45fc43610cca",
+      "key": "e2dcefcf97bc6dd3349c4f0c9826f633"
     },
     "sources": []
   },
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: R16",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9198/1759986249198-h",
-    "okassetkey": "256248151516",
+    "okassetkey": "267996710309",
     "widevine_data": {
-      "kid": "f490dab3dcc92a53dd0aec4539ae6d4a",
-      "key": "8c94666452c06ac538a266cc72ea249b"
+      "kid": "20d18d451052b346068531edddfa0ff3",
+      "key": "7597786f565695ffc8cf83a646fce617"
     },
     "sources": []
   },
@@ -54,10 +54,10 @@
     "isLive": "true",
     "title": "Burundi VS Kenya",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137519_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "753925246082",
+    "okassetkey": "235989119358",
     "widevine_data": {
-      "kid": "328f84192387edfba3bf314f9f61f715",
-      "key": "c6488c398a6c5f23ae466fa8e998e58f"
+      "kid": "c8abae1577590fd5a07e530b8a935520",
+      "key": "6b5c42fba5581cdf8364c9e25545abfb"
     },
     "sources": [
       {
@@ -71,31 +71,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Singapore VS India",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137359_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "421997649431",
-    "widevine_data": {
-      "kid": "5df35beb241e6e800738a871fb451955",
-      "key": "af6c0ef3e6e17b9969ca443beb13930f"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137359.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Kuwait VS Japan",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137178_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "413169831040",
+    "okassetkey": "226723800139",
     "widevine_data": {
-      "kid": "02ca43a0e2e5811300ee7a74a43ccc4d",
-      "key": "ea25aa3deef87d486490beda4b51e247"
+      "kid": "bfd4edb18b73d79817d0e43140c6101e",
+      "key": "8b8e28f87b830d77fdcb61439ae387c1"
     },
     "sources": [
       {
@@ -105,16 +86,16 @@
     ]
   },
   {
-    "id": 7,
+    "id": 6,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "593673053062",
+    "okassetkey": "111797958847",
     "widevine_data": {
-      "kid": "a25eb708266e9732b7743b2bb0dee112",
-      "key": "990272b195e4d8b0f25b3f4b4eb0aa34"
+      "kid": "e89b0cb0a266ba12f71e76f8999c845a",
+      "key": "6eb71ebc22976796b0a3514fae591852"
     },
     "sources": [
       {
@@ -124,30 +105,16 @@
     ]
   },
   {
-    "id": 8,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "ACC Bucharest VS Baneasa",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/135756_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "773717193371",
-    "widevine_data": {
-      "kid": "86296a36e427940c3fa62c5794d0488c",
-      "key": "e368477ce8b2b1abfda081dcb4dc8661"
-    },
-    "sources": []
-  },
-  {
-    "id": 9,
+    "id": 7,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Western Australia VS New South Wales",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133936_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "959472958354",
+    "okassetkey": "768365475978",
     "widevine_data": {
-      "kid": "0d7573293e39fad74152a612346feff6",
-      "key": "4d57cd7519e7a9e692cd02566f804b3a"
+      "kid": "750334695fac98fc566ece1552f03fa5",
+      "key": "33a47915f6f59c820a9dfe592f8a6894"
     },
     "sources": [
       {
