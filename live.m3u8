@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759485198567629_EQ_25_26_MD7_Scotland_vs_Greece_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
-https://live-aws-cdn.okflix.top/hls/sliv1-1090491929.m3u8
-#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759481313299629_EQ_25_26_MD7_Belarus_vs_Denmark_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
-https://live-aws-cdn.okflix.top/hls/sliv1-1090491924.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759481570562629_EQ_25_26_MD7_Cyprus_vs_Bosnia_Herzegovina_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491925.m3u8
