@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Bengal Warriorz vs Dabang Delhi K.C.",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7793/1759921767793-h",
-    "okassetkey": "023002230477",
+    "okassetkey": "256798044327",
     "widevine_data": {
-      "kid": "f52a7825975222205b772d5705e3aa0b",
-      "key": "ef5c3cbd4580f3a3f0f53caf69040775"
+      "kid": "9576e8c18067dcf742be97ef0d7f78e5",
+      "key": "533a559380325bb5f21d9f05e3099d17"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543069118452_APL25_Day8_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "809163925748",
+    "okassetkey": "534154133319",
     "widevine_data": {
-      "kid": "da9f50771f0eeb03a974fbb4f61d2341",
-      "key": "5ec135b904b0fde1e662eb63b6320be0"
+      "kid": "db6ed5564ba4b9478991f28b972b23b5",
+      "key": "ee1a0fd38a7cd6af47291fcea0af7b91"
     },
     "sources": [
       {
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "738704833329",
+    "okassetkey": "328011675071",
     "widevine_data": {
-      "kid": "9a93ec9c776d3f2983bf006baeb2d710",
-      "key": "e3c38e2c83e90fef1d01dcad22685155"
+      "kid": "e9848bd06491bdc71fd338bb352928cc",
+      "key": "43b7a00de6507c0a590775b37a913411"
     },
     "sources": []
   },
@@ -54,10 +54,10 @@
     "isLive": "true",
     "title": "Burundi VS Kenya",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137519_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "076627192884",
+    "okassetkey": "217824526040",
     "widevine_data": {
-      "kid": "adab0f73e9ae1a6eef4e19bcf2404f6a",
-      "key": "0233452fc6848f9429d02326efd8d6c1"
+      "kid": "fbea9b4645063b9ff3d957ed6852438f",
+      "key": "07ca83213d98b389d1a0f5b7d7159d9a"
     },
     "sources": [
       {
@@ -73,10 +73,10 @@
     "isLive": "true",
     "title": "Abu Dhabi VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137483_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "704514416070",
+    "okassetkey": "405703845840",
     "widevine_data": {
-      "kid": "00a23958a0116fdbaa6b68af9c00f56e",
-      "key": "92439a0bc70cc66c3dadfc2df90ab0c8"
+      "kid": "f7bc4261d974712f6213b53d79585902",
+      "key": "45fcf570d15d36e4afb3313f4a613daa"
     },
     "sources": [
       {
@@ -92,16 +92,11 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "608803457113",
+    "okassetkey": "105480333592",
     "widevine_data": {
-      "kid": "abd1582ed3ee93bbad87385d7eb3c995",
-      "key": "a3939f274aabd7614112a743d870ece3"
+      "kid": "0d4c48dbadc5cee2ff41e0856f6ba49a",
+      "key": "44d389af6ce8500f54bcc52bf2dd6540"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-136859.m3u8"
-      }
-    ]
+    "sources": []
   }
 ]
