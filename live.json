@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759480758967629_EQ_25_26_MD7_Finland_vs_Lithuania_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "663428106942",
+    "okassetkey": "260529397948",
     "widevine_data": {
-      "kid": "92d26b488c5dc43f1fe4ba01b12fe29d",
-      "key": "930255b233f281956519271e08398bed"
+      "kid": "e9eb1e83478adffac5517920e38cd2d0",
+      "key": "a1290f5cbf00a987e235ca63702e33f9"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Gujarat Giants vs UP Yoddhas",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2749/1759922022749-h",
-    "okassetkey": "405152820709",
+    "okassetkey": "734051722563",
     "widevine_data": {
-      "kid": "b02d7b50e553cb0d0ac450c4c2768e25",
-      "key": "182528f9f6959bf83ac350ddfe025ae7"
+      "kid": "3b0ca9d42c21b2bbaf9706ac8456e9ba",
+      "key": "18a98fc9739d9e0a0409defb4a4e3d24"
     },
     "sources": []
   },
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "636597428323",
+    "okassetkey": "333838039085",
     "widevine_data": {
-      "kid": "da75d71ec95b51db061160993081177b",
-      "key": "7156eb9d3f983071589c4400e9ca1dfb"
+      "kid": "0348e899edcdf816512e27aa55eb866a",
+      "key": "12247a507edc2248ec2b242216f71049"
     },
     "sources": []
   },
@@ -54,10 +54,10 @@
     "isLive": "true",
     "title": "Botswana VS Uganda",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137524_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "535148296483",
+    "okassetkey": "535850082213",
     "widevine_data": {
-      "kid": "8082cb6a5129383a215528766da0b118",
-      "key": "b37633878269655d054e9de29b4ba47a"
+      "kid": "c5ebf9a6c9f2d128963815bcafe96b19",
+      "key": "728980d41e57bc7241ca1bb20f54cf43"
     },
     "sources": [
       {
@@ -73,10 +73,10 @@
     "isLive": "true",
     "title": "Liberia VS Namibia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137523_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "471057199271",
+    "okassetkey": "737639122779",
     "widevine_data": {
-      "kid": "d617a90ff30685c8dc639fa05963b00d",
-      "key": "e98a5ee900afc105dca2c0103353af8d"
+      "kid": "de9aa45de336c524e8e68ff57045cfd5",
+      "key": "12a9112045e79648cb2f748acaebc61d"
     },
     "sources": [
       {
@@ -92,10 +92,10 @@
     "isLive": "true",
     "title": "Somalia VS Algeria",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137521_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "197034889598",
+    "okassetkey": "757784052201",
     "widevine_data": {
-      "kid": "f06abc45ca83815323845ce91c85634b",
-      "key": "d2fb390f5dd802a63fc7f4dee2251c9f"
+      "kid": "2ca29dd12d11601af66c678f8857dd6b",
+      "key": "30b610cc865497d99c9036af0da45527"
     },
     "sources": [
       {
@@ -111,10 +111,10 @@
     "isLive": "true",
     "title": "Mozambique VS Guinea",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137520_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "041836044528",
+    "okassetkey": "543736820932",
     "widevine_data": {
-      "kid": "028dadf97dc652fbee08900a8dab9937",
-      "key": "c0201139e5deec66ce8560bf68f554a8"
+      "kid": "d34a54ddc32632ed583d146d4f925df3",
+      "key": "08dd506791ba74bdabed8a8ac42b22ba"
     },
     "sources": [
       {
@@ -130,10 +130,10 @@
     "isLive": "true",
     "title": "Papua New Guinea VS Samoa",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137179_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "375017407938",
+    "okassetkey": "171164570876",
     "widevine_data": {
-      "kid": "f097ea9ee691950c8b55793d2708df11",
-      "key": "4030db71900c897ea0fabee79f108f3f"
+      "kid": "6d71bfc5cee8160072df182597f6b424",
+      "key": "8c9999c53f9e4e37053eb8967fcbe88b"
     },
     "sources": [
       {
@@ -144,48 +144,15 @@
   },
   {
     "id": 9,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Acciona Spanish Open presented by Madrid",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "846282957232",
-    "widevine_data": {
-      "kid": "de52fa567b2599932c7c6caa787b70b7",
-      "key": "ba1482a271771c143b00292f6eb43346"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-136859.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "United CC Bucharest VS Lankan Lions",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/135757_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "835132122633",
-    "widevine_data": {
-      "kid": "c5c52cd362b5160972ee93c9a473deae",
-      "key": "49e1c6051dc4d5d6bb10f126ef354273"
-    },
-    "sources": []
-  },
-  {
-    "id": 11,
     "genre": "Game Show",
     "payType": "P",
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "556193657428",
+    "okassetkey": "389837457403",
     "widevine_data": {
-      "kid": "881e24d9c4b564f0c2afbe9dd3abb5db",
-      "key": "2e4d492b7aed40adf22dfda530a6d922"
+      "kid": "0b5e62d1bb29f4fdc05e93bc0a1828ca",
+      "key": "9c830c510a475d368e7a4bb8caefc9ea"
     },
     "sources": [
       {
@@ -194,19 +161,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090486148.m3u8"
       }
     ]
-  },
-  {
-    "id": 12,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "FEC Playoffs",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/133431_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "290989551958",
-    "widevine_data": {
-      "kid": "e23561f68a3b9b6826df10bdf100f7f3",
-      "key": "7f2927ecfde0ec7b59a477f643b84c8d"
-    },
-    "sources": []
   }
 ]
