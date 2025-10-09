@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009887/1759599148735527_UEFA_INT_Friendlies_Romania_vs_Moldova_4oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491862.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137524_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Botswana VS Uganda
-https://live-aws-cdn.okflix.top/hls/fan1-137524.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137523_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Liberia VS Namibia
-https://live-aws-cdn.okflix.top/hls/fan1-137523.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137521_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Somalia VS Algeria
-https://live-aws-cdn.okflix.top/hls/fan1-137521.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137520_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Mozambique VS Guinea
-https://live-aws-cdn.okflix.top/hls/fan1-137520.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137484_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Dubai VS Emirates Blues
 https://live-aws-cdn.okflix.top/hls/fan1-137484.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137179_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Papua New Guinea VS Samoa
