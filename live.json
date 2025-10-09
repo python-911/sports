@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Bengal Warriorz vs Dabang Delhi K.C.",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7793/1759921767793-h",
-    "okassetkey": "690423764172",
+    "okassetkey": "969083403304",
     "widevine_data": {
-      "kid": "c32d2acd8b85f35d8e1ec54c5a1bd533",
-      "key": "c86800017a7bc4f476c1e17c9ecf093e"
+      "kid": "15dcbe85a233e02953b855a51bc481d6",
+      "key": "e73d8105b18ad1a61dea9e5b744268c8"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543069118452_APL25_Day8_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "578547501921",
+    "okassetkey": "059253213681",
     "widevine_data": {
-      "kid": "45fb81b2bef9bbddc98deaac5f155449",
-      "key": "1a8b20eca77667877eff8d4145f55fe9"
+      "kid": "e587e3f10285374ac4b79cd90a784299",
+      "key": "ff219665fab8783aee100dd6a3c47659"
     },
     "sources": [
       {
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "466878099988",
+    "okassetkey": "890936058846",
     "widevine_data": {
-      "kid": "2861547e0909057c785b49bb6cf6a382",
-      "key": "6b1eb3cd318ed71cf62b62772e61a58a"
+      "kid": "90547b2448d639af9960e2118704a2e3",
+      "key": "d1d5f498d677540166317799f4819ba5"
     },
     "sources": []
   },
@@ -54,17 +54,12 @@
     "isLive": "true",
     "title": "Burundi VS Kenya",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137519_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "360971548839",
+    "okassetkey": "689668431552",
     "widevine_data": {
-      "kid": "9fd40c7b42d51235e2d94e85d3fb2caf",
-      "key": "2d3f44b729d2a75a079db4732050c1d2"
+      "kid": "9c0f2ad59dfb6b73ee06eab67d99657e",
+      "key": "71c549ca73ca6e5f376c94084138bd99"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137519.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 5,
@@ -73,10 +68,10 @@
     "isLive": "true",
     "title": "Abu Dhabi VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137483_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "948209693676",
+    "okassetkey": "933678906397",
     "widevine_data": {
-      "kid": "15c235d01ffd0778d91ddf02bc6974bd",
-      "key": "d40ca8646467065190a6bb1e4c27bb39"
+      "kid": "0b6316397fac88b235032c810ebd3a09",
+      "key": "85982405516195cb659f027a58f17eb3"
     },
     "sources": [
       {
@@ -92,10 +87,10 @@
     "isLive": "true",
     "title": "Papua New Guinea VS Samoa",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137179_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "320344278902",
+    "okassetkey": "104742967858",
     "widevine_data": {
-      "kid": "1a39220d7c151b561d4afabbfed9f170",
-      "key": "4f705b27edd4fd887509fce9ca9d2611"
+      "kid": "0df0e1e213dada9e94c675230c7e5b03",
+      "key": "22635b96f2f667778446856b20aab3c2"
     },
     "sources": [
       {
@@ -111,10 +106,10 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "628549673491",
+    "okassetkey": "126390680312",
     "widevine_data": {
-      "kid": "faf796a65878e83d63964988b8e8aedf",
-      "key": "f15dcdf923e41f5dcffbc15a9ee0c7df"
+      "kid": "1f136a3e6f84080661f27759ac3aba07",
+      "key": "910a17df5f06366dc961358c3447e0ff"
     },
     "sources": [
       {
@@ -130,10 +125,10 @@
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "148645436805",
+    "okassetkey": "209253092566",
     "widevine_data": {
-      "kid": "4c70bbb2252d1a54d7bc2b692532872d",
-      "key": "c949891b57f1a29d92f3bb3cddaedec8"
+      "kid": "f29cded494986e4189231000ca6dab5e",
+      "key": "5e01f129a43700571e87f0635abec951"
     },
     "sources": [
       {
@@ -150,10 +145,10 @@
     "isLive": "true",
     "title": "FEC Playoffs",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133436_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "835205914926",
+    "okassetkey": "089091671103",
     "widevine_data": {
-      "kid": "7a6493d3b139fdbceb3ea9c0ffcc7839",
-      "key": "44da5a72d01da5e3fc614e075393e659"
+      "kid": "98e32631b53c94377f60dfbea92031c2",
+      "key": "2d9093f2f76abb8b925e0a63f7c81f15"
     },
     "sources": []
   }
