@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "793203034589",
+    "okassetkey": "059758045826",
     "widevine_data": {
-      "kid": "149a7410cac7b44a1745f0b057e6f468",
-      "key": "a34d60aee16f6f6321280abb8c4c07bc"
+      "kid": "81b66b1d21fc8694bb41d9332a2cb62c",
+      "key": "0e472be797b04203f36198bbc95aee20"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: R16",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9198/1759986249198-h",
-    "okassetkey": "287309938991",
+    "okassetkey": "423905038689",
     "widevine_data": {
-      "kid": "fe9e992be345e4824de8e3dec9e58a42",
-      "key": "a40c72b6e5400ddbae14c51092f0ac13"
+      "kid": "700aece27209ccf228a5addaf45d6974",
+      "key": "6afaad1ce4e9aa669025f9235dfd1ebd"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010026/1759994247762756_ShanghaiMasters25_QF_rune_vs_Vacherot_9oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "737504387207",
+    "okassetkey": "209699200845",
     "widevine_data": {
-      "kid": "72e433b2a1854a1131157bdbcae0fc23",
-      "key": "8d136406f5416c65d22df41ccaf46007"
+      "kid": "b207c9cce6f60685239b969053dcd0a5",
+      "key": "bdc732e8c3f5b2d71aefa4c3e99ea8fd"
     },
     "sources": [
       {
@@ -52,31 +52,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Malaysia VS Qatar",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137177_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "733752102293",
-    "widevine_data": {
-      "kid": "d7ebe7b380076437c9eaf242cd4fe91b",
-      "key": "0abae23daa0ded1fcc0c4188d0f5d7a5"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137177.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Western Australia VS New South Wales",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133936_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "685071312736",
+    "okassetkey": "675247759687",
     "widevine_data": {
-      "kid": "7b2f4610569a723796714ee5280e7e27",
-      "key": "cd04bcce74cf6fd2270ef3649ebd1360"
+      "kid": "2aa5b7c8f27d598f302ebf0026af7704",
+      "key": "2485d96f495c272385bae98976242619"
     },
     "sources": [
       {
