@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759480758967629_EQ_25_26_MD7_Finland_vs_Lithuania_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "543961914550",
+    "okassetkey": "366193698889",
     "widevine_data": {
-      "kid": "cc3bc22f684107f17cc02d350c9576dd",
-      "key": "6e725336dbf6ab61d06ea8a114c01194"
+      "kid": "834c3071a20e12a2d4e5826440cf2e1e",
+      "key": "586880d37d04764204978dc42a4fe5ab"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Gujarat Giants vs UP Yoddhas",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2749/1759922022749-h",
-    "okassetkey": "189110521674",
+    "okassetkey": "861460338837",
     "widevine_data": {
-      "kid": "ef974c5e3dc28e5ccb120e0dc127287b",
-      "key": "bfda6a4d47deddf09637b1132155f93e"
+      "kid": "18a497ddb91d5cb9e2aa2d24f507ab80",
+      "key": "2ebb920d83399550bc36478eb254c8d6"
     },
     "sources": []
   },
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543069118452_APL25_Day8_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "746202307865",
+    "okassetkey": "599084410122",
     "widevine_data": {
-      "kid": "a27ef41956d4f1b775d42b43d666b687",
-      "key": "12b22e789c926add88a9c865455ef039"
+      "kid": "b201d31748d6f36fe264a177eb36d6fd",
+      "key": "9126aa9816e03ca0376dbcee112f650a"
     },
     "sources": [
       {
@@ -60,10 +60,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "132236056753",
+    "okassetkey": "301223678907",
     "widevine_data": {
-      "kid": "7bd5f0e066166df8db34244f5c4b040f",
-      "key": "5f49aabec0b1fc4314b298eb1db56e89"
+      "kid": "a4e0e76b7e9a0a35ad0340b2cd937009",
+      "key": "2eb372525a5f63bba1b71aa880f923c5"
     },
     "sources": []
   },
@@ -74,10 +74,10 @@
     "isLive": "true",
     "title": "Botswana VS Uganda",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137524_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "909926691029",
+    "okassetkey": "792128065487",
     "widevine_data": {
-      "kid": "c5a821341dab4244e08a70c76fd1702b",
-      "key": "7cc7913df349701f77159de18dd63064"
+      "kid": "927ab4151d1b57079d7fee4799dff60e",
+      "key": "074ea87e30d54ce5373abb27af3217bc"
     },
     "sources": [
       {
@@ -93,10 +93,10 @@
     "isLive": "true",
     "title": "Liberia VS Namibia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137523_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "517701434694",
+    "okassetkey": "678474132616",
     "widevine_data": {
-      "kid": "0369e14465d714d6d2eabe8bdc796a8a",
-      "key": "285ed538ce450e6d53dc27a286539384"
+      "kid": "917be0fff469fee864873a46ed7cad08",
+      "key": "5eff375def935ea0c4c7e391ef35d440"
     },
     "sources": [
       {
@@ -112,17 +112,12 @@
     "isLive": "true",
     "title": "Somalia VS Algeria",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137521_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "457511129471",
+    "okassetkey": "021198503151",
     "widevine_data": {
-      "kid": "723ee26a477649996c165c00375e7331",
-      "key": "7b3165260c92b48bf5326db1aca6f2d4"
+      "kid": "70cf06fead22d4b54ebe9d02e0e1edff",
+      "key": "1c750559837b3aa1077777176c771d45"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137521.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 8,
@@ -131,10 +126,10 @@
     "isLive": "true",
     "title": "Mozambique VS Guinea",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137520_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "999431100428",
+    "okassetkey": "758673649050",
     "widevine_data": {
-      "kid": "6ef30be24244e336940e700e5ed95a2f",
-      "key": "914238c2970667c6b802eea208a64b27"
+      "kid": "333705d14712a29b116eee5713030d15",
+      "key": "70f66ff9f26cb85f60ea584d97709f4e"
     },
     "sources": [
       {
@@ -150,10 +145,10 @@
     "isLive": "true",
     "title": "Abu Dhabi VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137483_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "381700289588",
+    "okassetkey": "612048928027",
     "widevine_data": {
-      "kid": "40fdfb6ba7b58719b0f1e948c56a5168",
-      "key": "066928639e6f283bce9d23c418ae81e8"
+      "kid": "60138f1086bdd5a5f1cf57d1ced45421",
+      "key": "68aa31ba1b0695605a3f72143f626862"
     },
     "sources": [
       {
@@ -169,10 +164,10 @@
     "isLive": "true",
     "title": "Papua New Guinea VS Samoa",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137179_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "853750601630",
+    "okassetkey": "682231224750",
     "widevine_data": {
-      "kid": "c56a85f509d3c70ad6f3cf30619aed9a",
-      "key": "148a1c0ddb0c31902510ea365c141a4b"
+      "kid": "e625726ecb0785e1e1041e81322bc915",
+      "key": "5214573aa6f327256b321bb6147f5a87"
     },
     "sources": [
       {
@@ -188,10 +183,10 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "829982379443",
+    "okassetkey": "146166402530",
     "widevine_data": {
-      "kid": "6774ddc04a8e51167ab643b6ebfb93f8",
-      "key": "8a5b41b58b637fa062da5b6aca8c3235"
+      "kid": "1daa986048dd418d8041fe45ab53592e",
+      "key": "a40de6f698b855b697f1af59cd992e99"
     },
     "sources": [
       {
@@ -207,10 +202,10 @@
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "432413829476",
+    "okassetkey": "913202877813",
     "widevine_data": {
-      "kid": "19e45161ec1a18155ed22458e2eb3403",
-      "key": "660ed92011bc2237ad76d638aa84af47"
+      "kid": "2cb4cb32640477bed9c541a9458d3889",
+      "key": "b8f2c22c7787297ac055ccf069d8948a"
     },
     "sources": [
       {
@@ -227,10 +222,10 @@
     "isLive": "true",
     "title": "CFS Pinnacle Pro VS AZ Black Eagles",
     "imageUrl": "https://images.fancode.com/aig/match/v1/127730_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "491596539581",
+    "okassetkey": "008704248859",
     "widevine_data": {
-      "kid": "5545322fb29ebd88893d8435ee6ae37a",
-      "key": "924f74a3bbe9c47c9fa626ef7f055cbb"
+      "kid": "23ad5544e0b65d149ef41f9deec191c2",
+      "key": "bf157a95aa3df102e3932c75e1981077"
     },
     "sources": []
   }
