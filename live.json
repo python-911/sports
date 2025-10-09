@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010010/1759931328945217_Extreme_E_and_Extreme_H_WC25_day1_8oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "859192624182",
+    "okassetkey": "692317336105",
     "widevine_data": {
-      "kid": "6f37a1aa6f9d531cf7a29bc07c39ba86",
-      "key": "48ca944e6c28b6b7cec1f19c4310b9d7"
+      "kid": "5b3d6ab1127bd6d844a564bbc35db8c3",
+      "key": "5f333905c8ded55512086d37044a6fd1"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "221623298060",
+    "okassetkey": "866994917334",
     "widevine_data": {
-      "kid": "0572131a997916355a9e22c734443730",
-      "key": "1888c9a8aab2654b19d393a6ee879053"
+      "kid": "b597cdffa5f39169100cad994e94c5c2",
+      "key": "24287bd09d7d4799f8bf742c0916cdd7"
     },
     "sources": []
   },
@@ -40,26 +40,31 @@
     "isLive": "true",
     "title": "BWF Arctic Open: R16",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9198/1759986249198-h",
-    "okassetkey": "311134600926",
+    "okassetkey": "918237928486",
     "widevine_data": {
-      "kid": "b7af5885edc191a8b852a57dcd8c3890",
-      "key": "7f2847b5d831ddc2757b4c19b6a070cb"
+      "kid": "879684f81840c0e2591b5d9160690838",
+      "key": "381cb19d2de9f6fc50a0c46e6b024c64"
     },
     "sources": []
   },
   {
     "id": 4,
-    "genre": "Tennis",
+    "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Sony Sports Ten 5",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010026/1759994673122756_ShanghaiMasters25_QF_BERGS_vs_DJOKOVIC_9oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "919475583501",
+    "title": "Burundi VS Kenya",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137519_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "371522080321",
     "widevine_data": {
-      "kid": "f9c553dbb613e49cc0683faac94fcc33",
-      "key": "51313f7d5709037a57e035f38c508069"
+      "kid": "21a08b77ef4f03b5f6af2847d1fc7cc8",
+      "key": "96e2736c2658f8b0ef7dda51c8ccc9f8"
     },
-    "sources": []
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137519.m3u8"
+      }
+    ]
   },
   {
     "id": 5,
@@ -68,10 +73,10 @@
     "isLive": "true",
     "title": "Singapore VS India",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137359_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "562516735322",
+    "okassetkey": "196169092343",
     "widevine_data": {
-      "kid": "f290dff9f1b8b996480335ef8a3f2805",
-      "key": "13a5e5ed5e426bfbf8edb688bcf0aa20"
+      "kid": "b45dc8dff0b519998c975f507898d798",
+      "key": "80a16a1e05d6cfdc298aa34a838e83e4"
     },
     "sources": [
       {
@@ -87,10 +92,10 @@
     "isLive": "true",
     "title": "Kuwait VS Japan",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137178_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "350459322057",
+    "okassetkey": "964882663505",
     "widevine_data": {
-      "kid": "73dd936beb587ec018e9bfa400e29244",
-      "key": "e7811921c4c7c7e74bd263b1a373fdb5"
+      "kid": "efa8f9eb5f3f03a6ec75b66552282dc6",
+      "key": "cb2540800dae817ce210a9eda8eaaaf7"
     },
     "sources": [
       {
@@ -106,10 +111,10 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "947425962507",
+    "okassetkey": "155837380843",
     "widevine_data": {
-      "kid": "8234034a14321e5d05a2a323e55c09c5",
-      "key": "3af9c2d54300a084661d591753c864ba"
+      "kid": "64008e02a74dfa14494267eabbb910d8",
+      "key": "88731eb300826bfc2630f446c293d113"
     },
     "sources": [
       {
@@ -123,12 +128,26 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
+    "title": "United CC Bucharest VS Cluj",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/135762_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "803456905336",
+    "widevine_data": {
+      "kid": "8f31c943444cf2b68ddca64d4a84f17e",
+      "key": "c3320e0e973b81aeac02c79ab82d8f33"
+    },
+    "sources": []
+  },
+  {
+    "id": 9,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
     "title": "Western Australia VS New South Wales",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133936_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "567139054226",
+    "okassetkey": "410903445465",
     "widevine_data": {
-      "kid": "5f74df11d121d1d47b01a84e7a18d456",
-      "key": "e886f74c7ccaa37adb61de05dd904963"
+      "kid": "1d2ad7b7e8f5f5bf26a7f87c456393d6",
+      "key": "155c7dec2aa7c82813cc79cde2a6b733"
     },
     "sources": [
       {
@@ -136,5 +155,47 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-133936.m3u8"
       }
     ]
+  },
+  {
+    "id": 10,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "FEC Playoffs",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/133441_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "259258122809",
+    "widevine_data": {
+      "kid": "19a69ea6d895e084f77911dbd07e9b76",
+      "key": "26365e45d61cabf1c396141c491b21de"
+    },
+    "sources": []
+  },
+  {
+    "id": 11,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Bin Dilmah VS OGC Pan Gulf",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/118946_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "462643106789",
+    "widevine_data": {
+      "kid": "5ba69d8254c8c97082aa4e708785e6fd",
+      "key": "094eb83917879acf5676be5ca093146a"
+    },
+    "sources": []
+  },
+  {
+    "id": 12,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Mombasa Rhino VS Thika Hippo",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/61751_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "809176733435",
+    "widevine_data": {
+      "kid": "6902856f87e5baae8856ec11dd87f847",
+      "key": "e1d95a7219c1d931d62021ac79910b3a"
+    },
+    "sources": []
   }
 ]
