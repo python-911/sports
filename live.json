@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009887/1759599148735527_UEFA_INT_Friendlies_Romania_vs_Moldova_4oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "483483951100",
+    "okassetkey": "035940780323",
     "widevine_data": {
-      "kid": "f7955e843f59cb47b0923a508b494ba3",
-      "key": "be2a1321c41a9663f4accc9468b13069"
+      "kid": "da9110fe279de638996fa4b07b5fe713",
+      "key": "0611ba3393b80b0597180b6f18e0ef01"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "415217320371",
+    "okassetkey": "898342378950",
     "widevine_data": {
-      "kid": "a63fec31f5618cefdaeeeb6dcc969b9e",
-      "key": "7ce4fc342aba3447f0224a9be3e3b63d"
+      "kid": "6cac5f37b933579db1774dab483700ca",
+      "key": "d9747638efbb1d3afe45160817ffc0c0"
     },
     "sources": []
   },
@@ -38,88 +38,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Botswana VS Uganda",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137524_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "848020641684",
-    "widevine_data": {
-      "kid": "909a9487157a5e941c12498d8f7fbe73",
-      "key": "501315a1aa87103061226b0bcd3aa553"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137524.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Liberia VS Namibia",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137523_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "042654290090",
-    "widevine_data": {
-      "kid": "31155632095944f0a4bd68a5e97ed5a1",
-      "key": "064ca4361aee96a36296565466e8daf2"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137523.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Somalia VS Algeria",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137521_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "658602086466",
-    "widevine_data": {
-      "kid": "71eb35869380b702d0f5ad8496c429dc",
-      "key": "0bab222929e514d664146b9910b94b54"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137521.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Mozambique VS Guinea",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137520_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "229874458862",
-    "widevine_data": {
-      "kid": "c0ce144eb6d7f03ba6c1d2b27cae58c8",
-      "key": "a63ef61b339a6a20b8da9202e1531479"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137520.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Dubai VS Emirates Blues",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137484_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "414916069100",
+    "okassetkey": "844446922186",
     "widevine_data": {
-      "kid": "835b5cd646ebfc8dfc846fd2965ff1b0",
-      "key": "ecdfc741aae8604d0a42203b7e98b6ed"
+      "kid": "57d9f2f6e018b3946f5c2f247d0dd374",
+      "key": "6b94b8fd3623c596df42a846fd4c3f36"
     },
     "sources": [
       {
@@ -129,16 +53,16 @@
     ]
   },
   {
-    "id": 8,
+    "id": 4,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Papua New Guinea VS Samoa",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137179_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "320934418265",
+    "okassetkey": "640621207573",
     "widevine_data": {
-      "kid": "dd9ffefc8469070671ed60be28370295",
-      "key": "80843013a8410ef908449a7e189be3e5"
+      "kid": "a565415c49bf9fdeb5fa4f27cbfddbec",
+      "key": "34ed9f34265a0553af2ec5d648143393"
     },
     "sources": [
       {
@@ -148,16 +72,16 @@
     ]
   },
   {
-    "id": 9,
+    "id": 5,
     "genre": "Game Show",
     "payType": "P",
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "236314554420",
+    "okassetkey": "038453482067",
     "widevine_data": {
-      "kid": "d573c0273f10f79e4b8546d080ad1e57",
-      "key": "83372542c48ac7e6de6384db8d63abd1"
+      "kid": "c9a7741e235ec2a6893867189c712945",
+      "key": "185e6327634d83bb01b809e90bb3dde3"
     },
     "sources": [
       {
