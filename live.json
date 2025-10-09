@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543069118452_APL25_Day8_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "045326977775",
+    "okassetkey": "098133963133",
     "widevine_data": {
-      "kid": "30cb0c1895ce3fb760713f9aedc0e7a4",
-      "key": "7d1060425a2fd6b076713281c1cf1b06"
+      "kid": "4d3e6120ba238ae92b310a0d80b4227a",
+      "key": "6c56272d151b7ac92866ab5776d7b559"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010040/1760014194948839_Extreme_E_and_Extreme_H_WC25_day1_9oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "949734384750",
+    "okassetkey": "026709471530",
     "widevine_data": {
-      "kid": "24321995862864de43602cba42810d1f",
-      "key": "f07d78d30b17285d9584111a7093fb5c"
+      "kid": "9f49eb223d1c8e2fbeb255795a4ba3e9",
+      "key": "8608d094b9b5ee477d346f4d7f6f7ecf"
     },
     "sources": [
       {
@@ -46,10 +46,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "739228695546",
+    "okassetkey": "027916376506",
     "widevine_data": {
-      "kid": "96f02fb48e10ca3e1c047ee0eff15271",
-      "key": "006523e0a4390c254a59f72b188d2b75"
+      "kid": "5e156577ddb37a7fe3b7e50d4b476ffe",
+      "key": "1cf785814db5f33fa351d2ef13c18dff"
     },
     "sources": []
   },
@@ -60,10 +60,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: R16",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9198/1759986249198-h",
-    "okassetkey": "346531508685",
+    "okassetkey": "401764122380",
     "widevine_data": {
-      "kid": "cf092f8989001a2f15329b8fd88c117f",
-      "key": "4d164e64574597822f014d5e72ae5f71"
+      "kid": "4fe466c7c340aee78a8810250bc656f5",
+      "key": "da32c10e6b3a9ee0078523441d36b8af"
     },
     "sources": []
   },
@@ -74,10 +74,10 @@
     "isLive": "true",
     "title": "Burundi VS Kenya",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137519_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "015711107034",
+    "okassetkey": "336113268695",
     "widevine_data": {
-      "kid": "657b9b6d79c40bcde0defaf844329f13",
-      "key": "23b4a0cc9a5d00a59fa86a82d7e33c83"
+      "kid": "963814ec91e8192f5b61be1a9b76d7e4",
+      "key": "24f1469ddf1978685707b4375d30f109"
     },
     "sources": [
       {
@@ -93,10 +93,10 @@
     "isLive": "true",
     "title": "Abu Dhabi VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137483_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "223508175734",
+    "okassetkey": "634664089849",
     "widevine_data": {
-      "kid": "004c1b26091dbdaf06909dcb0b1a9f3d",
-      "key": "8eb038b9ba9c0a302994738b56bfa5fd"
+      "kid": "ac827f35f2cb2cd993026e949e8aea17",
+      "key": "9f61b3746341ee684a838243e4c2f71d"
     },
     "sources": [
       {
@@ -110,31 +110,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Kuwait VS Japan",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137178_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "938054418335",
-    "widevine_data": {
-      "kid": "65fee056c097c5d9e4f70938d42b330a",
-      "key": "2b6aed1532ebad5bede26262d78472d4"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137178.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "851646432428",
+    "okassetkey": "643651583167",
     "widevine_data": {
-      "kid": "352112237507ad3ebc4d127b5047ae64",
-      "key": "5a7248814036c0cab4984c329e448cbc"
+      "kid": "f389bb08cb911ee3aea0c3da817fc39d",
+      "key": "38eb9fa62def359edca549dd3b852968"
     },
     "sources": [
       {
@@ -144,16 +125,16 @@
     ]
   },
   {
-    "id": 9,
+    "id": 8,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Western Australia VS New South Wales",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133936_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "572678923758",
+    "okassetkey": "472981255824",
     "widevine_data": {
-      "kid": "c451f57734c602b620f83ebf787672b3",
-      "key": "21fc4e697234a4c04debd11d68af6f37"
+      "kid": "cf028178764b18ebc63f3f7a8d71990f",
+      "key": "64415bdb89d13f7579ab1875b3be0a05"
     },
     "sources": [
       {
@@ -161,19 +142,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-133936.m3u8"
       }
     ]
-  },
-  {
-    "id": 10,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "FEC Playoffs",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/133446_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "927406357493",
-    "widevine_data": {
-      "kid": "e8eb2f8d8cf7d77edda955ad43816852",
-      "key": "49d5d5ce49a4c0e5387a9c31a2476d0c"
-    },
-    "sources": []
   }
 ]
