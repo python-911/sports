@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759480758967629_EQ_25_26_MD7_Finland_vs_Lithuania_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "647146496059",
+    "okassetkey": "736613666484",
     "widevine_data": {
-      "kid": "81c2de56e9d4fb490475bf1a6856f1ad",
-      "key": "741dc3d98521f7eb10a7c8c4f63a4562"
+      "kid": "6589bbb1c816096fc47a50ec6120c8ec",
+      "key": "4b9df903e5d521d26c3713daf8db260b"
     },
     "sources": [
       {
@@ -21,43 +21,29 @@
   },
   {
     "id": 2,
-    "genre": "KABADDI",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Gujarat Giants vs UP Yoddhas",
-    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2749/1759922022749-h",
-    "okassetkey": "840262735546",
-    "widevine_data": {
-      "kid": "40c194f0fb2bd4f9cde6489bd4c76e14",
-      "key": "2413127f40126c5e48c2d861e992fbea"
-    },
-    "sources": []
-  },
-  {
-    "id": 3,
     "genre": "Cricket",
     "payType": "P",
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "476550432160",
+    "okassetkey": "525983040001",
     "widevine_data": {
-      "kid": "92b4f3ca0fcbbb3769d3e11ed74d60ae",
-      "key": "77d71f889831fa2daad1046c5227c21e"
+      "kid": "3fd4052130f804c5adc4fa5d81e83af7",
+      "key": "06d3c45c8bf8c89418bdce6230d2062d"
     },
     "sources": []
   },
   {
-    "id": 4,
+    "id": 3,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Botswana VS Uganda",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137524_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "482540844422",
+    "okassetkey": "439942495453",
     "widevine_data": {
-      "kid": "6865d772d0bfd308e01bb4a15510b2b5",
-      "key": "38ad1d5ca724dcc1a232b88f0f246c6d"
+      "kid": "763267793efc20d518b017163d159f2e",
+      "key": "f650fb426266485089299dbc712d3ac7"
     },
     "sources": [
       {
@@ -67,16 +53,16 @@
     ]
   },
   {
-    "id": 5,
+    "id": 4,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Liberia VS Namibia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137523_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "317609380243",
+    "okassetkey": "124967100982",
     "widevine_data": {
-      "kid": "2cda796f3b0f0e783d0f6a68af36e889",
-      "key": "778779d93ecee74d9d67e2beb82221c2"
+      "kid": "3398e8eacf089d7d8a759b9795245222",
+      "key": "e8c86ff0e8191bd135ca274e0762477f"
     },
     "sources": [
       {
@@ -86,16 +72,16 @@
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Somalia VS Algeria",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137521_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "992436522487",
+    "okassetkey": "309848595104",
     "widevine_data": {
-      "kid": "847f0996959d220399491dda44d9dca0",
-      "key": "c304a96210cb3a2d665f3a2b0466f405"
+      "kid": "b8c8de7ab2c38b7939816f1ac69fb840",
+      "key": "4a460092a5fb255f35052de6f08be132"
     },
     "sources": [
       {
@@ -105,16 +91,16 @@
     ]
   },
   {
-    "id": 7,
+    "id": 6,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Mozambique VS Guinea",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137520_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "201937084479",
+    "okassetkey": "927834994600",
     "widevine_data": {
-      "kid": "05f82f00b424c059f7f5be12f81a15c3",
-      "key": "4629a4229202db401245010d8758c96b"
+      "kid": "7c4efb8661ec84b2df16e3882244c41c",
+      "key": "c6b00df6b331ef8792833f335b555b8f"
     },
     "sources": [
       {
@@ -124,16 +110,16 @@
     ]
   },
   {
-    "id": 8,
+    "id": 7,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Papua New Guinea VS Samoa",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137179_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "430159146909",
+    "okassetkey": "501275127465",
     "widevine_data": {
-      "kid": "36c3a087b3ac8232268dd36da323553e",
-      "key": "eb1dd7ee774bd519e876b0cbf98c54c4"
+      "kid": "6c8e20fe7d87d6164dafaa9335ee8e58",
+      "key": "cc6a9655b06f3aeab1f11f1116d9f0bb"
     },
     "sources": [
       {
@@ -143,16 +129,16 @@
     ]
   },
   {
-    "id": 9,
+    "id": 8,
     "genre": "Game Show",
     "payType": "P",
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "507814821627",
+    "okassetkey": "410242541490",
     "widevine_data": {
-      "kid": "4cf15ca5c33eac1ca534f8c816015943",
-      "key": "488cbb61e26dd2b70c2ecc033b838137"
+      "kid": "ee423f8e52b7feb218413b0a34bae3f6",
+      "key": "28f178f7914d7ba5b4b86168e0c1a1d7"
     },
     "sources": [
       {
