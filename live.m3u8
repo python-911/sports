@@ -1,15 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137575_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Philadelphia Phillies VS Los Angeles Dodgers
 https://live-aws-cdn.okflix.top/hls/fan1-137575.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137574_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Toronto Blue Jays VS New York Yankees
-https://live-aws-cdn.okflix.top/hls/fan1-137574.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137302_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",New York Lions CC VS Los Angeles Waves CC
 https://live-aws-cdn.okflix.top/hls/fan1-137302.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137311_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Baycurrent Classic
 https://live-aws-cdn.okflix.top/hls/fan1-137311.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133935_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Queensland VS Tasmania
-https://live-aws-cdn.okflix.top/hls/fan1-133935.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133958_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",New South Wales Breakers VS Western Australia Women
-https://live-aws-cdn.okflix.top/hls/fan1-133958.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133934_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",South Australia VS Victoria
 https://live-aws-cdn.okflix.top/hls/fan1-133934.m3u8
