@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000010026/1759994247762756_ShanghaiMasters25_QF_rune_vs_Vacherot_9oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Tennis",Sony Sports Ten 5
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491864.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137177_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Malaysia VS Qatar
-https://live-aws-cdn.okflix.top/hls/fan1-137177.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133936_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Western Australia VS New South Wales
 https://live-aws-cdn.okflix.top/hls/fan1-133936.m3u8
