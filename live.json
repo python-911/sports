@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009832/1759480758967629_EQ_25_26_MD7_Finland_vs_Lithuania_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "325239959385",
+    "okassetkey": "179419640965",
     "widevine_data": {
-      "kid": "de80f6feea81fd78e55d1f124bbae616",
-      "key": "699c0f7f722c190c6dfd5e8d8959a0e0"
+      "kid": "1ccfb42b3b6a42210f4f71e04d12bd90",
+      "key": "a14532b58f248d83b1cec039cb59a8f0"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Gujarat Giants vs UP Yoddhas",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2749/1759922022749-h",
-    "okassetkey": "242466400898",
+    "okassetkey": "261740514473",
     "widevine_data": {
-      "kid": "2836e82e7b84e9685de0f0d400085882",
-      "key": "e8a57bfd075d1f752c67030e6b60416e"
+      "kid": "b90dbea4aeb712307fbebe70c43a5e27",
+      "key": "0788bdb30c8be6fefd38c4bcff6ee855"
     },
     "sources": []
   },
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543069118452_APL25_Day8_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "819484997884",
+    "okassetkey": "628961929002",
     "widevine_data": {
-      "kid": "757dd997df243d3d32cea0cdc4c2e25a",
-      "key": "17ac52ee66ac083597875dcbf43d9275"
+      "kid": "60bf703cc6a9c53ce7d120da3588d221",
+      "key": "1c14b1efea02f91c172ff03fed3dd416"
     },
     "sources": [
       {
@@ -60,10 +60,10 @@
     "isLive": "true",
     "title": "India W vs South Africa W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/3734/1759920813734-h",
-    "okassetkey": "937466043544",
+    "okassetkey": "967850940514",
     "widevine_data": {
-      "kid": "3516ba3621f339f91f04a38e4ca28db1",
-      "key": "427a0841139a305a7d0b87eb75762d5b"
+      "kid": "87198ccb8be96cec2613cedf9c7fbdaa",
+      "key": "98f6133bfbe36b3b549d26e08d9e2469"
     },
     "sources": []
   },
@@ -74,10 +74,10 @@
     "isLive": "true",
     "title": "Abu Dhabi VS Ajman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137483_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "682061349003",
+    "okassetkey": "235994208489",
     "widevine_data": {
-      "kid": "1b09ab0681e9ad5e8678f4562413e5a9",
-      "key": "d9b3aad1eb304cc90347aa40fb1cc103"
+      "kid": "e7718540379f9689ccb601b458577fcb",
+      "key": "0074037f51bc43fea170c720104f4a8e"
     },
     "sources": [
       {
@@ -93,12 +93,17 @@
     "isLive": "true",
     "title": "Papua New Guinea VS Samoa",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137179_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "932004570162",
+    "okassetkey": "878366256537",
     "widevine_data": {
-      "kid": "86bb27e98975ac896fca95caa7c430df",
-      "key": "e40b93e18bbbeac4520281acd9399a5b"
+      "kid": "ddc6927a400bd00df2fa23c3a9435101",
+      "key": "49fd307debb7cc9704136f844096649c"
     },
-    "sources": []
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137179.m3u8"
+      }
+    ]
   },
   {
     "id": 7,
@@ -107,10 +112,10 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136859_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "567405110779",
+    "okassetkey": "263823444134",
     "widevine_data": {
-      "kid": "d95062b5efc4a33f5689bc309baf6617",
-      "key": "34f5530e399c7c081a99cc092db1b314"
+      "kid": "90a3c0705d4ac0d327a43274b962bea0",
+      "key": "a5b68d62e1fe1f1d45e97afd34992894"
     },
     "sources": [
       {
@@ -126,10 +131,10 @@
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009933/1759759561054452_KBC25_Junior_6OCT_simulcast_Landscape_Thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "414367352007",
+    "okassetkey": "400610573868",
     "widevine_data": {
-      "kid": "9a2762bae3725f3955ef0f6613ebeca8",
-      "key": "082763a947b59e4f81ed5d926959c921"
+      "kid": "840dcec59f97dbb8e6c0ab9a804a4cf7",
+      "key": "b8f874194f96c7b5aac727e9558c1279"
     },
     "sources": [
       {
