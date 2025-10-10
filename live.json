@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "2nd Test: India vs West Indies, Day 1",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9955/1760007589955-h",
-    "okassetkey": "939742158962",
+    "okassetkey": "371932014737",
     "widevine_data": {
-      "kid": "d15dd9bc9cdd4a5c5c4cd5a0309e63d4",
-      "key": "ff23614248bf0c655b99375ed5258910"
+      "kid": "8a863abfd963e0224524fd57a0a7b6ea",
+      "key": "603e8465388c7c1bbadd28791c482691"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137419_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "562501452933",
+    "okassetkey": "263488794613",
     "widevine_data": {
-      "kid": "0e823d3522b713ef4263e69b643dba70",
-      "key": "209d470d2b0561d359f788596fa21327"
+      "kid": "4f9e5d9edb8827fd323959e8309ae605",
+      "key": "3760064581f54e3df4e1b1ef87aaf3b6"
     },
     "sources": [
       {
@@ -39,10 +39,10 @@
     "isLive": "true",
     "title": "Baycurrent Classic",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137312_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "779950405642",
+    "okassetkey": "724460935216",
     "widevine_data": {
-      "kid": "ea385937b6c39f9bdae9001891716f27",
-      "key": "ea7d8cdd2548a1c89cd085537467c931"
+      "kid": "b7b7725e5e57c6a741c15c9ff13956d5",
+      "key": "ddf21583c29f62e26183439a7e479bb9"
     },
     "sources": [
       {
@@ -50,19 +50,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137312.m3u8"
       }
     ]
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Victoria Women VS Tasmania Women",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/133957_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "572923254230",
-    "widevine_data": {
-      "kid": "4259cc0ad7a45ec2fd4273762e95165d",
-      "key": "093322346c779e91c7759c57b87f35d0"
-    },
-    "sources": []
   }
 ]
