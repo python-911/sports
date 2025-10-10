@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000010040/1760014215356839_Extreme_E_and_Extreme_H_WC25_day2_9oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Racing",Sony Sports Ten 5
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491972.m3u8
-#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000010054/1760033142812308_ATP25_9oct_Medvedev_vs_DeMinaur_landscape_thumb_Live.jpg?h=auto&w=720&q=low" group-title="Tennis",Sony Sports Ten 5
-https://live-aws-cdn.okflix.top/hls/sliv1-1090491865.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137421_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Tamil Nadu Chief Minister’s Trophy Games 2025
 https://live-aws-cdn.okflix.top/hls/fan1-137421.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137181_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Nepal VS Japan
