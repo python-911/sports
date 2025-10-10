@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Bengal Warriorz vs U Mumba",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/1228/1760008311228-h",
-    "okassetkey": "904479442442",
+    "okassetkey": "013163121055",
     "widevine_data": {
-      "kid": "c2d27b69ae3ed487668fe637a9c249bb",
-      "key": "598867fe7bc5b1f25a7c49179770832f"
+      "kid": "d1fbb7e87a4f9670109d42fac5090062",
+      "key": "d0e23e09056cefc9954b092a83b045c7"
     },
     "sources": []
   },
@@ -20,18 +20,12 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010094/1760108546205708_APL25_day9_10oct_live_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "045339035968",
+    "okassetkey": "297313344962",
     "widevine_data": {
-      "kid": "0da44a3d99e0182d8d8866e7803617f8",
-      "key": "2002b50ba6873183b585c02305df604d"
+      "kid": "fc3611b8bd62c675cb1ea4f9accfd22d",
+      "key": "32257e526cec1f1cc4f30a6411cc5d9c"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090491973.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 3,
@@ -40,10 +34,10 @@
     "isLive": "true",
     "title": "ONE Friday Fights 128",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6837/1760006646837-h",
-    "okassetkey": "997150440097",
+    "okassetkey": "953176819197",
     "widevine_data": {
-      "kid": "99dec238b1a6f1b7954923a8ba7fbb10",
-      "key": "0771273996b00a5885a1e5e91b7fcc21"
+      "kid": "3f7b75b9f5e61085d6963f0c9e8fdadb",
+      "key": "6a91b9c432b283367a0352182a35f528"
     },
     "sources": []
   },
@@ -54,10 +48,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "777694793357",
+    "okassetkey": "165013923009",
     "widevine_data": {
-      "kid": "3c822e12af31a5a88783e05aeb6d3371",
-      "key": "890abc26a9d2f5652dffd6e5a9e942d9"
+      "kid": "f06102af540caaadb6f2c481cc609cdb",
+      "key": "89af05c3efe8a7085debddddb5f35ec9"
     },
     "sources": []
   },
@@ -68,10 +62,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: QFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9904/1760071119904-h",
-    "okassetkey": "690643493344",
+    "okassetkey": "655349900028",
     "widevine_data": {
-      "kid": "421ace750b1863c492bfbbc948229379",
-      "key": "d6485d2dfc47c2dd72f8ba76a2ad8b48"
+      "kid": "245657419f9f9dd45c5348bc461eb6d2",
+      "key": "67d059de8a3e8205fa9d5734156f1c21"
     },
     "sources": []
   },
@@ -82,10 +76,10 @@
     "isLive": "true",
     "title": "New Zealand W vs Bangladesh W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "964984926080",
+    "okassetkey": "796303014396",
     "widevine_data": {
-      "kid": "6e85876b0b311180413f2f49b64c0d6c",
-      "key": "5a05ee1718f2a41859be58748a024ac2"
+      "kid": "732a5de93d501d0131f0f31e111bd3a5",
+      "key": "574ba74f9f6dfbac7a6dea95924e4339"
     },
     "sources": []
   },
@@ -96,10 +90,10 @@
     "isLive": "true",
     "title": "S\u00e3o Tom\u00e9 e Pr\u00edncipe VS Tunisia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137533_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "327121541667",
+    "okassetkey": "312164519181",
     "widevine_data": {
-      "kid": "6542ee1be8a13f1c12465a0d4ff8ba1d",
-      "key": "c46e0cfa3a2a99baa33bb52c760dcaed"
+      "kid": "bc9255849287eef765db56e079bb6762",
+      "key": "6dde294ae63df9e7757fdb2aa1518f39"
     },
     "sources": [
       {
@@ -115,10 +109,10 @@
     "isLive": "true",
     "title": "Rwanda VS Benin",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137532_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "192449464071",
+    "okassetkey": "398104458012",
     "widevine_data": {
-      "kid": "8f481602c8fd09dd74eaa7638aa35164",
-      "key": "e8cd300d6cec511d8d54584b9cb14d75"
+      "kid": "97db82fe7ae2d76cb7d813a0d440be78",
+      "key": "86190d784251250e3339da9e140178eb"
     },
     "sources": [
       {
@@ -134,10 +128,10 @@
     "isLive": "true",
     "title": "Zimbabwe VS South Africa",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137531_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "182560299497",
+    "okassetkey": "925291740303",
     "widevine_data": {
-      "kid": "f9b6df937208a148efa99f88d791ce0b",
-      "key": "98d85b64bbe2f1a056479a70296c6302"
+      "kid": "dc5af6ba158d7d98caf68c750c707b2a",
+      "key": "aa40536fd92741ec96be363d867398de"
     },
     "sources": [
       {
@@ -153,10 +147,10 @@
     "isLive": "true",
     "title": "Lesotho VS Nigeria",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137530_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "340883000871",
+    "okassetkey": "072992314376",
     "widevine_data": {
-      "kid": "7a99ebc693be0fce6ea970e67aa2475e",
-      "key": "f5f01f4aaa8c4e26d68852b789ee5936"
+      "kid": "52c2d8aca6ba293ac4c27929047077e3",
+      "key": "a5b70d8b9435df9dfe6a313eae024cbb"
     },
     "sources": [
       {
@@ -172,10 +166,10 @@
     "isLive": "true",
     "title": "Abu Dhabi VS Dubai",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137485_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "293985382439",
+    "okassetkey": "820361186175",
     "widevine_data": {
-      "kid": "c6d3f724fb66d6032d925aefdfeb5fab",
-      "key": "986e3191f283efc2af3bea78162d2da1"
+      "kid": "76de66c6263974cea9357afbcc4289e6",
+      "key": "a2c77c9aa529bd5e9359015446360d16"
     },
     "sources": [
       {
@@ -191,10 +185,10 @@
     "isLive": "true",
     "title": "Oman VS Papua New Guinea",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137182_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "297517388671",
+    "okassetkey": "603599925322",
     "widevine_data": {
-      "kid": "92a3bd7dbe6cfd8160f3796803299372",
-      "key": "4fdfd50db42a2da104c90518431b1dd2"
+      "kid": "48394492bf3827c225fc90835b1b2adf",
+      "key": "6bbb95b3538bc57e0fe1f85c2e596a8d"
     },
     "sources": [
       {
@@ -210,17 +204,12 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136860_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "974436890633",
+    "okassetkey": "786214225272",
     "widevine_data": {
-      "kid": "8529781b798b17b92424ccf0c6541ed6",
-      "key": "0f8b4309a7d368c1d7f2646cda239d6d"
+      "kid": "bf55419c35392822447c7bdcd5877eba",
+      "key": "acea5e7430071ddba8686ee7bc2452c7"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-136860.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 14,
@@ -229,10 +218,10 @@
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010088/1760104918182917_kbc16_AB_birthday_spl_10oct_simulcast_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "664649815310",
+    "okassetkey": "354279285029",
     "widevine_data": {
-      "kid": "5c225ee48dfe0dd0cc7672096d72ec05",
-      "key": "776d6df22c412cb099aa86b5f89d6992"
+      "kid": "6e2fe7bd57d58cbb2b47050568e3c020",
+      "key": "01fa09d1a2a741f17784f4343dfa50a2"
     },
     "sources": [
       {
