@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000010040/1760014215356839_Extreme_E_and_Extreme_H_WC25_day2_9oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Racing",Sony Sports Ten 5
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491972.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137619_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Indonesia U23 VS India U23
+https://live-aws-cdn.okflix.top/hls/fan1-137619.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137529_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Gambia VS Gabon
+https://live-aws-cdn.okflix.top/hls/fan1-137529.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137528_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Seychelles VS Côte d'Ivoire
+https://live-aws-cdn.okflix.top/hls/fan1-137528.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137527_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Sudan VS Mauritania
+https://live-aws-cdn.okflix.top/hls/fan1-137527.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137526_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Togo VS Congo DR
+https://live-aws-cdn.okflix.top/hls/fan1-137526.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137525_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",South Sudan VS Senegal
+https://live-aws-cdn.okflix.top/hls/fan1-137525.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137421_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Tamil Nadu Chief Minister’s Trophy Games 2025
 https://live-aws-cdn.okflix.top/hls/fan1-137421.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137181_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Nepal VS Japan
