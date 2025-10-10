@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "081911291213",
+    "okassetkey": "589475719766",
     "widevine_data": {
-      "kid": "651486494e4e45dc8363e369c96b8af6",
-      "key": "5c21abcb958f6a6ec32cc1d06d270541"
+      "kid": "0e425bef9968f6df520339dc1edc0ba2",
+      "key": "ced3b144353732cf12c5a3d08a26a262"
     },
     "sources": []
   }
