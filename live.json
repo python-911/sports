@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "213576111201",
+    "okassetkey": "822327540277",
     "widevine_data": {
-      "kid": "95a3a05f1e3be5d8c6a7b1f349d4b325",
-      "key": "afdd56f667faf383556726e182fef0d8"
+      "kid": "1c8fc60de265bcd0d84cc65a0774c286",
+      "key": "8ab494a0348f4d31e47f3cda4f21eeac"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Toronto Sixers Women VS Vancouver Thunderbirds Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137460_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "440723205838",
+    "okassetkey": "236833558987",
     "widevine_data": {
-      "kid": "35134cee6d82257110bec00e5ae732e9",
-      "key": "e691ff5e225eba753031032c26381b9b"
+      "kid": "cfbfa1df873e51f21c463c8194a75c8a",
+      "key": "13e953bde2319695980b3eac204648f8"
     },
     "sources": [
       {
