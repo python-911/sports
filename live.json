@@ -5,11 +5,11 @@
     "payType": "P",
     "isLive": "true",
     "title": "Sony Sports Ten 2",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540830015830_EQ2526_Kosovo_vs_Slovenia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "041118267276",
+    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540569324830_EQ2526_Germany_vs_Luxembourg_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
+    "okassetkey": "308440066170",
     "widevine_data": {
-      "kid": "f979b8ee55eb929fc96599c8bc54151b",
-      "key": "ac5d13b86c6368664f96415af91b407d"
+      "kid": "4cc4225169e5e9f6e342d29cde77893a",
+      "key": "69dfa16368268966afd8419bc7a7102e"
     },
     "sources": []
   },
@@ -19,11 +19,11 @@
     "payType": "P",
     "isLive": "true",
     "title": "Sony Sports Ten 2",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541075697830_EQ2526_Sweden_vs_Switzerland_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "764107359654",
+    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540704551830_EQ2526_Iceland_vs_Ukraine_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
+    "okassetkey": "017271463077",
     "widevine_data": {
-      "kid": "b88652fb90019ea4f548a948512f9cd9",
-      "key": "861d406217caee6dc6b815168be7272f"
+      "kid": "64afaf50f8f16fe8f243cbf40c24cc80",
+      "key": "887d2c19542796c8cab781df16525480"
     },
     "sources": []
   },
@@ -33,19 +33,13 @@
     "payType": "P",
     "isLive": "true",
     "title": "Sony Sports Ten 2",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540569324830_EQ2526_Germany_vs_Luxembourg_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "170998669731",
+    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540963347830_EQ2526_Northern_Ireland_vs_Slovakia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
+    "okassetkey": "705005690193",
     "widevine_data": {
-      "kid": "c1aeeb665a4dc3ec36a022f43a733fea",
-      "key": "b45cca204d03a35be96f0d43d5547cef"
+      "kid": "2db92f3eb7f32296efac16776a9bf30f",
+      "key": "37dc31639f22f0a7d203a9901cd537af"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090492014.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 4,
@@ -53,51 +47,11 @@
     "payType": "P",
     "isLive": "true",
     "title": "Sony Sports Ten 2",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540704551830_EQ2526_Iceland_vs_Ukraine_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "155786727445",
-    "widevine_data": {
-      "kid": "4aa9fd39ddfbcedfe71b1f496dbbf685",
-      "key": "9c1dc4f0cdef813b79f91f5a9827e513"
-    },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090492015.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "genre": "Football",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Sony Sports Ten 2",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540963347830_EQ2526_Northern_Ireland_vs_Slovakia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "413803719841",
-    "widevine_data": {
-      "kid": "ce7bb219b65941c067fbef0d7d33aa5d",
-      "key": "f1c8fa6ae417aebfc25280a62949314b"
-    },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090492017.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "genre": "Football",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540287199830_EQ2526_Belgium_vs_North_Macedonia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "444285927633",
+    "okassetkey": "661761965639",
     "widevine_data": {
-      "kid": "c3383f86eef69fb3f703bfe3afc451d1",
-      "key": "5b7e14d066191b261dfa9616f1b9507d"
+      "kid": "7e521aa8f7675aab37b6def2e6a2ec66",
+      "key": "90f86d06d7cc23a319ba9d1dfbb298d4"
     },
     "sources": [
       {
@@ -108,44 +62,30 @@
     ]
   },
   {
-    "id": 7,
-    "genre": "Football",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Sony Sports Ten 2",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540435661830_EQ2526_France_vs_Azerbaijan_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "286906482602",
-    "widevine_data": {
-      "kid": "5706cd1523788e33bbad2d5e8ccf04aa",
-      "key": "92903bfb08c4d5c1e8cacd9849a8e705"
-    },
-    "sources": []
-  },
-  {
-    "id": 8,
+    "id": 5,
     "genre": "Cricket",
     "payType": "P",
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "016283961712",
+    "okassetkey": "108626828516",
     "widevine_data": {
-      "kid": "f9be23a2fdb1ccd31720d22a0fc28f08",
-      "key": "be0a805ad09c5bc376960cbd049b2a69"
+      "kid": "4c8cf531916635897d8c9e0b452de3f4",
+      "key": "362633243580618f116c4ca646e83779"
     },
     "sources": []
   },
   {
-    "id": 9,
+    "id": 6,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Sharjah VS Emirates Blues",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137486_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "580081318574",
+    "okassetkey": "092756741631",
     "widevine_data": {
-      "kid": "a19bf51482cc272016186a956aa6ba65",
-      "key": "f9d138d4fecfeab152fe485901af548e"
+      "kid": "783a16f68435a2b77924fb20a522d304",
+      "key": "8b73c2664666d14127d5872baee7cf47"
     },
     "sources": [
       {
@@ -155,16 +95,16 @@
     ]
   },
   {
-    "id": 10,
+    "id": 7,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Baneasa VS Cluj",
     "imageUrl": "",
-    "okassetkey": "045217208444",
+    "okassetkey": "371929971664",
     "widevine_data": {
-      "kid": "19c34e056f99449256538f95794f3517",
-      "key": "c8ed76b4ca39677eb7ecba262f6a90cc"
+      "kid": "72c2628c6b7103a7c6f7bce9d3348353",
+      "key": "7e0597a416a934095c33969046c73085"
     },
     "sources": []
   }
