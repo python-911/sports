@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "763444401968",
+    "okassetkey": "374085573978",
     "widevine_data": {
-      "kid": "ad965939a8abd58d5c1c928998481743",
-      "key": "bd0c5d4a020d680421f21339685a3f5a"
+      "kid": "b59b46738531c29c71ac712cb267e061",
+      "key": "bd893cd9ad7df99d5f7949dd0abfd15e"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: QFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9904/1760071119904-h",
-    "okassetkey": "600474766207",
+    "okassetkey": "530209724245",
     "widevine_data": {
-      "kid": "1bdd7d678593d38d938e6a6eb63f9a2f",
-      "key": "658bcc86e40957e7175cd5eecda80d00"
+      "kid": "7dcba5c31b82f63fa3cc8a6b55f8e2be",
+      "key": "a0ed5d1b34b56ad7264f3af38a3c8764"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "S\u00e3o Tom\u00e9 e Pr\u00edncipe VS Tunisia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137533_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "305175270032",
+    "okassetkey": "841132881595",
     "widevine_data": {
-      "kid": "b68f2b40c58e4cebfcaedddb2cc0dc4c",
-      "key": "a548af31c7a09b1cb769685f9b0e92bb"
+      "kid": "16448d30948a549b03e1dc39e839c8ef",
+      "key": "2743a5d9c463e5035a1ce030c3f8441a"
     },
     "sources": [
       {
@@ -53,10 +53,10 @@
     "isLive": "true",
     "title": "Rwanda VS Benin",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137532_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "055972607895",
+    "okassetkey": "060176099186",
     "widevine_data": {
-      "kid": "bda5c099caf643af3f5b921c44dc0d55",
-      "key": "3e987deb5278d96adffc70e3220f7263"
+      "kid": "c6bba5e6eac1dc5bb4a81ecad6980455",
+      "key": "9ed2be28d4a49d1d4ca878f7bd616716"
     },
     "sources": [
       {
@@ -72,10 +72,10 @@
     "isLive": "true",
     "title": "Zimbabwe VS South Africa",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137531_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "511577832740",
+    "okassetkey": "655515748847",
     "widevine_data": {
-      "kid": "d9eac5c7b9a088ce0ae200e7f9a35075",
-      "key": "8719e08064964a0d5807e4e492e3c36e"
+      "kid": "aa603a66a53708db52e21b35a503cbd8",
+      "key": "6963c842d32ec0e437c8b4496904d9c2"
     },
     "sources": [
       {
@@ -91,10 +91,10 @@
     "isLive": "true",
     "title": "Lesotho VS Nigeria",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137530_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "657950200023",
+    "okassetkey": "497571407625",
     "widevine_data": {
-      "kid": "a732ed71d0ea8277e6af6de5946b988e",
-      "key": "8dd18b6f31df80d2f79f3af8256af0e3"
+      "kid": "548b4b21f05265bda1f4e69022e994cb",
+      "key": "2a548da11fe6f02d9659650a0cd08175"
     },
     "sources": [
       {
@@ -108,12 +108,31 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
+    "title": "Sharjah VS Emirates Blues",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137486_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "498831557514",
+    "widevine_data": {
+      "kid": "272bea7205c60801b406e6dbf51e38cd",
+      "key": "a569ee3721ff127c580328c7945dd750"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137486.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
     "title": "Oman VS Papua New Guinea",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137182_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "190016478880",
+    "okassetkey": "970878401620",
     "widevine_data": {
-      "kid": "5c9505859ccd1fe27b521f7db9ca14ca",
-      "key": "83cb4a67d5635686a10f763e54cdbd44"
+      "kid": "500a86c87255f7ad5cc89dafead5da79",
+      "key": "d63ad4f5c838ba33dc2e9017c7b718c6"
     },
     "sources": [
       {
@@ -123,16 +142,16 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "genre": "Game Show",
     "payType": "P",
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010088/1760104918182917_kbc16_AB_birthday_spl_10oct_simulcast_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "900809786521",
+    "okassetkey": "870468633420",
     "widevine_data": {
-      "kid": "4774f25108a654caccc2469480debc4a",
-      "key": "0fd0c9bae61b1b61b2cef53bd11637d0"
+      "kid": "ff39d3a5288eb4101eac952ead8383bd",
+      "key": "0dbb7e4ab5d45de0a83676a688595c79"
     },
     "sources": [
       {
