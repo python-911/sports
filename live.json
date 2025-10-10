@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "New Zealand W vs Bangladesh W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "982692595506",
+    "okassetkey": "324790759125",
     "widevine_data": {
-      "kid": "e8896b4ce011486cdc8c2cff6ba630cf",
-      "key": "cbedbba8aa0246c8701a2967de495d9e"
+      "kid": "c50676707eb86554fb59c5c4aba1e458",
+      "key": "4ce62fcbe552dd804cdda68174899fdb"
     },
     "sources": []
   },
@@ -19,19 +19,13 @@
     "payType": "P",
     "isLive": "true",
     "title": "Sony Sports Ten 5",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010054/1760032692191308_ATP25_9oct_Rinderknech_vs_Auger-Aliassime_Landscape_thumb_Live.jpg?h=auto&w=720&q=low",
-    "okassetkey": "653706956628",
+    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010054/1760033142812308_ATP25_9oct_Medvedev_vs_DeMinaur_landscape_thumb_Live.jpg?h=auto&w=720&q=low",
+    "okassetkey": "520507269464",
     "widevine_data": {
-      "kid": "eeae88bf06ee8182882b16b74748f5d7",
-      "key": "e987531539f6c50efbd2485bac06b6af"
+      "kid": "b7d63b1624477c5c4e03abcc5ed0536f",
+      "key": "49637897f3722270e609ac4a9bdb1902"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090491865.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 3,
@@ -40,10 +34,10 @@
     "isLive": "true",
     "title": "2nd Test: India vs West Indies, Day 1",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9955/1760007589955-h",
-    "okassetkey": "616925342708",
+    "okassetkey": "829430536994",
     "widevine_data": {
-      "kid": "7949f65f60ffe70518851921ead2c808",
-      "key": "337a2595d35bf7d857263ba3fb161813"
+      "kid": "522cdd37d1e7addb4f7f397289bb3115",
+      "key": "4c414f84d1aaceeac65b6f6d374d4e45"
     },
     "sources": []
   },
@@ -54,10 +48,10 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137419_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "047877591253",
+    "okassetkey": "274690872109",
     "widevine_data": {
-      "kid": "2467be04eeb07920a8df7b18361c02e7",
-      "key": "006e6c2104cd6317e2beee238eed895b"
+      "kid": "c0b020354aa5bbf8c5b7e799b4c70831",
+      "key": "209e876162c43188d9c3f4f53e3c7b0a"
     },
     "sources": [
       {
@@ -73,10 +67,10 @@
     "isLive": "true",
     "title": "United Arab Emirates VS Malaysia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137180_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "895635904705",
+    "okassetkey": "648942375205",
     "widevine_data": {
-      "kid": "b766de173b3d18f62e9631b697baebe8",
-      "key": "00afeed9c0c7fd9d23a0bd3fe87b6dcf"
+      "kid": "3ec17ff53a84e11aff7301bdc8313ace",
+      "key": "936069e8bbddb8ee7190aec4ed902172"
     },
     "sources": [
       {
