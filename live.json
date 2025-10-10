@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010054/1760032692191308_ATP25_9oct_Rinderknech_vs_Auger-Aliassime_Landscape_thumb_Live.jpg?h=auto&w=720&q=low",
-    "okassetkey": "446757365953",
+    "okassetkey": "245353679908",
     "widevine_data": {
-      "kid": "11ed1d25b179a7560b6f72978b590e90",
-      "key": "7969f2b060050d4b08368d3800b5d743"
+      "kid": "2f884db24b232f9cfed2b18f63fe5b09",
+      "key": "c264e75eb5eb2306d135ccbadb4de535"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "2nd Test: India vs West Indies, Day 1",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9955/1760007589955-h",
-    "okassetkey": "070299551097",
+    "okassetkey": "435141210044",
     "widevine_data": {
-      "kid": "edc2e318e71f3f2d362f4318dbf4a935",
-      "key": "890416889c90db8258a9ee44d77eb0be"
+      "kid": "1fb916e901f8313053c8cddaa3727820",
+      "key": "5667847d081c6cc6337e69f3cd123492"
     },
     "sources": []
   },
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "Vancouver Thunderbirds Women VS Toronto Sixers Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137459_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "527278628531",
+    "okassetkey": "213200446578",
     "widevine_data": {
-      "kid": "29c6508f98b23967c2d97ec39daf792e",
-      "key": "8a9e52591eb3723389b28aa7e37d841b"
+      "kid": "07c7e991918e42c4089b3e1502472004",
+      "key": "269a8c187d9074a6776379bc87c8a82d"
     },
     "sources": [
       {
@@ -59,10 +59,10 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137419_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "083305714694",
+    "okassetkey": "678194326350",
     "widevine_data": {
-      "kid": "9f8cee7d60f35561cfa6cea707ed19ec",
-      "key": "dfe686cc22b11363bc52157b71af2b21"
+      "kid": "403fec3eeae2465b7958d961b77efd2b",
+      "key": "2412defacbae579870e167090dfa5681"
     },
     "sources": [
       {
@@ -76,31 +76,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Baycurrent Classic",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137312_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "423491336379",
-    "widevine_data": {
-      "kid": "7d4eb8aaaec606527c550e6e2dfdac63",
-      "key": "97ad47e012012230ca2b2a87855890e0"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137312.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "United Arab Emirates VS Malaysia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137180_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "781767467524",
+    "okassetkey": "574927932815",
     "widevine_data": {
-      "kid": "217f99e5d49372db525c892d53ff39f6",
-      "key": "7de882deb3a8b844c76d4d0e003daff6"
+      "kid": "8f87d8d3006d65d7710b78731ac1b35d",
+      "key": "e08fd340e3af404c620a0fc0dc0ebb41"
     },
     "sources": [
       {
