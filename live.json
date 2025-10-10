@@ -1,15 +1,29 @@
 [
   {
     "id": 1,
+    "genre": "KABADDI",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Gujarat Giants vs Dabang Delhi K.C.",
+    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/1351/1760008151351-h",
+    "okassetkey": "651574893636",
+    "widevine_data": {
+      "kid": "8df1828646ad9d22a830a5bd23015412",
+      "key": "67ba9ba515dcfebdadfff58b5f0c8a22"
+    },
+    "sources": []
+  },
+  {
+    "id": 2,
     "genre": "Archery",
     "payType": "P",
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543080312452_APL25_Day9_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "206088402554",
+    "okassetkey": "367610083726",
     "widevine_data": {
-      "kid": "1ee531f0c45de5730acb38a9a5801902",
-      "key": "c274be76a0019b0a8e2e721cf4edb865"
+      "kid": "2bf5ad2de2dac4eca8d46ee66a0e4224",
+      "key": "ce4e8481a564048195e73e930aa9b11b"
     },
     "sources": [
       {
@@ -20,16 +34,16 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "genre": "Football",
     "payType": "P",
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540112519830_EQ2526_Kazakhstan_vs_Liechtenstein_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "224580517142",
+    "okassetkey": "032660923196",
     "widevine_data": {
-      "kid": "d20b7023cd96ce13a02aa20ab1275c01",
-      "key": "b0cf399aa4d83c9fae0d0a6e160eb67b"
+      "kid": "71e1e72a7b32a6d30e9401c38b68ee38",
+      "key": "83e7adface9fab4f26840879af0b053a"
     },
     "sources": [
       {
@@ -40,16 +54,16 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "genre": "Racing",
     "payType": "P",
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010040/1760014215356839_Extreme_E_and_Extreme_H_WC25_day2_9oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "581586388740",
+    "okassetkey": "797807683739",
     "widevine_data": {
-      "kid": "90df48dc3636665b68948cf256cdae6c",
-      "key": "cacceef50d840590679b57ad46a7bebb"
+      "kid": "751c54018344b5fdf1caea7a28c827b6",
+      "key": "eb04721a76de15bc85de833f3f527244"
     },
     "sources": [
       {
@@ -60,72 +74,72 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "genre": "Mixed Martial Arts",
     "payType": "P",
     "isLive": "true",
     "title": "ONE Friday Fights 128",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6837/1760006646837-h",
-    "okassetkey": "657649638757",
+    "okassetkey": "372515882572",
     "widevine_data": {
-      "kid": "73177b6b85449ad7c567b781f6a08596",
-      "key": "3bdc4c163f361a6616817fe67ffe5a84"
-    },
-    "sources": []
-  },
-  {
-    "id": 5,
-    "genre": "Cricket",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Sony Sports Ten 5",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "287059882367",
-    "widevine_data": {
-      "kid": "cba3e17c493fdddb3a9f1f6342c8c0c6",
-      "key": "061cc7acd91c0b96d5bee102cf421c55"
+      "kid": "c6c6073d26c522ff8b922a89462fe4bb",
+      "key": "7a9fcb6dc098842e59e47555cba9e210"
     },
     "sources": []
   },
   {
     "id": 6,
-    "genre": "Badminton",
+    "genre": "Cricket",
     "payType": "P",
     "isLive": "true",
-    "title": "BWF Arctic Open: QFs",
-    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9904/1760071119904-h",
-    "okassetkey": "535237269002",
+    "title": "Sony Sports Ten 5",
+    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
+    "okassetkey": "025885820122",
     "widevine_data": {
-      "kid": "5f74d5bc899c1db69c927de8e0cbcd16",
-      "key": "fdfc97a309f9b012298423a417d6cec6"
+      "kid": "0f0605adb043677d08613b8e3334fa2e",
+      "key": "f807d9261912bb07f864db85c499e4e3"
     },
     "sources": []
   },
   {
     "id": 7,
-    "genre": "Cricket",
+    "genre": "Badminton",
     "payType": "P",
     "isLive": "true",
-    "title": "New Zealand W vs Bangladesh W",
-    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "674461767973",
+    "title": "QF: Kapila/Crasto vs Jiang/Wei",
+    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/1242/1760103511242-h",
+    "okassetkey": "464058657765",
     "widevine_data": {
-      "kid": "72e2854c7dc4fa56dc732b40ac8041e1",
-      "key": "6b3674c6f4bcc8b1135b7af900546973"
+      "kid": "645f02efaed5aafbb827419bd23df290",
+      "key": "cda6de07c1cdfd0c626071a3961a226e"
     },
     "sources": []
   },
   {
     "id": 8,
+    "genre": "Cricket",
+    "payType": "P",
+    "isLive": "true",
+    "title": "New Zealand W vs Bangladesh W",
+    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
+    "okassetkey": "402715718592",
+    "widevine_data": {
+      "kid": "9cc4b454b4189e5d6256dd65cd340c00",
+      "key": "1447b4becffb110ed0efdb35e8c85a3c"
+    },
+    "sources": []
+  },
+  {
+    "id": 9,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Indonesia U23 VS India U23",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137619_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "847226091208",
+    "okassetkey": "797158001753",
     "widevine_data": {
-      "kid": "7344518c60116055506baf62fe0df4a1",
-      "key": "e2c1db1201c305565691958d38b787fd"
+      "kid": "a94c2b12157192a996f204023c55419b",
+      "key": "e26c70d4312b1290ac5760ca9da6c07a"
     },
     "sources": [
       {
@@ -135,16 +149,16 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Gambia VS Gabon",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137529_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "925502337646",
+    "okassetkey": "421092254969",
     "widevine_data": {
-      "kid": "59e09450101926adeb139dfba567c596",
-      "key": "792416169621ebb5873a8e0a0ecf5ac3"
+      "kid": "43323ffae9a0df4ab914e21490b457f7",
+      "key": "eec346e63edbe89d04ecc52c97b4ad67"
     },
     "sources": [
       {
@@ -154,16 +168,16 @@
     ]
   },
   {
-    "id": 10,
+    "id": 11,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Seychelles VS C\u00f4te d'Ivoire",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137528_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "173776855074",
+    "okassetkey": "199953075682",
     "widevine_data": {
-      "kid": "3a3757a8ef730b2c9bb0ee6a42c9b557",
-      "key": "bc9ffe6da1cd1cc79d285f4cbbe14f71"
+      "kid": "1a2fe1bdccbe1d09ad278dbdf5820aea",
+      "key": "4d031f6a8993116b5525c1c4ab54ad41"
     },
     "sources": [
       {
@@ -181,16 +195,16 @@
     ]
   },
   {
-    "id": 11,
+    "id": 12,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Sudan VS Mauritania",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137527_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "254746260399",
+    "okassetkey": "888206790713",
     "widevine_data": {
-      "kid": "cbf75921f78f6d46f56bbcfc135b4381",
-      "key": "2ef96da16e48fe3f76fd8dcc4c17876e"
+      "kid": "4d77bf71d99aabb26e15c1d6f684030f",
+      "key": "c7bbc21dd34e2e95705e536a15a88cec"
     },
     "sources": [
       {
@@ -200,16 +214,16 @@
     ]
   },
   {
-    "id": 12,
+    "id": 13,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Togo VS Congo DR",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137526_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "434727131343",
+    "okassetkey": "498333986943",
     "widevine_data": {
-      "kid": "1fa35d7f9ad0eb9f63d5efedbc293034",
-      "key": "71a9464a5d78d497a9d785982f16779b"
+      "kid": "fb51c619a029fd022e7a7942cc221f7b",
+      "key": "cc04260244bb31e7f0cdbb17dbdabc05"
     },
     "sources": [
       {
@@ -219,16 +233,16 @@
     ]
   },
   {
-    "id": 13,
+    "id": 14,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "South Sudan VS Senegal",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137525_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "608742158293",
+    "okassetkey": "712677941966",
     "widevine_data": {
-      "kid": "9c15a62253d0fd3c6d093071dd851e94",
-      "key": "a2e76aaa3c1ce607965c19b51ad65571"
+      "kid": "532af1a104fa79f16c2b6b3d8d266f83",
+      "key": "7b3ead48db870503075eff3b6b7eff40"
     },
     "sources": [
       {
@@ -238,16 +252,16 @@
     ]
   },
   {
-    "id": 14,
+    "id": 15,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Abu Dhabi VS Dubai",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137485_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "977270523886",
+    "okassetkey": "156428158749",
     "widevine_data": {
-      "kid": "00887e518da94c0a7d36fc1d17a97468",
-      "key": "3c6dbf506b6cb9a3ce76389d0c263997"
+      "kid": "8bedcf7ab865b148f28ea2e687f53da9",
+      "key": "fad0b081fba6273922b5d4986062f499"
     },
     "sources": [
       {
@@ -257,16 +271,16 @@
     ]
   },
   {
-    "id": 15,
+    "id": 16,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137421_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "595783716446",
+    "okassetkey": "666494122007",
     "widevine_data": {
-      "kid": "af86ba994fc41a8554e2b1fc6a8c4cef",
-      "key": "6b7486e595a8421955a38d769a60a6c6"
+      "kid": "b01ce40d4a3ae292a50d545305809e28",
+      "key": "441a733c742aae87e22bfb7bc54587d6"
     },
     "sources": [
       {
@@ -276,44 +290,16 @@
     ]
   },
   {
-    "id": 16,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Porsche Mobil 1 Super Cup",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137322_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "846385091276",
-    "widevine_data": {
-      "kid": "3ec2d0dd010d71fe4b95e52ebf47b6eb",
-      "key": "ddf980b1ca73a883f08ce8579cf5e1a5"
-    },
-    "sources": []
-  },
-  {
     "id": 17,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Nepal VS Japan",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137181_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "544254123433",
-    "widevine_data": {
-      "kid": "ab2c12f7843cd34696156ddc20e947b5",
-      "key": "c8d0ddedd4f75023e07b9975e510f9fb"
-    },
-    "sources": []
-  },
-  {
-    "id": 18,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136860_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "713675077608",
+    "okassetkey": "573265073156",
     "widevine_data": {
-      "kid": "91e4b3462c7fd03e8255b4622a5b9662",
-      "key": "b47177e637cf95c8eeddcd676d938fda"
+      "kid": "e677bdcc5d85e66d593a99dd27c89fc2",
+      "key": "db99c08d4f8fa9eaaf5fe396da81063d"
     },
     "sources": [
       {
@@ -323,16 +309,30 @@
     ]
   },
   {
+    "id": 18,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "ACC Bucharest VS Cluj",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/135767_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "886779978706",
+    "widevine_data": {
+      "kid": "d8411ee5ab217e8293a70797358cd256",
+      "key": "7de87c0b691d406d680395dedfd72a35"
+    },
+    "sources": []
+  },
+  {
     "id": 19,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "FEC Playoffs",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/133448_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "524645738675",
+    "title": "Bin Dilmah VS OGC Pan Gulf",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/118946_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "146473762435",
     "widevine_data": {
-      "kid": "d8b1e3812f5b80c95462ab1ed5d6735b",
-      "key": "66f6da10838a9334e50d9f15110d8384"
+      "kid": "f3b615a50d294d065f7e82d267d4f099",
+      "key": "d86e3f11f172c30350159a1e22af3102"
     },
     "sources": []
   }
