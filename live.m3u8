@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000010054/1760032692191308_ATP25_9oct_Rinderknech_vs_Auger-Aliassime_Landscape_thumb_Live.jpg?h=auto&w=720&q=low" group-title="Tennis",Sony Sports Ten 5
+https://live-aws-cdn.okflix.top/hls/sliv1-1090491865.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137459_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Vancouver Thunderbirds Women VS Toronto Sixers Women
 https://live-aws-cdn.okflix.top/hls/fan1-137459.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137419_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Tamil Nadu Chief Minister’s Trophy Games 2025
