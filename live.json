@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540287199830_EQ2526_Belgium_vs_North_Macedonia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "907970698592",
+    "okassetkey": "232535015143",
     "widevine_data": {
-      "kid": "62a0709668a947d7141c18c1379c84d8",
-      "key": "c1b006f106b9e04d8d72de330bfe8f0d"
+      "kid": "9016a053bb087c69d3a93f9ea25032fc",
+      "key": "1f60c31f5f97c16bee4c99731a252a3c"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "371068297577",
+    "okassetkey": "378721611698",
     "widevine_data": {
-      "kid": "b98f35fad1296a3d677b20193b4850f1",
-      "key": "05a3b49b37abb3914f93434af0bdc48d"
+      "kid": "4d7dd2c3f59842a33abc56d1e0bc01d8",
+      "key": "8bdf9119a78f52d6b779a894ceb43d30"
     },
     "sources": []
   },
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "Sharjah VS Emirates Blues",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137486_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "356844325201",
+    "okassetkey": "861992863988",
     "widevine_data": {
-      "kid": "880508bc2d13dc69912fecc094b922e8",
-      "key": "997e4f00b00fc5a73b2423cd0138fb1e"
+      "kid": "e8a27b83d0bef11e0a63187abaeb4ec7",
+      "key": "460bba83a32fc0130db025a9677e3495"
     },
     "sources": [
       {
@@ -51,19 +51,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137486.m3u8"
       }
     ]
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Baneasa VS Cluj",
-    "imageUrl": "",
-    "okassetkey": "040984068553",
-    "widevine_data": {
-      "kid": "7edc3c3c0e623aadba5481e8bb6fec36",
-      "key": "68285c9cadf559d1b4a2d006d6d6855c"
-    },
-    "sources": []
   }
 ]
