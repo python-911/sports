@@ -3,20 +3,6 @@
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491973.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540112519830_EQ2526_Kazakhstan_vs_Liechtenstein_3oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491997.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137529_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Gambia VS Gabon
-https://live-aws-cdn.okflix.top/hls/fan1-137529.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137528_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Seychelles VS Côte d'Ivoire
-https://live-aws-cdn.okflix.top/hls/fan1-137528.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137528_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Seychelles VS Côte d'Ivoire
-https://live-aws-cdn.okflix.top/hls/fan2-137528.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137528_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Seychelles VS Côte d'Ivoire
-https://live-aws-cdn.okflix.top/hls/fan3-137528.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137527_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Sudan VS Mauritania
-https://live-aws-cdn.okflix.top/hls/fan1-137527.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137526_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Togo VS Congo DR
-https://live-aws-cdn.okflix.top/hls/fan1-137526.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137525_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",South Sudan VS Senegal
-https://live-aws-cdn.okflix.top/hls/fan1-137525.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137485_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Abu Dhabi VS Dubai
 https://live-aws-cdn.okflix.top/hls/fan1-137485.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137182_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Oman VS Papua New Guinea
