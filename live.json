@@ -6,57 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "106901862654",
+    "okassetkey": "081911291213",
     "widevine_data": {
-      "kid": "c341c2f38c22180c58167334f5c4a9b0",
-      "key": "f3e9f4e9d6436bfd4f15653595aff121"
-    },
-    "sources": []
-  },
-  {
-    "id": 2,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Sharjah VS Emirates Blues",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137486_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "999251871277",
-    "widevine_data": {
-      "kid": "6dd4275fba234968921346d31f0c519b",
-      "key": "bcde7ee2d00e625b17fd2d69f9cd964d"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137486.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Baneasa VS Lankan Lions",
-    "imageUrl": "",
-    "okassetkey": "952519037907",
-    "widevine_data": {
-      "kid": "844f9db3c4e85241b76319d1c1764c41",
-      "key": "514b3c49a5c26d4103eea2575890aa8b"
-    },
-    "sources": []
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "United CC Bucharest VS Cluj",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/135764_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "796195052530",
-    "widevine_data": {
-      "kid": "9c455d34e2f03d38f794f8d69b4f473b",
-      "key": "382f397652fdc60b09f8ae0ed52f5e1a"
+      "kid": "651486494e4e45dc8363e369c96b8af6",
+      "key": "5c21abcb958f6a6ec32cc1d06d270541"
     },
     "sources": []
   }
