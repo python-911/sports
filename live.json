@@ -6,18 +6,12 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540830015830_EQ2526_Kosovo_vs_Slovenia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "404605224038",
+    "okassetkey": "306128436724",
     "widevine_data": {
-      "kid": "e52093290830e06ea065ab969f54b1de",
-      "key": "d2c04023667fd5d0337749be17ed113f"
+      "kid": "bf56bbadd903d40cca245232e95d324b",
+      "key": "9b1e9d556e6f7b87eb9e48fa08956263"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090492016.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 2,
@@ -26,10 +20,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541075697830_EQ2526_Sweden_vs_Switzerland_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "344749308162",
+    "okassetkey": "282125397470",
     "widevine_data": {
-      "kid": "822e13966f0e7e568deab91570daaebe",
-      "key": "eb86f08d5d089c1a6bfcb4aaf00faa53"
+      "kid": "be56bb4ee83550449cd7af55115a766f",
+      "key": "2559776d121e2c6ba864a6f39856be5e"
     },
     "sources": [
       {
@@ -46,10 +40,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540569324830_EQ2526_Germany_vs_Luxembourg_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "599781182319",
+    "okassetkey": "576455005933",
     "widevine_data": {
-      "kid": "8ebdc194a5b89219207b428ef3200ace",
-      "key": "f80aded39a2f4a00aed943070d90f166"
+      "kid": "5330c858e01e752c4d2cafc50eaf70a2",
+      "key": "d82852ccb070033e00839e377b390ea6"
     },
     "sources": [
       {
@@ -66,10 +60,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540704551830_EQ2526_Iceland_vs_Ukraine_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "291526269693",
+    "okassetkey": "535079823498",
     "widevine_data": {
-      "kid": "78c312102aac39deffdf68854485b3bf",
-      "key": "2efe489460e55b83c15a78ba041b2332"
+      "kid": "b02970d3ef3fd470b42e944649868271",
+      "key": "0e84ec57c66ecc0123adb34957dc207b"
     },
     "sources": [
       {
@@ -86,10 +80,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540963347830_EQ2526_Northern_Ireland_vs_Slovakia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "410216984042",
+    "okassetkey": "138997409444",
     "widevine_data": {
-      "kid": "58927d5141f83d590a77cf33f2df077e",
-      "key": "899a915abe742be11e1536839b50a2ce"
+      "kid": "5e62b3328f0e48fc42544fb551833985",
+      "key": "ff73fd88e4beba2a9f2a66dce756dd87"
     },
     "sources": [
       {
@@ -106,10 +100,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540287199830_EQ2526_Belgium_vs_North_Macedonia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "584868023416",
+    "okassetkey": "449175865097",
     "widevine_data": {
-      "kid": "ecb7e964836425db665bd2efcf4aba5f",
-      "key": "33180cc18f537520efa09a38cefa0a89"
+      "kid": "301057799658673138e340879a1629bb",
+      "key": "f2569137d430d30836bbd5cfeb0a7b84"
     },
     "sources": [
       {
@@ -126,10 +120,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540435661830_EQ2526_France_vs_Azerbaijan_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "687225464506",
+    "okassetkey": "335369949258",
     "widevine_data": {
-      "kid": "b4b0c1117583b69d46289b91e72ee896",
-      "key": "4f84ea8dcda3aa45df513d2795259dd7"
+      "kid": "d102523f97616fa7d4e06f819762f7b1",
+      "key": "6a0d1aa353089661abee809946f0a9b2"
     },
     "sources": [
       {
@@ -146,10 +140,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "331141737580",
+    "okassetkey": "188948455971",
     "widevine_data": {
-      "kid": "bcd12eb1aaaae3ed52b8f3cf3a357cd6",
-      "key": "85b78092bdb2728356ee4ae12f07ca0a"
+      "kid": "f55d0ea5195c6f10fe7ffd1119345cf0",
+      "key": "162a2e4aff366ad2b5963f6decd32c85"
     },
     "sources": []
   },
@@ -160,10 +154,10 @@
     "isLive": "true",
     "title": "Sharjah VS Emirates Blues",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137486_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "953234193406",
+    "okassetkey": "482952646005",
     "widevine_data": {
-      "kid": "7b657bda8718d6bddde2849da7175c74",
-      "key": "e4c7bfb3eed2b238ef0987c3d1556869"
+      "kid": "6fa1c808a8cc72b492a2b8f3df468873",
+      "key": "b9a19dc11b7a9c4ce1901b75b63a768d"
     },
     "sources": [
       {
@@ -177,68 +171,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Granada VS Las Palmas",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137211_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "289995189355",
-    "widevine_data": {
-      "kid": "64c8cec5ab88ca6429dff473d12da5dd",
-      "key": "d0ceed5ee2f3592511a2733d30eca1be"
-    },
-    "sources": []
-  },
-  {
-    "id": 11,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Lankan Lions VS Transylvania",
+    "title": "Baneasa VS Cluj",
     "imageUrl": "",
-    "okassetkey": "101245789203",
+    "okassetkey": "846360269113",
     "widevine_data": {
-      "kid": "41b71d21743f60c714db596369897f76",
-      "key": "f41c386f81fc0babfa9f88a525ef0f5e"
-    },
-    "sources": []
-  },
-  {
-    "id": 12,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Nicaragua VS Argentina",
-    "imageUrl": "",
-    "okassetkey": "616669089618",
-    "widevine_data": {
-      "kid": "9fec3ead8c66100872a3f9426328d33e",
-      "key": "f2194d685dfe1baa82abbbc6d636eed9"
-    },
-    "sources": []
-  },
-  {
-    "id": 13,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Inter Miami CF VS FC Dallas",
-    "imageUrl": "",
-    "okassetkey": "770407332018",
-    "widevine_data": {
-      "kid": "2ccb303cd9c478ed4ffe6e30cb111d5a",
-      "key": "bb33e199f6f8ba1af3d2ef628cfee0d3"
-    },
-    "sources": []
-  },
-  {
-    "id": 14,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Amdocs VS Cyprus Super Kings",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/70425_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "552168300281",
-    "widevine_data": {
-      "kid": "a5d9dbdcc559b4d66f772c581f94d84e",
-      "key": "4a9c9a3b7339d1a8d355572220b792db"
+      "kid": "e3873fb3d40ea269a0f79aff89fb3817",
+      "key": "c66c50f30cbbc396db434d2e2da54d37"
     },
     "sources": []
   }
