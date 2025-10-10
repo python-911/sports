@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "New Zealand W vs Bangladesh W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "288147615947",
+    "okassetkey": "018593441882",
     "widevine_data": {
-      "kid": "0f104155ee1c59a7b316fb9179db6927",
-      "key": "b8f1f9e1dfbcfb5c99aa6c9fc1990940"
+      "kid": "c0e7fdf25cd06f6b14ebd2ba0f70884e",
+      "key": "eede04589411e8fb939b93b2797f7d8f"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "2nd Test: India vs West Indies, Day 1",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9955/1760007589955-h",
-    "okassetkey": "660385330116",
+    "okassetkey": "441137611048",
     "widevine_data": {
-      "kid": "b9550aa86914195d233c37e3214b7762",
-      "key": "370c1618e4d10471f243180089ad0834"
+      "kid": "9f52a6d81fa000ed7f0cc1f72e38f75e",
+      "key": "d68c6dad53382b2510ce376cf8c55da3"
     },
     "sources": []
   },
@@ -34,34 +34,15 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137419_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "543886241428",
+    "okassetkey": "298158019207",
     "widevine_data": {
-      "kid": "0ec6f70438bc58d3d13f7f5874ad995b",
-      "key": "f93c7fde9a5c42e8fe9d1a973db2301e"
+      "kid": "8cf73dea0c486d898503165326789ea1",
+      "key": "d35426c50d48677b9a034cf73def31a6"
     },
     "sources": [
       {
         "name": "HLS",
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137419.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "United Arab Emirates VS Malaysia",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137180_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "973662950785",
-    "widevine_data": {
-      "kid": "e48a1b14964b4dfeb3f15c8e17d81a55",
-      "key": "a4918dd4f8343a6c158078068e0fd6cd"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137180.m3u8"
       }
     ]
   }
