@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "ONE Friday Fights 128",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6837/1760006646837-h",
-    "okassetkey": "006715743111",
+    "okassetkey": "109997130496",
     "widevine_data": {
-      "kid": "da0fa8fa616e61e05aaf43b67a1ea98c",
-      "key": "167bb31e95703238d3cd7ba39a8cbc5d"
+      "kid": "252290859694f9a5af8d1262800408bb",
+      "key": "e52a6a3cb87527005a747cdc7720305d"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "597864447154",
+    "okassetkey": "981439099971",
     "widevine_data": {
-      "kid": "0d24c80606a7a5e2c8707a868233b6c6",
-      "key": "10ad2395d8b5e15f8dc7b75d3db2d2cb"
+      "kid": "bf1277fd89366ddf95d3d124b18cead9",
+      "key": "60c084a890b6380792baab1726881415"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: QFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9904/1760071119904-h",
-    "okassetkey": "058251110868",
+    "okassetkey": "407024810842",
     "widevine_data": {
-      "kid": "e8e0f6e12d2753c971e9266148f266b3",
-      "key": "d3625a9c0b15b8f4d2ce0fc324476511"
+      "kid": "f70ab6d9d5c63b8867d0ed03a3a6f132",
+      "key": "4f970fcec37fbe1c02d434a29f6b1d96"
     },
     "sources": []
   },
@@ -48,10 +48,10 @@
     "isLive": "true",
     "title": "New Zealand W vs Bangladesh W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "975779846749",
+    "okassetkey": "242362106683",
     "widevine_data": {
-      "kid": "c3e9fb93a6e9118072e8b9309eb36519",
-      "key": "e3da8473d0080ba9e331d5a1c3ffb9c8"
+      "kid": "7ab62d92a3f14c1c8dc0de52179fecff",
+      "key": "9af87332ea35c652709b7c9035a27481"
     },
     "sources": []
   },
@@ -62,10 +62,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010054/1760033142812308_ATP25_9oct_Medvedev_vs_DeMinaur_landscape_thumb_Live.jpg?h=auto&w=720&q=low",
-    "okassetkey": "331928544668",
+    "okassetkey": "635338731306",
     "widevine_data": {
-      "kid": "aa5ca9fa067124d33d5f766e99b14f34",
-      "key": "5992669620a43e58732719b1004cb1d1"
+      "kid": "9c808e3a6e6b3d12de75425a0d57f42a",
+      "key": "713a4ac12a51a27db4a15b0f6ccfc048"
     },
     "sources": [
       {
@@ -82,12 +82,17 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137421_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "162364369418",
+    "okassetkey": "304871693565",
     "widevine_data": {
-      "kid": "f59482ce022e483321058b9a5ab1762b",
-      "key": "55dbac7ef7c93cc4c83ae94db44a6623"
+      "kid": "fcc53a8459f55efe4a49a1873b1b2cf1",
+      "key": "4988d1d8cbdfa7a5d4a6f6d6d614d231"
     },
-    "sources": []
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137421.m3u8"
+      }
+    ]
   },
   {
     "id": 7,
@@ -96,10 +101,10 @@
     "isLive": "true",
     "title": "Nepal VS Japan",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137181_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "615619729581",
+    "okassetkey": "768306853390",
     "widevine_data": {
-      "kid": "db05a22ed87c2a24061ae1759cc00243",
-      "key": "731142d0971b627629f838d2b852a0e6"
+      "kid": "c3af263001469dff72112fb736aec971",
+      "key": "78ea4776a2abdeb09d51d59efa05f3a6"
     },
     "sources": [
       {
@@ -115,10 +120,10 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136860_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "212669616300",
+    "okassetkey": "447373956431",
     "widevine_data": {
-      "kid": "3f2bf4e7b4e41fd329f6b8a8e8e31878",
-      "key": "71cae6fc17789ca9a0e3cd3d11610a80"
+      "kid": "dca32fa74d51c155c605cdc894e6b0d1",
+      "key": "b891bb65417e4ec0161362d7cf6a0046"
     },
     "sources": [
       {
