@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010040/1760014215356839_Extreme_E_and_Extreme_H_WC25_day2_9oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "512523464366",
+    "okassetkey": "849648695429",
     "widevine_data": {
-      "kid": "cf8b379ed769938a9838667c1b1dda08",
-      "key": "5d93476467687f9c0b93c7e498dd444c"
+      "kid": "b09c29062ee9f380db3d2ecd64f568a8",
+      "key": "4acffa438c45389e8362a2a7adc249d2"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "ONE Friday Fights 128",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6837/1760006646837-h",
-    "okassetkey": "836955810457",
+    "okassetkey": "550663678831",
     "widevine_data": {
-      "kid": "c14e1de5df44203cad2034c76df4ddd7",
-      "key": "81adafb08eff0f4e9fb0a8f6065a8050"
+      "kid": "1b82b97fc8171979cb0312f2eff6e6da",
+      "key": "5523c9d5162c646fe9166592f73f0acd"
     },
     "sources": []
   },
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "062674843838",
+    "okassetkey": "689168749270",
     "widevine_data": {
-      "kid": "e9df2f732afaac30c64b5cf0eef49eb6",
-      "key": "51c2fc3c302052714e2ce8daba6c9c83"
+      "kid": "fdabc106c4a1d1ec17093b9ffb21e6e7",
+      "key": "e4db62bf2b1b061aa733b84f0568188d"
     },
     "sources": []
   },
@@ -54,10 +54,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: QFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9904/1760071119904-h",
-    "okassetkey": "683871605011",
+    "okassetkey": "628208671194",
     "widevine_data": {
-      "kid": "e3dc5501dfbec354c0fb5fedcd4b28c8",
-      "key": "8d8dc2dbb6422a97ce099071bb35e44c"
+      "kid": "493aac3447773319c9c085f04972b33b",
+      "key": "21410581d4e020bd9857c5afd5601377"
     },
     "sources": []
   },
@@ -68,38 +68,24 @@
     "isLive": "true",
     "title": "New Zealand W vs Bangladesh W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "295655839012",
+    "okassetkey": "445257124569",
     "widevine_data": {
-      "kid": "4f5a9e477b581883460f258f7bfa01dc",
-      "key": "a89d810a5cf1556d36f4212469290611"
+      "kid": "07eed8cce74479154f01c4ee01c9ff76",
+      "key": "93e3807f5bef3b4b84d24ca3df1112aa"
     },
     "sources": []
   },
   {
     "id": 6,
-    "genre": "Tennis",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Sony Sports Ten 5",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010054/1760033142812308_ATP25_9oct_Medvedev_vs_DeMinaur_landscape_thumb_Live.jpg?h=auto&w=720&q=low",
-    "okassetkey": "904461811589",
-    "widevine_data": {
-      "kid": "ff46f8680972c70780fb605b93ab078b",
-      "key": "ab4b69af5f4b4fe8acdcab588721d77a"
-    },
-    "sources": []
-  },
-  {
-    "id": 7,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137421_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "458443533979",
+    "okassetkey": "900382428210",
     "widevine_data": {
-      "kid": "c73432bf512c6cbca2d2c695afc2f78a",
-      "key": "becb506b655643a4d8423066ea02200e"
+      "kid": "529f8e8ae993da2ca562a5fb5f081949",
+      "key": "55fa60640234aa51d93b4d6a515bbe2e"
     },
     "sources": [
       {
@@ -109,16 +95,16 @@
     ]
   },
   {
-    "id": 8,
+    "id": 7,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Nepal VS Japan",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137181_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "475655034751",
+    "okassetkey": "849607652259",
     "widevine_data": {
-      "kid": "02757b2bb98b2f2aa8d7a88dfa830083",
-      "key": "16f05d28d5f45782bb10139dfd314863"
+      "kid": "20f2ca86736eb9a1d6bd7cf74b44936e",
+      "key": "25ca12a302dbea178b60260ba061b3c1"
     },
     "sources": [
       {
@@ -128,16 +114,16 @@
     ]
   },
   {
-    "id": 9,
+    "id": 8,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136860_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "215233403812",
+    "okassetkey": "118389206748",
     "widevine_data": {
-      "kid": "5581ba71fd1223b60c3c1e996e214dce",
-      "key": "9a6a999576e4602d1cee50a053fff6a5"
+      "kid": "b968ec770e666c5384089e636962564b",
+      "key": "acaeb096e4a2cdd01933ca8746e6d459"
     },
     "sources": [
       {
