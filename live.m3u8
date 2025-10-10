@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137460_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Toronto Sixers Women VS Vancouver Thunderbirds Women
 https://live-aws-cdn.okflix.top/hls/fan1-137460.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137305_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Atlanta Kings CC VS Los Angeles Waves CC
-https://live-aws-cdn.okflix.top/hls/fan1-137305.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133959_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",New South Wales Breakers VS Western Australia Women
 https://live-aws-cdn.okflix.top/hls/fan1-133959.m3u8
