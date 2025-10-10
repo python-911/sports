@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "888287600410",
+    "okassetkey": "768634632004",
     "widevine_data": {
-      "kid": "7bfab3b0a98e66f5657d247fbf799b22",
-      "key": "55c9145b60e37fc284753a48a1088feb"
+      "kid": "09ad2a4417823198e3eded2627e9b3c7",
+      "key": "4e6eab60d83ccebc5048310e79f0fa5e"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Toronto Sixers Women VS Vancouver Thunderbirds Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137460_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "588917131943",
+    "okassetkey": "129166329767",
     "widevine_data": {
-      "kid": "75e5105959ac85828c27ff8b55705e5d",
-      "key": "f572fc98e93f12bb3b31e4ce63471db0"
+      "kid": "86e2bce47011dead104e7e5ca640af42",
+      "key": "c491102df520c8f9ae7bfeab70c024d3"
     },
     "sources": [
       {
@@ -39,17 +39,12 @@
     "isLive": "true",
     "title": "Atlanta Kings CC VS Los Angeles Waves CC",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137305_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "921054372624",
+    "okassetkey": "580087498340",
     "widevine_data": {
-      "kid": "1b6c03c7936ebefe0b672ed8a24b4cfc",
-      "key": "049758b6897c283cf30947544d862511"
+      "kid": "cf8463df2f50e3c5c14e93673a2b4480",
+      "key": "4f39b9f177b7ae06103c760792162f2f"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137305.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 4,
@@ -58,10 +53,10 @@
     "isLive": "true",
     "title": "New South Wales Breakers VS Western Australia Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133959_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "035178890291",
+    "okassetkey": "189545855307",
     "widevine_data": {
-      "kid": "780aae1b911b1deab5539d347439f61d",
-      "key": "c74fab48bd0a17b615e6426f88abc9fa"
+      "kid": "bc02b852b7e0045c3e440478c068818e",
+      "key": "364c0233afccbbb76c408ab06a1f453e"
     },
     "sources": [
       {
@@ -69,19 +64,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-133959.m3u8"
       }
     ]
-  },
-  {
-    "id": 5,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "MOTUL GRAND PRIX OF JAPAN",
-    "imageUrl": "",
-    "okassetkey": "807065319208",
-    "widevine_data": {
-      "kid": "74cc5856e09162a501b3bdf783e54c85",
-      "key": "87a4c879eae0a621e901fb7b6a2a6374"
-    },
-    "sources": []
   }
 ]
