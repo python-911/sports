@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: QFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9904/1760071119904-h",
-    "okassetkey": "663945599881",
+    "okassetkey": "280432149522",
     "widevine_data": {
-      "kid": "f4d30db0681539248633e7aa3f265119",
-      "key": "4c539aafcf562b58a544c3964566292c"
+      "kid": "32523cbb26022b248e255c4399a6911d",
+      "key": "fd2b422cfe9a060624b22322ff6baf82"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "New Zealand W vs Bangladesh W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "614442190454",
+    "okassetkey": "484605036554",
     "widevine_data": {
-      "kid": "78af28fb5cf71a00b49b556b6f77c071",
-      "key": "e113087df725f52991b9ac66d8cc875a"
+      "kid": "91ccf1ba30aa7c4f5a782b05b1329c1e",
+      "key": "2500460806e9c8ced3b337e1238f926d"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010054/1760033142812308_ATP25_9oct_Medvedev_vs_DeMinaur_landscape_thumb_Live.jpg?h=auto&w=720&q=low",
-    "okassetkey": "206053746040",
+    "okassetkey": "781596555329",
     "widevine_data": {
-      "kid": "212356c466c1ed332a888d9e1047e353",
-      "key": "08f13ce197738da9cc7d9833595c4791"
+      "kid": "c6d783b72501b9e59faae61145fc1596",
+      "key": "6d3a8dece83b0bcfc12c4eca94774aae"
     },
     "sources": [
       {
@@ -54,10 +54,10 @@
     "isLive": "true",
     "title": "2nd Test: India vs West Indies, Day 1",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9955/1760007589955-h",
-    "okassetkey": "815329850527",
+    "okassetkey": "594026664958",
     "widevine_data": {
-      "kid": "e2bbb358a8b099ffbb7730f5a87f5b4e",
-      "key": "a640aaf0bb3793e4904dc0fdb7ce7d6d"
+      "kid": "6f3f262b200e826ca26a22c46df477c0",
+      "key": "ee30fd45b4f9c0701879ec0706e308d2"
     },
     "sources": []
   },
@@ -68,10 +68,10 @@
     "isLive": "true",
     "title": "Nepal VS Japan",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137181_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "688278397694",
+    "okassetkey": "404267950711",
     "widevine_data": {
-      "kid": "a49509900694e9118fe3fd502548c841",
-      "key": "5e58cbfade4291d9580a07cf5500e93e"
+      "kid": "c004843a828efcf4a102c9799c403d7a",
+      "key": "64065d51976ebc06ffd1afbcd130e097"
     },
     "sources": [
       {
