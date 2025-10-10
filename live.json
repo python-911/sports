@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010040/1760014215356839_Extreme_E_and_Extreme_H_WC25_day2_9oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "184565442055",
+    "okassetkey": "594361082612",
     "widevine_data": {
-      "kid": "1b4ecade2a8ed12ec9a8e7ab300774f2",
-      "key": "06802c017e8ad3d97c56fe4ba279d577"
+      "kid": "e17917a0f7498fd108763394e78e72f5",
+      "key": "19bc4d7813ad0778c856d80b43cee527"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "ONE Friday Fights 128",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6837/1760006646837-h",
-    "okassetkey": "176951319601",
+    "okassetkey": "492448457624",
     "widevine_data": {
-      "kid": "141207b48a9d16d650cbc84b5223b403",
-      "key": "2aba3e0e09462f08050be18297934cb7"
+      "kid": "6d789ba5ed2c033acd2d665412a3160e",
+      "key": "0f71ed4a2b5ab4d80acd79e8a77ab63f"
     },
     "sources": []
   },
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "175547820500",
+    "okassetkey": "936685222748",
     "widevine_data": {
-      "kid": "8806bf29e22ff3739ab6c68d4553a43f",
-      "key": "220c0dccbf1b136fdbe2cf3a7e1c3c14"
+      "kid": "07fc85af57fc70b4cb9db46bc7abb356",
+      "key": "acfcce29ba6aa779d5da2a9374cec37e"
     },
     "sources": []
   },
@@ -54,10 +54,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: QFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9904/1760071119904-h",
-    "okassetkey": "387711350374",
+    "okassetkey": "403116608887",
     "widevine_data": {
-      "kid": "5698cd3b63a3b61590162d351237546e",
-      "key": "d196eeed15616a26c082e03a555147b9"
+      "kid": "fc05da352a44e3d7c7334f7db29efbc8",
+      "key": "29a1568d066719755c22710b02162771"
     },
     "sources": []
   },
@@ -68,10 +68,10 @@
     "isLive": "true",
     "title": "New Zealand W vs Bangladesh W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "715441185106",
+    "okassetkey": "993933314867",
     "widevine_data": {
-      "kid": "cad9c49002534eb68672dd688588d7be",
-      "key": "80862cc6ef990c30ba73e28849b73dae"
+      "kid": "06bbbf295a001e50f14b19addd60f2bd",
+      "key": "02f9f603e03a9b74636eaebec9e6a5ff"
     },
     "sources": []
   },
@@ -80,12 +80,126 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
+    "title": "Indonesia U23 VS India U23",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137619_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "513212707970",
+    "widevine_data": {
+      "kid": "ad1283017c44770b23b6157bad00d28f",
+      "key": "9225811002fade0f55cbd218ffb071e5"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137619.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Gambia VS Gabon",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137529_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "241267882959",
+    "widevine_data": {
+      "kid": "272f7ef41c8b1bb7a19ee77836a5a7eb",
+      "key": "ddf57034c6d04b16919eabff32cbf8f8"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137529.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Seychelles VS C\u00f4te d'Ivoire",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137528_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "965005715925",
+    "widevine_data": {
+      "kid": "e3c81ba119e404df85df325fbaae37af",
+      "key": "50369d54075e5288bd777ef6124061ce"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137528.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Sudan VS Mauritania",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137527_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "616359299646",
+    "widevine_data": {
+      "kid": "7e4d558e7f45480771b1696114d4de00",
+      "key": "7f97123df9811306d92ed498963120b9"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137527.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Togo VS Congo DR",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137526_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "302609671240",
+    "widevine_data": {
+      "kid": "c6380699add6bd344530a17444773538",
+      "key": "57cf2299ed7a1bce1d9bcc223e98d911"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137526.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "South Sudan VS Senegal",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137525_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "646287444050",
+    "widevine_data": {
+      "kid": "3e7de95fb3bc469f7f99d5230dd6f8a4",
+      "key": "fcf29f95e80827786e200edb3e8d8404"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137525.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137421_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "533625300014",
+    "okassetkey": "080530095450",
     "widevine_data": {
-      "kid": "a741d8753749f3469be3887b72e9d3b9",
-      "key": "f4fdf6dabef8179dff843f9af9e3d55f"
+      "kid": "f24d48b26fa1076c7b2a249c16595c6b",
+      "key": "6bc9bc7ab6ae74e58fee996c8e4bca07"
     },
     "sources": [
       {
@@ -95,16 +209,16 @@
     ]
   },
   {
-    "id": 7,
+    "id": 13,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Nepal VS Japan",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137181_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "404361355197",
+    "okassetkey": "626510991407",
     "widevine_data": {
-      "kid": "b8b6ae2db079283de0457d494f73a614",
-      "key": "4a86cc86a64a877c2682da0815161427"
+      "kid": "f0de50bc5348374f912472a4cb96e1bd",
+      "key": "293c246cc91bf0755687dc510a1ffa34"
     },
     "sources": [
       {
@@ -114,16 +228,16 @@
     ]
   },
   {
-    "id": 8,
+    "id": 14,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136860_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "511097401763",
+    "okassetkey": "022360127747",
     "widevine_data": {
-      "kid": "16bb1964fdd578935987d7d4a88833a8",
-      "key": "6e3454a4e9b5dc8e4d7ca1279e5208ff"
+      "kid": "2190f5c37e9f35b0887a93511d498230",
+      "key": "6a00ac645728d419b435f4c08d535d5a"
     },
     "sources": [
       {
@@ -131,5 +245,89 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-136860.m3u8"
       }
     ]
+  },
+  {
+    "id": 15,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "FEC Playoffs",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/133445_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "684639224010",
+    "widevine_data": {
+      "kid": "8e84be3c8c26c5a2d5f4eeef1b0591b1",
+      "key": "a945506ab1357e6911b3476ae8157455"
+    },
+    "sources": []
+  },
+  {
+    "id": 16,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "BWIN GRAND PRIX OF AUSTRIA",
+    "imageUrl": "",
+    "okassetkey": "496517847330",
+    "widevine_data": {
+      "kid": "79bcd7022b102ca00ce04345524c1c73",
+      "key": "e2cb500a4a41438861bf84fc50e1909e"
+    },
+    "sources": []
+  },
+  {
+    "id": 17,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Band-e-Amir Region VS Speen Ghar Region",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/98332_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "142535893860",
+    "widevine_data": {
+      "kid": "569d746e3618a3a094dd4f65816b3380",
+      "key": "16f5f11fe27de17453c651e3f012be55"
+    },
+    "sources": []
+  },
+  {
+    "id": 18,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Belgium VS Netherlands",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/81893_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "577939377288",
+    "widevine_data": {
+      "kid": "53e88a1a1dd60a273f4ad0e4bb7ef6e5",
+      "key": "9c09e963d6326f0b1be27a6bf9ff20c3"
+    },
+    "sources": []
+  },
+  {
+    "id": 19,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Atlanta Fire VS St Louis Americans",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/76806_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "296133078922",
+    "widevine_data": {
+      "kid": "180ea84b2b9ed1d220fd7901fa77d013",
+      "key": "1f680aad9c90367adca9c56d893b83bb"
+    },
+    "sources": []
+  },
+  {
+    "id": 20,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Thika Hippo VS Kisumu Pythons",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/61747_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "242854905774",
+    "widevine_data": {
+      "kid": "582561eb8093bbc90b0a07ca941defc9",
+      "key": "34cd99566bb5be36a4d0d67ad063ebe7"
+    },
+    "sources": []
   }
 ]
