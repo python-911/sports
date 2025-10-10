@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540287199830_EQ2526_Belgium_vs_North_Macedonia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "002296887212",
+    "okassetkey": "067573804391",
     "widevine_data": {
-      "kid": "0f12f0a570d36abcf55b5efff7b3803b",
-      "key": "5781db8fadd1f18e7cabea8993dd404f"
+      "kid": "3f5ddd30ad004b806540a70b2ab7091a",
+      "key": "b9e778408f1e8aeb204aaced9523a29f"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "909527640499",
+    "okassetkey": "818158990231",
     "widevine_data": {
-      "kid": "44f494d43f068cb5f28d4b58d4840955",
-      "key": "ebdb25a29aede178cac4232c65e30b85"
+      "kid": "2ef454eb508c36b08e180c8247c9cc8d",
+      "key": "4dc36f97384a3d321539bc4220dad719"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "Sharjah VS Emirates Blues",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137486_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "107340133425",
+    "okassetkey": "786779955526",
     "widevine_data": {
-      "kid": "6bc2049a4fc69bbf6b53b47351c149ff",
-      "key": "ebb52712db36bee64ab90f6e79319c0b"
+      "kid": "09e07947cf212f315945fe6e042deccf",
+      "key": "768ed190916e15d9b0f036506ecc5f0d"
     },
     "sources": [
       {
