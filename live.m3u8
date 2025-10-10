@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000010094/1760108546205708_APL25_day9_10oct_live_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Archery",LIV
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491973.m3u8
-#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540112519830_EQ2526_Kazakhstan_vs_Liechtenstein_3oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
-https://live-aws-cdn.okflix.top/hls/sliv1-1090491997.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137533_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",São Tomé e Príncipe VS Tunisia
+https://live-aws-cdn.okflix.top/hls/fan1-137533.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137532_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Rwanda VS Benin
+https://live-aws-cdn.okflix.top/hls/fan1-137532.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137531_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Zimbabwe VS South Africa
+https://live-aws-cdn.okflix.top/hls/fan1-137531.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137530_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Lesotho VS Nigeria
+https://live-aws-cdn.okflix.top/hls/fan1-137530.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137485_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Abu Dhabi VS Dubai
 https://live-aws-cdn.okflix.top/hls/fan1-137485.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137182_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Oman VS Papua New Guinea
