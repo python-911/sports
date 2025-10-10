@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541075697830_EQ2526_Sweden_vs_Switzerland_3oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
-https://live-aws-cdn.okflix.top/hls/sliv1-1090492018.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540569324830_EQ2526_Germany_vs_Luxembourg_3oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
 https://live-aws-cdn.okflix.top/hls/sliv1-1090492014.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540704551830_EQ2526_Iceland_vs_Ukraine_3oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
@@ -9,7 +7,5 @@ https://live-aws-cdn.okflix.top/hls/sliv1-1090492015.m3u8
 https://live-aws-cdn.okflix.top/hls/sliv1-1090492017.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540287199830_EQ2526_Belgium_vs_North_Macedonia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491998.m3u8
-#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540435661830_EQ2526_France_vs_Azerbaijan_3oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
-https://live-aws-cdn.okflix.top/hls/sliv1-1090492003.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137486_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Sharjah VS Emirates Blues
 https://live-aws-cdn.okflix.top/hls/fan1-137486.m3u8
