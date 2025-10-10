@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: QFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9904/1760071119904-h",
-    "okassetkey": "718666636470",
+    "okassetkey": "840362160851",
     "widevine_data": {
-      "kid": "407e0194d9329f2d3faf1e6071e18504",
-      "key": "5cb14b5c6e221c5d9496bd771bfbb41f"
+      "kid": "5b030e95c6f58bb50ec7c645745a351f",
+      "key": "8f27afd815e4cf8b37a57d4cb19ea1eb"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "New Zealand W vs Bangladesh W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "298395812243",
+    "okassetkey": "327186667799",
     "widevine_data": {
-      "kid": "051bfee28df5424be19e43a33d358361",
-      "key": "a6c64860c557fb41fd621d295d928aa8"
+      "kid": "9486c49e7b53dfe91ee3c4ff5e2b54ed",
+      "key": "a30f94e6022392bf86a2f84c309c3161"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010054/1760033142812308_ATP25_9oct_Medvedev_vs_DeMinaur_landscape_thumb_Live.jpg?h=auto&w=720&q=low",
-    "okassetkey": "352501586826",
+    "okassetkey": "042750529400",
     "widevine_data": {
-      "kid": "8ee2ec26d21ac8103d8759b40ffabf18",
-      "key": "fff5200c37bd0fc909977fe690acfb20"
+      "kid": "c06ae20b15b7974bacba862d199f7e30",
+      "key": "c32ee2a21ceaf4ec27cb5d57a49a0ee6"
     },
     "sources": [
       {
@@ -54,10 +54,10 @@
     "isLive": "true",
     "title": "2nd Test: India vs West Indies, Day 1",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9955/1760007589955-h",
-    "okassetkey": "001262709478",
+    "okassetkey": "859438964781",
     "widevine_data": {
-      "kid": "f1d324b2c998f3ac31e5a4ef79794b6c",
-      "key": "a03278e3c24aeb051fec0d218c381b6b"
+      "kid": "312dd0c7cc6abcfd3658c00d4d22e3d5",
+      "key": "11124e7f41be60f95f016240a0b6b640"
     },
     "sources": []
   }
