@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540287199830_EQ2526_Belgium_vs_North_Macedonia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "986312989427",
+    "okassetkey": "907970698592",
     "widevine_data": {
-      "kid": "e64d96e99837266eabeb0c625fc022bf",
-      "key": "14e3d024bb741545c7e92ef81c792395"
+      "kid": "62a0709668a947d7141c18c1379c84d8",
+      "key": "c1b006f106b9e04d8d72de330bfe8f0d"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "943978544304",
+    "okassetkey": "371068297577",
     "widevine_data": {
-      "kid": "f7c207b741192af7ec4472b916b67864",
-      "key": "0ecb8c7c24b43fdbf968b8c3a39bdce5"
+      "kid": "b98f35fad1296a3d677b20193b4850f1",
+      "key": "05a3b49b37abb3914f93434af0bdc48d"
     },
     "sources": []
   },
@@ -40,10 +40,10 @@
     "isLive": "true",
     "title": "Sharjah VS Emirates Blues",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137486_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "950049245767",
+    "okassetkey": "356844325201",
     "widevine_data": {
-      "kid": "c2fad62c48e8fd6f027c16714028e798",
-      "key": "25c80ac26a4ccd52348d0ba4381ed69b"
+      "kid": "880508bc2d13dc69912fecc094b922e8",
+      "key": "997e4f00b00fc5a73b2423cd0138fb1e"
     },
     "sources": [
       {
@@ -59,10 +59,10 @@
     "isLive": "true",
     "title": "Baneasa VS Cluj",
     "imageUrl": "",
-    "okassetkey": "071036141881",
+    "okassetkey": "040984068553",
     "widevine_data": {
-      "kid": "5c355eea4d2525709a7e6257a0e6d10f",
-      "key": "593eba7ce90f6477535ddfd5c56800f0"
+      "kid": "7edc3c3c0e623aadba5481e8bb6fec36",
+      "key": "68285c9cadf559d1b4a2d006d6d6855c"
     },
     "sources": []
   }
