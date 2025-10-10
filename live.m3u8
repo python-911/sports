@@ -3,8 +3,6 @@
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491973.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759540112519830_EQ2526_Kazakhstan_vs_Liechtenstein_3oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
 https://live-aws-cdn.okflix.top/hls/sliv1-1090491997.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137619_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Indonesia U23 VS India U23
-https://live-aws-cdn.okflix.top/hls/fan1-137619.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137529_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Gambia VS Gabon
 https://live-aws-cdn.okflix.top/hls/fan1-137529.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137528_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Seychelles VS Côte d'Ivoire
