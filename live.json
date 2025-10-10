@@ -6,94 +6,80 @@
     "isLive": "true",
     "title": "Bengal Warriorz vs U Mumba",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/1228/1760008311228-h",
-    "okassetkey": "013163121055",
+    "okassetkey": "719933828716",
     "widevine_data": {
-      "kid": "d1fbb7e87a4f9670109d42fac5090062",
-      "key": "d0e23e09056cefc9954b092a83b045c7"
+      "kid": "f02b22aba6d98d120b37d189b89d37dd",
+      "key": "fe45fa3f5fbe0965ad71019424370919"
     },
     "sources": []
   },
   {
     "id": 2,
-    "genre": "Archery",
-    "payType": "P",
-    "isLive": "true",
-    "title": "LIV",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010094/1760108546205708_APL25_day9_10oct_live_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "297313344962",
-    "widevine_data": {
-      "kid": "fc3611b8bd62c675cb1ea4f9accfd22d",
-      "key": "32257e526cec1f1cc4f30a6411cc5d9c"
-    },
-    "sources": []
-  },
-  {
-    "id": 3,
     "genre": "Mixed Martial Arts",
     "payType": "P",
     "isLive": "true",
     "title": "ONE Friday Fights 128",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6837/1760006646837-h",
-    "okassetkey": "953176819197",
+    "okassetkey": "178199700375",
     "widevine_data": {
-      "kid": "3f7b75b9f5e61085d6963f0c9e8fdadb",
-      "key": "6a91b9c432b283367a0352182a35f528"
+      "kid": "fe143adb4202aa2e64532cfb9f4fc863",
+      "key": "9d42038617225ca945113112ef83da34"
     },
     "sources": []
   },
   {
-    "id": 4,
+    "id": 3,
     "genre": "Cricket",
     "payType": "P",
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "165013923009",
+    "okassetkey": "420596701334",
     "widevine_data": {
-      "kid": "f06102af540caaadb6f2c481cc609cdb",
-      "key": "89af05c3efe8a7085debddddb5f35ec9"
+      "kid": "835e864c3aa6d7b987de276598251584",
+      "key": "431e2d8344944ff71360f0609c44c57d"
     },
     "sources": []
   },
   {
-    "id": 5,
+    "id": 4,
     "genre": "Badminton",
     "payType": "P",
     "isLive": "true",
     "title": "BWF Arctic Open: QFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9904/1760071119904-h",
-    "okassetkey": "655349900028",
+    "okassetkey": "102976478633",
     "widevine_data": {
-      "kid": "245657419f9f9dd45c5348bc461eb6d2",
-      "key": "67d059de8a3e8205fa9d5734156f1c21"
+      "kid": "785e56c8e2859203c62f31f75e2cb353",
+      "key": "b6ec15f8d97463db0701006e4d0b8070"
     },
     "sources": []
   },
   {
-    "id": 6,
+    "id": 5,
     "genre": "Cricket",
     "payType": "P",
     "isLive": "true",
     "title": "New Zealand W vs Bangladesh W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "796303014396",
+    "okassetkey": "950892552725",
     "widevine_data": {
-      "kid": "732a5de93d501d0131f0f31e111bd3a5",
-      "key": "574ba74f9f6dfbac7a6dea95924e4339"
+      "kid": "3400f669354e209fd85119df95f275b3",
+      "key": "d4d0c45d288d92a958e5e2e20b63c517"
     },
     "sources": []
   },
   {
-    "id": 7,
+    "id": 6,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "S\u00e3o Tom\u00e9 e Pr\u00edncipe VS Tunisia",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137533_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "312164519181",
+    "okassetkey": "769904471831",
     "widevine_data": {
-      "kid": "bc9255849287eef765db56e079bb6762",
-      "key": "6dde294ae63df9e7757fdb2aa1518f39"
+      "kid": "efb24a21b7a6ed35e999cdba8f5f5c3e",
+      "key": "341bd8e9e00febd1aeb1aaf9ff231c42"
     },
     "sources": [
       {
@@ -103,16 +89,16 @@
     ]
   },
   {
-    "id": 8,
+    "id": 7,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Rwanda VS Benin",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137532_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "398104458012",
+    "okassetkey": "510842900078",
     "widevine_data": {
-      "kid": "97db82fe7ae2d76cb7d813a0d440be78",
-      "key": "86190d784251250e3339da9e140178eb"
+      "kid": "d82ab8c9397337ba1fd123cd71540e33",
+      "key": "d9b201ba171f6408320413ed229d38be"
     },
     "sources": [
       {
@@ -122,16 +108,16 @@
     ]
   },
   {
-    "id": 9,
+    "id": 8,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Zimbabwe VS South Africa",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137531_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "925291740303",
+    "okassetkey": "207129142854",
     "widevine_data": {
-      "kid": "dc5af6ba158d7d98caf68c750c707b2a",
-      "key": "aa40536fd92741ec96be363d867398de"
+      "kid": "e0d2813f7f0b907e56a3dba36db41305",
+      "key": "68a9c1ba4332ce1765af962fca781242"
     },
     "sources": [
       {
@@ -141,16 +127,16 @@
     ]
   },
   {
-    "id": 10,
+    "id": 9,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Lesotho VS Nigeria",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137530_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "072992314376",
+    "okassetkey": "990193485781",
     "widevine_data": {
-      "kid": "52c2d8aca6ba293ac4c27929047077e3",
-      "key": "a5b70d8b9435df9dfe6a313eae024cbb"
+      "kid": "7d8e51c410888e720fe176e6cac40d55",
+      "key": "3f4fcfb286a6df7b07e28614f7148bd7"
     },
     "sources": [
       {
@@ -160,16 +146,16 @@
     ]
   },
   {
-    "id": 11,
+    "id": 10,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Abu Dhabi VS Dubai",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137485_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "820361186175",
+    "okassetkey": "568262880916",
     "widevine_data": {
-      "kid": "76de66c6263974cea9357afbcc4289e6",
-      "key": "a2c77c9aa529bd5e9359015446360d16"
+      "kid": "1d74855bcbf7959bed850dbc5f80667c",
+      "key": "cf1ba42be4e1f9d96033b530aeb29724"
     },
     "sources": [
       {
@@ -179,16 +165,16 @@
     ]
   },
   {
-    "id": 12,
+    "id": 11,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Oman VS Papua New Guinea",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137182_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "603599925322",
+    "okassetkey": "270390730782",
     "widevine_data": {
-      "kid": "48394492bf3827c225fc90835b1b2adf",
-      "key": "6bbb95b3538bc57e0fe1f85c2e596a8d"
+      "kid": "764c3458264d8c9daffac2f4d9476728",
+      "key": "f82327f760022d046ace5de925989d76"
     },
     "sources": [
       {
@@ -198,30 +184,35 @@
     ]
   },
   {
-    "id": 13,
+    "id": 12,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136860_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "786214225272",
+    "okassetkey": "870279759931",
     "widevine_data": {
-      "kid": "bf55419c35392822447c7bdcd5877eba",
-      "key": "acea5e7430071ddba8686ee7bc2452c7"
+      "kid": "0910fc7cb77a513fba601c2fd946ab75",
+      "key": "3751c1b088ff71bb89c9cdf4073fda9b"
     },
-    "sources": []
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-136860.m3u8"
+      }
+    ]
   },
   {
-    "id": 14,
+    "id": 13,
     "genre": "Game Show",
     "payType": "P",
     "isLive": "true",
     "title": "SET",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010088/1760104918182917_kbc16_AB_birthday_spl_10oct_simulcast_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "354279285029",
+    "okassetkey": "803978922206",
     "widevine_data": {
-      "kid": "6e2fe7bd57d58cbb2b47050568e3c020",
-      "key": "01fa09d1a2a741f17784f4343dfa50a2"
+      "kid": "fdf8a6cfe442f273617e0a6cde9eebed",
+      "key": "7365bcd6d1f8466a7757a583ff101fe0"
     },
     "sources": [
       {
