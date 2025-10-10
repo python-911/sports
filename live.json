@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "ONE Friday Fights 128",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6837/1760006646837-h",
-    "okassetkey": "251029298866",
+    "okassetkey": "201907689409",
     "widevine_data": {
-      "kid": "a212952942373824b8a34a4281d36676",
-      "key": "7b99dc1b8de175fd7ce480e640ccf266"
+      "kid": "7e32da04cc82adaf131d89da63a7c5f5",
+      "key": "0a3b89a1a9e4c0fa947c3c5a38105fab"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "472750276506",
+    "okassetkey": "526192134827",
     "widevine_data": {
-      "kid": "91f6dd9c31c061b6ff72e8f676836902",
-      "key": "a18004e04f7b82829b0e0e81f151c867"
+      "kid": "62c8eca6ca8af2dad69eb25c58ae13dd",
+      "key": "c3af8d4a8a361b522eb9951d5cb990c0"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: QFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9904/1760071119904-h",
-    "okassetkey": "143806627514",
+    "okassetkey": "641656844103",
     "widevine_data": {
-      "kid": "0ee5b00ae271fb86f7719981f4fd1e17",
-      "key": "c9d206648ba7f11aee9d8a0b8fdd4623"
+      "kid": "8deb459bf635a3c1b8794a97fab2a25f",
+      "key": "805988a089131806825fa62c9ab01408"
     },
     "sources": []
   },
@@ -48,10 +48,10 @@
     "isLive": "true",
     "title": "New Zealand W vs Bangladesh W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "302000955098",
+    "okassetkey": "233861001314",
     "widevine_data": {
-      "kid": "2a0421ace7ad6e5f7be079c6156e971e",
-      "key": "791a3f14a5a08528f22d229933c45806"
+      "kid": "46d06fa18b7410388db4d852fc1d4f1b",
+      "key": "02e010beecb3aee8cf27325dfb2fdbfc"
     },
     "sources": []
   },
@@ -62,10 +62,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010054/1760033142812308_ATP25_9oct_Medvedev_vs_DeMinaur_landscape_thumb_Live.jpg?h=auto&w=720&q=low",
-    "okassetkey": "064403561907",
+    "okassetkey": "236222978196",
     "widevine_data": {
-      "kid": "eb11e6dc6cc298c75bc208d94379cf13",
-      "key": "4d5557ab791f84bd5840c98dd049e8ba"
+      "kid": "d0ab25f35b467c641c5445dad6265c1e",
+      "key": "b7129a3ff757da56431c71db92ce8c8c"
     },
     "sources": [
       {
@@ -82,10 +82,10 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137421_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "627061417089",
+    "okassetkey": "542627992062",
     "widevine_data": {
-      "kid": "07744cb1ccdf5c09b4920dc3b37730bb",
-      "key": "91e9ba4af0fc52b66b8b2972f2ffca55"
+      "kid": "c3b78c124afcd4c02a7479a01e50dca6",
+      "key": "ee0d230762193e2d0f8136d355ea69bc"
     },
     "sources": [
       {
@@ -101,10 +101,10 @@
     "isLive": "true",
     "title": "Nepal VS Japan",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137181_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "899676441789",
+    "okassetkey": "265776915052",
     "widevine_data": {
-      "kid": "64da07601cb78a08228d747ade0b93a7",
-      "key": "b5c156d929492fd89b87860c2ee01952"
+      "kid": "bbcfc0ce61859cfc47eae1588f77ba40",
+      "key": "41a4a46beb095f77b6c5cc8e3f53b769"
     },
     "sources": [
       {
@@ -120,10 +120,10 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136860_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "510405255231",
+    "okassetkey": "366763279883",
     "widevine_data": {
-      "kid": "c25c53275decebce52289808b004ce08",
-      "key": "2b4b7a522ae93582cb4caba6bef5d356"
+      "kid": "a9937a1765eecbd30d434891d726787c",
+      "key": "d86b4f7dd665d62e51c6516be2be02db"
     },
     "sources": [
       {
