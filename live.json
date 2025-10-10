@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "097272607379",
+    "okassetkey": "114685292223",
     "widevine_data": {
-      "kid": "93e604280038ad5a31635695f9641661",
-      "key": "16674c508a7be1f686be99f6fc2ae487"
+      "kid": "2f1659547f172ef68aeb223fefa0d547",
+      "key": "84f09e4948ab8596ae703d82dcb5ddf5"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: QFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/9904/1760071119904-h",
-    "okassetkey": "651643538447",
+    "okassetkey": "775789073932",
     "widevine_data": {
-      "kid": "4bf2db7ed3920d8330fd91c36885e7c1",
-      "key": "d74c9c7571213edd40bfebef99e4108a"
+      "kid": "11b2668ad5e67d90a68c57a6fe10bd4f",
+      "key": "62993867f9807787c5fe9155583e980f"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "New Zealand W vs Bangladesh W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/8196/1760037258196-h",
-    "okassetkey": "971462550466",
+    "okassetkey": "731593317958",
     "widevine_data": {
-      "kid": "fddb0b78d0344e7985bd3695b0fa36f6",
-      "key": "0d428158cc5423154bf21adab6a0d153"
+      "kid": "7ecad8996a8cf5a039c8483afe3aca82",
+      "key": "a44a73e61da4355e763ae58600c621c7"
     },
     "sources": []
   },
@@ -48,10 +48,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010054/1760033142812308_ATP25_9oct_Medvedev_vs_DeMinaur_landscape_thumb_Live.jpg?h=auto&w=720&q=low",
-    "okassetkey": "349619176218",
+    "okassetkey": "343282241098",
     "widevine_data": {
-      "kid": "6877ea4ec03744862ac3f7a587a58253",
-      "key": "37226ceaa78658c3ab3a12cd9d3206d3"
+      "kid": "e40c42c672b1ce74804fb6744b2dbd98",
+      "key": "8ccda009e2b6fdb3935790a301a152b5"
     },
     "sources": [
       {
@@ -68,10 +68,10 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137421_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "341639931549",
+    "okassetkey": "510456102257",
     "widevine_data": {
-      "kid": "b458d6d71ec39af60ff6fdb4502850df",
-      "key": "9a2836dbedd9b6fbd0c9204b8d08af3e"
+      "kid": "6132f0dc34e922d0b543a08b70a8021c",
+      "key": "940db2f3612f4dfdd4822e8b8758a534"
     },
     "sources": [
       {
@@ -87,15 +87,34 @@
     "isLive": "true",
     "title": "Nepal VS Japan",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137181_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "499665226003",
+    "okassetkey": "101545227568",
     "widevine_data": {
-      "kid": "2bc3635040aeec90c7a57091a87ab24f",
-      "key": "0b6015a9e34fa630d2d3c8aa051fd465"
+      "kid": "075805dc96bf686026de0a4251d076d0",
+      "key": "e20ceede43363cc59ed07f1030f2d74f"
     },
     "sources": [
       {
         "name": "HLS",
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137181.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
+    "title": "Acciona Spanish Open presented by Madrid",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/136860_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "413957567960",
+    "widevine_data": {
+      "kid": "1d90a958e42439382e1709f619aabe33",
+      "key": "e5ed8ee82114a2c352e750d237fc03e9"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-136860.m3u8"
       }
     ]
   }
