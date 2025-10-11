@@ -4,12 +4,12 @@
     "genre": "Badminton",
     "payType": "P",
     "isLive": "true",
-    "title": "BWF Arctic Open: SFs",
+    "title": "BWF Arctic Open: SF's",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6524/1760161156524-h",
-    "okassetkey": "916744360277",
+    "okassetkey": "346742027049",
     "widevine_data": {
-      "kid": "4bfc6bd4d5a91cb6b909c9b3c8f7a362",
-      "key": "5b75791cf1ef7136f5da858d494c0be1"
+      "kid": "0a9f191b1a203ce4f5b47ca4f8ceeabc",
+      "key": "a9d78f597e10459352b8dbdfeca25f3a"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Bengaluru Bulls vs Jaipur Pink Panthers",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7208/1760097107208-h",
-    "okassetkey": "763711838187",
+    "okassetkey": "259150135884",
     "widevine_data": {
-      "kid": "399e5f8eee4ff87f1c8daad0b678dd5c",
-      "key": "916db9a6d8ab32777a30619cde707084"
+      "kid": "57945e7875af630909936e43e6f1e80f",
+      "key": "ab36a5936731d6e40de8ed69bce066cd"
     },
     "sources": [
       {
@@ -81,10 +81,10 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010123/1760158127102773_APL25_day10_10oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "583858558391",
+    "okassetkey": "325675094239",
     "widevine_data": {
-      "kid": "2e74f5c012587e6e03e7e9d1299e282c",
-      "key": "4000c27a8f68b32add556ec7d723aeb3"
+      "kid": "1b1d58d4db4a25a3694bb13f5fc9a69e",
+      "key": "5181120796811f6c1bbe24450b47a74d"
     },
     "sources": [
       {
@@ -101,18 +101,12 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541222127830_EQ2526_Latvia_vs_Andorra_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "148848760308",
+    "okassetkey": "613093971416",
     "widevine_data": {
-      "kid": "f2b027e2729a42d20139dbf7a5997ce9",
-      "key": "2983844d366288d41bc26a751ee90687"
+      "kid": "1edb761e8a8b374e2e076dfe0fd8d9f6",
+      "key": "d0e6604520fd0bf2d922e3e114761b79"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090492075.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 5,
@@ -121,10 +115,10 @@
     "isLive": "true",
     "title": "England W vs Sri Lanka W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7480/1760096407480-h",
-    "okassetkey": "617048496010",
+    "okassetkey": "938645111946",
     "widevine_data": {
-      "kid": "b410dc7e688f6c69bb154a8d91676687",
-      "key": "567afb5941205df104064d457774385d"
+      "kid": "3ab9558316038e1c454a006f5b67b26b",
+      "key": "f76fc668eb7c5fa2013ff96a74e53929"
     },
     "sources": [
       {
@@ -141,10 +135,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "006776670188",
+    "okassetkey": "549097711570",
     "widevine_data": {
-      "kid": "f23fd71cabc60908de47a5d49e354111",
-      "key": "84e0214fdebedb83d71cd9b8cb464a8e"
+      "kid": "6f38a36da3066c02efa49af2f299a0f0",
+      "key": "7369aee97612cc4cc4e4d5b5faba9632"
     },
     "sources": []
   },
@@ -155,10 +149,10 @@
     "isLive": "true",
     "title": "Sharjah VS Abu Dhabi",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137487_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "476867698935",
+    "okassetkey": "874966859159",
     "widevine_data": {
-      "kid": "0a0139d02eab01036d131332d78b91fb",
-      "key": "da068a84f523b4fe64f91b5050f7d16c"
+      "kid": "143a19e345b741619a6ef760b2b33eb1",
+      "key": "5acd0fb419fa8081d62856c68abc450d"
     },
     "sources": [
       {
@@ -174,10 +168,10 @@
     "isLive": "true",
     "title": "Namibia VS South Africa",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137263_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "976975284917",
+    "okassetkey": "458482088100",
     "widevine_data": {
-      "kid": "680503b61c64590f1f563ba60dbeb525",
-      "key": "21a041950a38eec57d383f905e1576a9"
+      "kid": "0e001e5612b297e2e989f9de7ec6aaca",
+      "key": "f43f440edab98f6a7fd91791e0813881"
     },
     "sources": [
       {
@@ -193,10 +187,10 @@
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136882_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "176621717236",
+    "okassetkey": "889693973199",
     "widevine_data": {
-      "kid": "4e7c0af5464f9ec9bceff1d126676a5a",
-      "key": "7971bbec022bad95e2beb836995f9f36"
+      "kid": "ca015e79c3ab057b835d7319f424d5ac",
+      "key": "204d45b9676e5a6902fc5bf2150781a1"
     },
     "sources": [
       {
@@ -212,10 +206,10 @@
     "isLive": "true",
     "title": "Acciona Spanish Open presented by Madrid",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136861_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "587569915917",
+    "okassetkey": "712133866677",
     "widevine_data": {
-      "kid": "73e85819bd02e0f0a79bb9a0b3a7674e",
-      "key": "1d91ac95588d3787bbd1e85e408a4403"
+      "kid": "c85e3436fc449581398e7995d813c750",
+      "key": "dee34007ba60909f66a8c2157d0f260a"
     },
     "sources": [
       {
