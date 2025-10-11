@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "035100249676",
+    "okassetkey": "146516161649",
     "widevine_data": {
-      "kid": "1ebd55f0e9cce83cf40d8f6e4f2bdbb1",
-      "key": "7b0f6214299aa0153643d8312c6846bd"
+      "kid": "394bae720d55cea83b7602ab56781905",
+      "key": "e6ca483d3ea132fe9763dc22272bddbf"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137621_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "848608324991",
+    "okassetkey": "027835378196",
     "widevine_data": {
-      "kid": "751012c255f8362f8d48abd351f03139",
-      "key": "c86a0686937698256233e6565f796030"
+      "kid": "7b7fbabf849c95ea7bd02dfefea01f1d",
+      "key": "6e22e6b5a919d1858b7a1148686d959e"
     },
     "sources": [
       {
@@ -39,10 +39,10 @@
     "isLive": "true",
     "title": "Detroit Tigers VS Seattle Mariners",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137578_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "954731062262",
+    "okassetkey": "622546011347",
     "widevine_data": {
-      "kid": "5a6b671e42da934d4bb0b30b99528a01",
-      "key": "36fdb38383ded30763f0c08797ff6c5b"
+      "kid": "c6493f4d3001b5f0b15e6d4155711dda",
+      "key": "efc9a32251b10bf2a039c2b3bf927c10"
     },
     "sources": [
       {
@@ -56,12 +56,31 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
+    "title": "Brampton Blitz VS White Rock Warriors",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137429_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "580287885770",
+    "widevine_data": {
+      "kid": "26aeb65948d6ccfe294753d8dd991d3e",
+      "key": "c22a36136bffa89da0e9481aca338253"
+    },
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137429.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "genre": "Sports",
+    "payType": "P",
+    "isLive": "true",
     "title": "Vancouver Kings VS Mississauga Masters",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137428_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "119971810426",
+    "okassetkey": "736868933724",
     "widevine_data": {
-      "kid": "15d508689a5a9e5155619e4c9f6406e1",
-      "key": "64f0c41dfe4cff7a5b349f401d34d0a1"
+      "kid": "0ed314ca87638f33fdc54e9c36933ed0",
+      "key": "5b99ec100e0b7b764a01749bccecd330"
     },
     "sources": [
       {
@@ -71,16 +90,16 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Dallas Lonestars CC VS Houston Generals CC",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137306_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "932183222477",
+    "okassetkey": "945058131765",
     "widevine_data": {
-      "kid": "316ec6ea19ae24ffbf94e27e810acf69",
-      "key": "e92d7d97839772dfdfe9f7cbffb03de0"
+      "kid": "2b5484737dcb059056d33d25f213bc1b",
+      "key": "63403aec92a1e3ed9aa711288ae111cb"
     },
     "sources": [
       {
@@ -90,16 +109,16 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "New South Wales Breakers VS Western Australia Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133959_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "089361945602",
+    "okassetkey": "703763251716",
     "widevine_data": {
-      "kid": "9f9ce996434ea35b100c3544bfc12e95",
-      "key": "827e2d58679701baab598be6791d1367"
+      "kid": "649d656d4e61b567c59ff86ad2fd9818",
+      "key": "2dc6f20b2674ea5fa1ceeb8d1b750fcd"
     },
     "sources": [
       {
