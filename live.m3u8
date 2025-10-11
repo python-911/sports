@@ -7,8 +7,6 @@ https://live-aws-cdn.okflix.top/hls/sliv1-1090492077.m3u8
 https://live-aws-cdn.okflix.top/hls/eng/hs-1540055312.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7480/1760096407480-h" group-title="Cricket",England W vs Sri Lanka W
 https://live-aws-cdn.okflix.top/hls/eng/hs-1540051857.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137209_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Almería VS Real Zaragoza
-https://live-aws-cdn.okflix.top/hls/fan1-137209.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136999_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Oldham Athletic VS Barrow
 https://live-aws-cdn.okflix.top/hls/fan1-136999.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136882_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Afghanistan VS Bangladesh
