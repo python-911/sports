@@ -1,21 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541363237830_EQ2526_Hungary_vs_Armenia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
+https://live-aws-cdn.okflix.top/hls/sliv1-1090492076.m3u8
+#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541499854830_EQ2526_Norway_vs_Israel_3oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
+https://live-aws-cdn.okflix.top/hls/sliv1-1090492077.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6524/1760161156524-h" group-title="Badminton",BWF Arctic Open: SFs
 https://live-aws-cdn.okflix.top/hls/eng/hs-1540055312.m3u8
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7208/1760097107208-h" group-title="KABADDI",Bengaluru Bulls vs Jaipur Pink Panthers
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2420/1760097232420-h" group-title="KABADDI",Tamil Thalaivas vs Puneri Paltan
 https://live-aws-cdn.okflix.top/hls/hin/hs-1540050537.m3u8
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7208/1760097107208-h" group-title="KABADDI",Bengaluru Bulls vs Jaipur Pink Panthers
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2420/1760097232420-h" group-title="KABADDI",Tamil Thalaivas vs Puneri Paltan
 https://live-aws-cdn.okflix.top/hls/eng/hs-1540050537.m3u8
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7208/1760097107208-h" group-title="KABADDI",Bengaluru Bulls vs Jaipur Pink Panthers
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2420/1760097232420-h" group-title="KABADDI",Tamil Thalaivas vs Puneri Paltan
 https://live-aws-cdn.okflix.top/hls/har/hs-1540050537.m3u8
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7208/1760097107208-h" group-title="KABADDI",Bengaluru Bulls vs Jaipur Pink Panthers
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2420/1760097232420-h" group-title="KABADDI",Tamil Thalaivas vs Puneri Paltan
 https://live-aws-cdn.okflix.top/hls/bih/hs-1540050537.m3u8
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7208/1760097107208-h" group-title="KABADDI",Bengaluru Bulls vs Jaipur Pink Panthers
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2420/1760097232420-h" group-title="KABADDI",Tamil Thalaivas vs Puneri Paltan
 https://live-aws-cdn.okflix.top/hls/mar/hs-1540050537.m3u8
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7208/1760097107208-h" group-title="KABADDI",Bengaluru Bulls vs Jaipur Pink Panthers
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2420/1760097232420-h" group-title="KABADDI",Tamil Thalaivas vs Puneri Paltan
 https://live-aws-cdn.okflix.top/hls/tel/hs-1540050537.m3u8
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7208/1760097107208-h" group-title="KABADDI",Bengaluru Bulls vs Jaipur Pink Panthers
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2420/1760097232420-h" group-title="KABADDI",Tamil Thalaivas vs Puneri Paltan
 https://live-aws-cdn.okflix.top/hls/tam/hs-1540050537.m3u8
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7208/1760097107208-h" group-title="KABADDI",Bengaluru Bulls vs Jaipur Pink Panthers
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2420/1760097232420-h" group-title="KABADDI",Tamil Thalaivas vs Puneri Paltan
 https://live-aws-cdn.okflix.top/hls/kan/hs-1540050537.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000010123/1760158127102773_APL25_day10_10oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Archery",LIV
 https://live-aws-cdn.okflix.top/hls/sliv1-1090492069.m3u8
