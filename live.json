@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "897199527704",
+    "okassetkey": "215779314884",
     "widevine_data": {
-      "kid": "dc409a223b6557d36e2aa01e19572394",
-      "key": "425acb97f7161104162114bf653bbd71"
+      "kid": "a70c87fbc728a6f3761b1844b86b7d7d",
+      "key": "9b8f34071cb8e47e941f33248be7fd1f"
     },
     "sources": []
   },
@@ -18,31 +18,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Toronto Sixers Women VS Vancouver Thunderbirds Women",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137460_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "226283763186",
-    "widevine_data": {
-      "kid": "ae11a8ba499468f2c821c1ffaeb46af5",
-      "key": "b236b98afbf98c116fda54f763e050cc"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137460.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Vancouver Kings VS Mississauga Masters",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137428_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "128113377760",
+    "okassetkey": "113915453569",
     "widevine_data": {
-      "kid": "c9e0a654139faacea4ea14f686a07663",
-      "key": "28cfcf28d7d77fc8414090c2642c6904"
+      "kid": "e4f0d21c78b4266eda4b57007a242923",
+      "key": "68bc80eee6dad8ec521314141ce32b06"
     },
     "sources": [
       {
@@ -52,16 +33,16 @@
     ]
   },
   {
-    "id": 4,
+    "id": 3,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Atlanta Kings CC VS Los Angeles Waves CC",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137305_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "473756919563",
+    "okassetkey": "159607638811",
     "widevine_data": {
-      "kid": "0cbc97692a860ba890bbeb99c9695498",
-      "key": "b05511813c7adf8aa08aa5f1dae1be11"
+      "kid": "b32f7b1c2ef6132b822df57c566a4a6d",
+      "key": "abf3abfc5900e4d3fe9194e77ebec6de"
     },
     "sources": [
       {
@@ -71,16 +52,16 @@
     ]
   },
   {
-    "id": 5,
+    "id": 4,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "New South Wales Breakers VS Western Australia Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133959_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "798058934290",
+    "okassetkey": "613847967905",
     "widevine_data": {
-      "kid": "2ebabee969375e681a56ff80c638d19b",
-      "key": "6a3d8f3081eeaa6c201ed6d769fdf1d4"
+      "kid": "452ea998987e18a2d3d2b233f5b2e1b4",
+      "key": "075ea26417f4d18466356946cedf3f89"
     },
     "sources": [
       {
