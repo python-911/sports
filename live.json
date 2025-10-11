@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "2nd Test: India vs West Indies, Day 2",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7730/1760094947730-h",
-    "okassetkey": "003198860818",
+    "okassetkey": "988167316425",
     "widevine_data": {
-      "kid": "384829365f5fb393193be9e5fa2dc804",
-      "key": "73614c4dc490e485ef2dccb58c0849f6"
+      "kid": "05a7caf947af6e0393b7f45c11fc64d2",
+      "key": "05a730deef2443a720c3becd4f7ef45b"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "515549155116",
+    "okassetkey": "194205600679",
     "widevine_data": {
-      "kid": "6f952d4c48a1edf12140f424805c38f9",
-      "key": "2c8af4aa1571ef48db907f247ceff549"
+      "kid": "3c8079b833855421127835612773822a",
+      "key": "58cb46d9da100f5e2d1cf822db3c518a"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137621_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "693828029833",
+    "okassetkey": "715529740500",
     "widevine_data": {
-      "kid": "64e0c46daa2c27b269b7104ceca0f9e6",
-      "key": "a2b2190bd6bf90ee8d93a30f93258093"
+      "kid": "caf0f34b76dbf4c580abcec17965dceb",
+      "key": "746b7e001127c5d4ebbf18d3489fa331"
     },
     "sources": [
       {
@@ -53,10 +53,10 @@
     "isLive": "true",
     "title": "Detroit Tigers VS Seattle Mariners",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137578_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "040114095301",
+    "okassetkey": "031090225072",
     "widevine_data": {
-      "kid": "c2b26be63a4b1d5a71b76b772b621bcf",
-      "key": "6d92dfa449d94a0899eba93da0342720"
+      "kid": "720a6e8c4df726fc9e72ce147d7a39a9",
+      "key": "5ee181ca5328b0056dfbb8d925299738"
     },
     "sources": [
       {
@@ -72,12 +72,17 @@
     "isLive": "true",
     "title": "Baycurrent Classic",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137313_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "679513316927",
+    "okassetkey": "819965475179",
     "widevine_data": {
-      "kid": "579462a86d725b0f61142c4395a1edc6",
-      "key": "a2532a33151070fece0e6064d8b84be8"
+      "kid": "0d630640408cde2b3a9ff5195ce75bdd",
+      "key": "e0ec7da11e5875b3f66ae5c12883f2d1"
     },
-    "sources": []
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137313.m3u8"
+      }
+    ]
   },
   {
     "id": 6,
@@ -86,10 +91,10 @@
     "isLive": "true",
     "title": "New South Wales Breakers VS Western Australia Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133959_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "558994698533",
+    "okassetkey": "958774839758",
     "widevine_data": {
-      "kid": "a5403492e7a34f239b65560cb8198617",
-      "key": "e3ad4c95d77a3d221ee1a3bd9152a123"
+      "kid": "954b9875cf6b4849385b35458ddaa14f",
+      "key": "ffd7b846ba05043b4f2d9942de4f16f7"
     },
     "sources": [
       {
