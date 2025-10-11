@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541363237830_EQ2526_Hungary_vs_Armenia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "004057398724",
+    "okassetkey": "750029407383",
     "widevine_data": {
-      "kid": "31f323869f17ce5c1f16cc306233879d",
-      "key": "ff327130e810f873f18be8c89ed11df7"
+      "kid": "96f4dd31cd52822a0714ab73c131d16d",
+      "key": "84a5334978aff06088132b8a7ef3b0ec"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541499854830_EQ2526_Norway_vs_Israel_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "972276708063",
+    "okassetkey": "639904950436",
     "widevine_data": {
-      "kid": "0b774d2eeda7473debf4764ba21d8af1",
-      "key": "15360e7d1fb7b7305a46c374dd24976a"
+      "kid": "44ab15be5e9ed4b0e1dd3f3c193a61f1",
+      "key": "2b2464a52052f5da9083090412784ed5"
     },
     "sources": [
       {
@@ -46,10 +46,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: SFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6524/1760161156524-h",
-    "okassetkey": "087003305459",
+    "okassetkey": "353605515855",
     "widevine_data": {
-      "kid": "ed3d950e2169e8c5d6069ca0900c4421",
-      "key": "e284a75aecab1563f1ca0046b21e08ab"
+      "kid": "59e0e5ab62bee967c22b0c25efa3077c",
+      "key": "6c572f5364d72a13cf5429282d4a7303"
     },
     "sources": [
       {
@@ -66,10 +66,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "892414155901",
+    "okassetkey": "638599959587",
     "widevine_data": {
-      "kid": "2b5db1d2ab58803a0371cc930d692470",
-      "key": "2fcc3a1e701bf055ef0f8be01f9ed72e"
+      "kid": "ad19932886855ec739c1b6d506a90263",
+      "key": "b7e348223d35d6c0bd062c7a2bba6ffb"
     },
     "sources": []
   },
@@ -80,10 +80,10 @@
     "isLive": "true",
     "title": "United Arab Emirates VS Oman",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137265_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "722184009042",
+    "okassetkey": "861662202625",
     "widevine_data": {
-      "kid": "f9735f3033e95012dd8341945c62d388",
-      "key": "ab4ab8b73f2d0594f6c4e77a9e2e8e84"
+      "kid": "9d4fa77c2c1ce8fd2364895d0dd19bfc",
+      "key": "934e96c51a973152d0d33cdf37a15d88"
     },
     "sources": [
       {
@@ -99,10 +99,10 @@
     "isLive": "true",
     "title": "Almer\u00eda VS Real Zaragoza",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137209_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "991784437899",
+    "okassetkey": "614207052607",
     "widevine_data": {
-      "kid": "0fff1ce846c08787be21e7318b7c0679",
-      "key": "46585b765ecffb3277aa2056c09fc6dc"
+      "kid": "0a20d827097b2631d5a82929e5e8e9a8",
+      "key": "51d7ced25e5849fdd98fa1af9d7ca140"
     },
     "sources": [
       {
@@ -118,10 +118,10 @@
     "isLive": "true",
     "title": "Oldham Athletic VS Barrow",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136999_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "802524376142",
+    "okassetkey": "056294170667",
     "widevine_data": {
-      "kid": "75169786ec18fdafa475bf75322e656e",
-      "key": "4ef2b280818ecccde14ccc34a6c02d4f"
+      "kid": "71c2a5b79cc26a2b5c770364cb12152b",
+      "key": "56d04e35e6000c774ff82db44bbc6736"
     },
     "sources": [
       {
@@ -137,10 +137,10 @@
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136882_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "875346746199",
+    "okassetkey": "137790316930",
     "widevine_data": {
-      "kid": "cf8d5eb586da2faacf8eef633c0364d3",
-      "key": "f8482ecbdc329d4c0b9567d125666aa9"
+      "kid": "874832c9fd662007295d9e0f443e0f69",
+      "key": "d1f6a28d65659acdae9ee6ec5abe104c"
     },
     "sources": [
       {
@@ -156,10 +156,10 @@
     "isLive": "true",
     "title": "Mis Ainak Region VS Boost Region",
     "imageUrl": "https://images.fancode.com/aig/match/v1/98338_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "278893884981",
+    "okassetkey": "445714498725",
     "widevine_data": {
-      "kid": "ab9e095bcc40c4a6bb79e1abcf83526f",
-      "key": "a9bcfa01f9429c15e36f5534ad7b55f8"
+      "kid": "efca1bfdd5cf106ac9239c37b91b4b20",
+      "key": "71c0270d40b6614e85fbdc820822c3c5"
     },
     "sources": []
   }
