@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009845/1759543088821452_APL25_Day10_3oct_Landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Archery",LIV
+https://live-aws-cdn.okflix.top/hls/sliv1-1090492069.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541222127830_EQ2526_Latvia_vs_Andorra_3oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Football",Sony Sports Ten 2
 https://live-aws-cdn.okflix.top/hls/sliv1-1090492075.m3u8
 #EXTINF:-1 tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000010040/1760014223501839_Extreme_E_and_Extreme_H_WC25_day3_9oct_landscape_thumb.jpg?h=auto&w=720&q=low" group-title="Racing",Sony Sports Ten 5
 https://live-aws-cdn.okflix.top/hls/sliv1-1090492068.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137621_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Tamil Nadu Chief Minister’s Trophy Games 2025
 https://live-aws-cdn.okflix.top/hls/fan1-137621.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137487_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Sharjah VS Abu Dhabi
+https://live-aws-cdn.okflix.top/hls/fan1-137487.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137263_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Namibia VS South Africa
 https://live-aws-cdn.okflix.top/hls/fan1-137263.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136882_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Afghanistan VS Bangladesh
