@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "2nd Test: India vs West Indies, Day 2",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7730/1760094947730-h",
-    "okassetkey": "589751396220",
+    "okassetkey": "817440411841",
     "widevine_data": {
-      "kid": "e3f4749ce158f29a1288fae2bd7cb7c2",
-      "key": "1ec3b6cb4af558b034110e485fa3b29b"
+      "kid": "e8ea0c7b6d5b91659ed296c08eda6171",
+      "key": "a4e37f8fa9d04ac253bd3cbcb5269475"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "183282963976",
+    "okassetkey": "071558098527",
     "widevine_data": {
-      "kid": "ac45085a20a0855d5fcc0f061573d036",
-      "key": "2334b3ecb5d125e78a4fe227907a7440"
+      "kid": "aca7ae94393cb610987f8f82c7fd330c",
+      "key": "16a15b24343de78b85fd0efa79adf5ee"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137621_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "583035722352",
+    "okassetkey": "961379716854",
     "widevine_data": {
-      "kid": "1a79be830ff9b9150f6ae8d63564b98a",
-      "key": "e8b696d27055ea3a04c5664b8f47173a"
+      "kid": "9bee4b9c5c5f3a02225202b86d2fe0a8",
+      "key": "c9b5f78dd61c422d5f93050b9b4b15b3"
     },
     "sources": [
       {
@@ -53,17 +53,12 @@
     "isLive": "true",
     "title": "Toronto Sixers VS Montreal Royal Tigers",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137430_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "310639179538",
+    "okassetkey": "350905923976",
     "widevine_data": {
-      "kid": "a9f3229db63d7fecd28b768f35f4ded3",
-      "key": "f0084f0627d712d7527190ad1def8ffd"
+      "kid": "d05d24b3536c08b7b69a1f2f6a25738c",
+      "key": "70a0f33464368314c2f23c7b1a38776f"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137430.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 5,
@@ -72,16 +67,11 @@
     "isLive": "true",
     "title": "Baycurrent Classic",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137313_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "826038542030",
+    "okassetkey": "547566977558",
     "widevine_data": {
-      "kid": "8fd270957057d16789cd8310951a9b59",
-      "key": "7af3f0036b70109d77f5eabfabe9a37e"
+      "kid": "f2944635eaa04f88b05b572cc42499bf",
+      "key": "256d226d2f399f830d5842cd32e7483b"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137313.m3u8"
-      }
-    ]
+    "sources": []
   }
 ]
