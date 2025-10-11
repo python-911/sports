@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "308912764140",
+    "okassetkey": "323233267863",
     "widevine_data": {
-      "kid": "c5f8061b8f84557cd2ea589270623663",
-      "key": "d2c870cb958c825f654c2bfbaa561e04"
+      "kid": "2bef120a6b53302deef57689bfdaef26",
+      "key": "f5292fd713347b704949d93fa01cdca3"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137621_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "411628169699",
+    "okassetkey": "355367607899",
     "widevine_data": {
-      "kid": "609977ed0af3a8feffb01908a533e090",
-      "key": "7726580be164e0da375acc62200c1613"
+      "kid": "94b248ea8f663ed30b757b639b4cddaf",
+      "key": "90860f4759a83471c380622a63317d69"
     },
     "sources": [
       {
@@ -39,10 +39,10 @@
     "isLive": "true",
     "title": "Detroit Tigers VS Seattle Mariners",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137578_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "662015408694",
+    "okassetkey": "546478249172",
     "widevine_data": {
-      "kid": "769273d6654405c286d39bc53f3a9047",
-      "key": "204d5bdcfa4e980ed42308b745bf4cca"
+      "kid": "e6f591df51721d8ac9ee6d48c8b86e7e",
+      "key": "9d7538c0ba9fc9479c76224650939690"
     },
     "sources": [
       {
@@ -58,10 +58,10 @@
     "isLive": "true",
     "title": "Vancouver Kings VS Mississauga Masters",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137428_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "417721917841",
+    "okassetkey": "984360501940",
     "widevine_data": {
-      "kid": "fccd5f24fcc359424669dff351cb4964",
-      "key": "d2bdcaab21c7ea180054a234e9a8468b"
+      "kid": "fa49a2c76fd1a6ad1ee6c5f79e2ff88e",
+      "key": "dab62adf1c8901f0e3e8f320c4f3b8cb"
     },
     "sources": [
       {
@@ -77,10 +77,10 @@
     "isLive": "true",
     "title": "Dallas Lonestars CC VS Houston Generals CC",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137306_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "823559061473",
+    "okassetkey": "492430780179",
     "widevine_data": {
-      "kid": "e594957d4cbe7c10a57592125d9ea477",
-      "key": "db2bab27917f59f280039916ee0304ee"
+      "kid": "e51d4d3e388c012344f6bc2b5e18f191",
+      "key": "2945362e32e57c5e3ff5c26d778d04e5"
     },
     "sources": [
       {
@@ -94,26 +94,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Atlanta Kings CC VS Los Angeles Waves CC",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137305_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "028490232913",
-    "widevine_data": {
-      "kid": "98e2a795a8b361ee98e999a8c98dcf72",
-      "key": "c72c0e6a6597c00e89efb4364d1cfefb"
-    },
-    "sources": []
-  },
-  {
-    "id": 7,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "New South Wales Breakers VS Western Australia Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133959_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "539840931178",
+    "okassetkey": "597202539518",
     "widevine_data": {
-      "kid": "88121f02b246767ef2e40acfd92c69e2",
-      "key": "91a4b65d70edd42fd57a959b3eaa42c8"
+      "kid": "5c2d00efc8970866961666502700db00",
+      "key": "67670c0d4de79fb628faf84e11a50dc5"
     },
     "sources": [
       {
