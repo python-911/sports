@@ -3,5 +3,7 @@
 https://live-aws-cdn.okflix.top/hls/fan1-137621.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137578_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Detroit Tigers VS Seattle Mariners
 https://live-aws-cdn.okflix.top/hls/fan1-137578.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137313_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Baycurrent Classic
+https://live-aws-cdn.okflix.top/hls/fan1-137313.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/133959_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",New South Wales Breakers VS Western Australia Women
 https://live-aws-cdn.okflix.top/hls/fan1-133959.m3u8
