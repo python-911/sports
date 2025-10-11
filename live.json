@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541363237830_EQ2526_Hungary_vs_Armenia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "660830548156",
+    "okassetkey": "164420803257",
     "widevine_data": {
-      "kid": "b9e84467eaa3b72109b7a0ee65734763",
-      "key": "b96e94284d31892494192bad51d90c98"
+      "kid": "054b8bce471dda8924644aeee990850b",
+      "key": "ae55618a85f8937cdb9b18156de8c5c0"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541499854830_EQ2526_Norway_vs_Israel_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "921745144765",
+    "okassetkey": "763683862713",
     "widevine_data": {
-      "kid": "7864f4f200d5eadf18a477d7b479c65d",
-      "key": "4098ebb44229c7e3ac9ec100bf38f267"
+      "kid": "1cb9ea5f3998aed5b2fddffab81bde7e",
+      "key": "8a064135a1ebd9c08cdebec7e5a7da05"
     },
     "sources": [
       {
@@ -46,10 +46,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: SFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6524/1760161156524-h",
-    "okassetkey": "714715969819",
+    "okassetkey": "908840248198",
     "widevine_data": {
-      "kid": "732bbe7912ac73fd08d285e87f76d9b0",
-      "key": "105829cdce1faa298ed0c0cbae77ce9e"
+      "kid": "c6ba1d1b06accb9772980be9c4e14f4e",
+      "key": "fb4137429f1242a65e3507502fc0c3d8"
     },
     "sources": [
       {
@@ -61,70 +61,15 @@
   },
   {
     "id": 4,
-    "genre": "KABADDI",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Tamil Thalaivas vs Puneri Paltan",
-    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2420/1760097232420-h",
-    "okassetkey": "593513417019",
-    "widevine_data": {
-      "kid": "288d70d13dcd9e7c9b528bb9684220b3",
-      "key": "24d7830755c4cd03bcf02c978bacce2e"
-    },
-    "sources": [
-      {
-        "name": "Hindi",
-        "language": "hin",
-        "hls": "https://live-aws-cdn.okflix.top/hls/hin/hs-1540050537.m3u8"
-      },
-      {
-        "name": "English",
-        "language": "eng",
-        "hls": "https://live-aws-cdn.okflix.top/hls/eng/hs-1540050537.m3u8"
-      },
-      {
-        "name": "Haryanvi",
-        "language": "har",
-        "hls": "https://live-aws-cdn.okflix.top/hls/har/hs-1540050537.m3u8"
-      },
-      {
-        "name": "Bhojpuri",
-        "language": "bih",
-        "hls": "https://live-aws-cdn.okflix.top/hls/bih/hs-1540050537.m3u8"
-      },
-      {
-        "name": "Marathi",
-        "language": "mar",
-        "hls": "https://live-aws-cdn.okflix.top/hls/mar/hs-1540050537.m3u8"
-      },
-      {
-        "name": "Telugu",
-        "language": "tel",
-        "hls": "https://live-aws-cdn.okflix.top/hls/tel/hs-1540050537.m3u8"
-      },
-      {
-        "name": "Tamil",
-        "language": "tam",
-        "hls": "https://live-aws-cdn.okflix.top/hls/tam/hs-1540050537.m3u8"
-      },
-      {
-        "name": "Kannada",
-        "language": "kan",
-        "hls": "https://live-aws-cdn.okflix.top/hls/kan/hs-1540050537.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 5,
     "genre": "Cricket",
     "payType": "P",
     "isLive": "true",
     "title": "England W vs Sri Lanka W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7480/1760096407480-h",
-    "okassetkey": "539451153696",
+    "okassetkey": "079734356851",
     "widevine_data": {
-      "kid": "7451fdb49f206fb7bfe5bf00f551b633",
-      "key": "dd7bb9e0b61866dbc881dfe4a14ee961"
+      "kid": "781e82c02dfae7e0ced3931776cb1f5b",
+      "key": "aebf67dddb170e56b44d6e4386d5fbac"
     },
     "sources": [
       {
@@ -135,30 +80,30 @@
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "genre": "Cricket",
     "payType": "P",
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "410043416236",
+    "okassetkey": "715986600178",
     "widevine_data": {
-      "kid": "049793b248611db3d93a9bd32f583249",
-      "key": "b3effd7b15d34a0d5a08a6071e46b540"
+      "kid": "58b6b290c7959f42cd2ea682b994254d",
+      "key": "4b11408b5e0be3405be66c4b3b2f08e3"
     },
     "sources": []
   },
   {
-    "id": 7,
+    "id": 6,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Almer\u00eda VS Real Zaragoza",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137209_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "984150664597",
+    "okassetkey": "942520712245",
     "widevine_data": {
-      "kid": "3df3868982773e99ebe9783a0b0b8f29",
-      "key": "05e7bfb0b62671ce48439cddbd2485ab"
+      "kid": "1910d5d7a372f26651effe7b3ded7bff",
+      "key": "e821d87b8465a3e21631190fd7bfb44f"
     },
     "sources": [
       {
@@ -168,16 +113,16 @@
     ]
   },
   {
-    "id": 8,
+    "id": 7,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Oldham Athletic VS Barrow",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136999_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "922842475471",
+    "okassetkey": "064926859766",
     "widevine_data": {
-      "kid": "423619fe993df7a53da0a4890d73a7bb",
-      "key": "a9ac0bf9196f0a3789e3ab40431a1072"
+      "kid": "eeca59aec36bf7c85384886f922bab48",
+      "key": "60170911b580f7838003ce3b8c99bac7"
     },
     "sources": [
       {
@@ -187,16 +132,16 @@
     ]
   },
   {
-    "id": 9,
+    "id": 8,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136882_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "908237015757",
+    "okassetkey": "681296948861",
     "widevine_data": {
-      "kid": "6d18fe684b7438a9ded2150183413467",
-      "key": "f36815deb43c2e915b4fc17fde6b01b8"
+      "kid": "04219cab200325ce0aab5f5066fc92b6",
+      "key": "cf82e83bea15ee8fb0fc02e0cb020a20"
     },
     "sources": [
       {
