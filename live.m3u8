@@ -3,5 +3,9 @@
 https://live-aws-cdn.okflix.top/hls/sliv1-1090492068.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137621_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Tamil Nadu Chief Minister’s Trophy Games 2025
 https://live-aws-cdn.okflix.top/hls/fan1-137621.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137263_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Namibia VS South Africa
+https://live-aws-cdn.okflix.top/hls/fan1-137263.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136882_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Afghanistan VS Bangladesh
+https://live-aws-cdn.okflix.top/hls/fan1-136882.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136861_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Acciona Spanish Open presented by Madrid
 https://live-aws-cdn.okflix.top/hls/fan1-136861.m3u8
