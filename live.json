@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541363237830_EQ2526_Hungary_vs_Armenia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "576126256971",
+    "okassetkey": "027896980382",
     "widevine_data": {
-      "kid": "246b00696db582264c60c9a16e84bb0d",
-      "key": "bc4b86b5a053165fc978dcfd7f57ae85"
+      "kid": "0b4bdfeb70d4ae3aaa2fd4d92ca4b8c8",
+      "key": "178e828068fbb291a3f73700a0b748cd"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541499854830_EQ2526_Norway_vs_Israel_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "829936227111",
+    "okassetkey": "911790953862",
     "widevine_data": {
-      "kid": "59ed73588a8a7f01c0cdbaf437be8fef",
-      "key": "ff0bcf5f9be749ecd0b938b073603178"
+      "kid": "a691c3dfa32b02b48f465c23fe90fb8f",
+      "key": "a60f652486fd92773a7a8ff79a01613e"
     },
     "sources": [
       {
@@ -46,10 +46,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: SFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6524/1760161156524-h",
-    "okassetkey": "210377949833",
+    "okassetkey": "760435558584",
     "widevine_data": {
-      "kid": "fb00fa870cc8faf32c2897383885ed86",
-      "key": "81d32f64044f7d3fe639d0d8c122f9a6"
+      "kid": "c4a6be517d0a1bbc0f8229e5e9f6e4d1",
+      "key": "9b2bb884fdaeacec64990bb7d8eb5c2d"
     },
     "sources": [
       {
@@ -64,60 +64,45 @@
     "genre": "Cricket",
     "payType": "P",
     "isLive": "true",
-    "title": "England W vs Sri Lanka W",
-    "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7480/1760096407480-h",
-    "okassetkey": "367496785943",
+    "title": "Sony Sports Ten 5",
+    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
+    "okassetkey": "633680254374",
     "widevine_data": {
-      "kid": "108508d64bb26c884e2afbd4ae9b1531",
-      "key": "33ae2de46fb5d7bb0bb7b38934b0821c"
+      "kid": "fff9f88c0b158b2220ba7fa63e8c974c",
+      "key": "137ef54747aa38cf6fe651601924f684"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "eng",
-        "hls": "https://live-aws-cdn.okflix.top/hls/eng/hs-1540051857.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 5,
-    "genre": "Cricket",
+    "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Sony Sports Ten 5",
-    "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "656538974311",
+    "title": "Almer\u00eda VS Real Zaragoza",
+    "imageUrl": "https://images.fancode.com/aig/match/v1/137209_CASACARDS_PARTNER_16_9_1920_1080.png",
+    "okassetkey": "589819045264",
     "widevine_data": {
-      "kid": "541cca3f345f35f063196834371f4ded",
-      "key": "8d8ab0174238f831bf2168c1120e24aa"
+      "kid": "42366554c3817021b3895435d6a90f71",
+      "key": "6844fc8b1ca96135f066011a80a2d223"
     },
-    "sources": []
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137209.m3u8"
+      }
+    ]
   },
   {
     "id": 6,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Almer\u00eda VS Real Zaragoza",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137209_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "371395668991",
-    "widevine_data": {
-      "kid": "72260c7666c04423768525a5e3bc4f4a",
-      "key": "95eab458b08c6020d50be3e76288616a"
-    },
-    "sources": []
-  },
-  {
-    "id": 7,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Oldham Athletic VS Barrow",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136999_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "905102625439",
+    "okassetkey": "654051384722",
     "widevine_data": {
-      "kid": "fbf34bd62d1eb728e205a81faf86d404",
-      "key": "bbea3fea0ce25b71b5d010f64b651e81"
+      "kid": "f346b4ec6571bfa7844a09489c74ce97",
+      "key": "e69a645d7e645d9d6366f8c38d35ac94"
     },
     "sources": [
       {
@@ -127,16 +112,16 @@
     ]
   },
   {
-    "id": 8,
+    "id": 7,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136882_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "180562695994",
+    "okassetkey": "308179538134",
     "widevine_data": {
-      "kid": "af1bed080c0a863abe0c5a63b06a2599",
-      "key": "d07637f054d681455f00de51dad93fa3"
+      "kid": "234ab4cf4f31c7c12ea534eef49464f3",
+      "key": "a60a4e7507f2c2333aad5f99481d7565"
     },
     "sources": [
       {
