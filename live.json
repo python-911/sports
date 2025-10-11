@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010104/17601102023211_ATP25_9oct_Djokovic_vs_Vacherot_Landscape_thumb_Live.jpg?h=auto&w=720&q=low",
-    "okassetkey": "900320410463",
+    "okassetkey": "377258579481",
     "widevine_data": {
-      "kid": "5674e6d6d2a80c55563281b47c092389",
-      "key": "94d9b1720ce00af0d30e2523daeccbcf"
+      "kid": "7c6b913761550634c06d6f9a5160572a",
+      "key": "ae0497cf0639228afa03c46a3ff1e03b"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: SF's",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6900/1760158246900-h",
-    "okassetkey": "797913921634",
+    "okassetkey": "863696574993",
     "widevine_data": {
-      "kid": "59af0af5ab23220064d80ae507788b80",
-      "key": "d1a8cd35da9f33a9bb866d0c08177f75"
+      "kid": "dff2bcad5ed93ab223eace0362578352",
+      "key": "433202bb20a12cd83e6542b3bb09d59a"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "2nd Test: India vs West Indies, Day 2",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7730/1760094947730-h",
-    "okassetkey": "968814154038",
+    "okassetkey": "416386760708",
     "widevine_data": {
-      "kid": "df00bbc6afd335f9613d1a2a901e66fc",
-      "key": "560aed767957e2677635d098d1cbe4db"
+      "kid": "2f0b74f574b5d293c7673a375d40c4a7",
+      "key": "cd9e184d6f8b26a3f5695f17c21143db"
     },
     "sources": []
   },
@@ -48,10 +48,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "469939841633",
+    "okassetkey": "237426883965",
     "widevine_data": {
-      "kid": "e28255f01ac085a5f7454008b5b748e0",
-      "key": "7f42039feb1b258528b4d68d267bcf17"
+      "kid": "4f8734a670602dc459214d214045199b",
+      "key": "ab5a9a88b727c41a7901eb6bb5333eee"
     },
     "sources": []
   },
@@ -62,11 +62,16 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137621_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "667481010842",
+    "okassetkey": "244769055687",
     "widevine_data": {
-      "kid": "d06ca13272280a38175362c3b57971cc",
-      "key": "88c2ebc260a45a0a7328d8ae1203a848"
+      "kid": "bc09378188702c20dbece275042327a7",
+      "key": "1a0e81e9cd197b8521e3cc59239539de"
     },
-    "sources": []
+    "sources": [
+      {
+        "name": "HLS",
+        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137621.m3u8"
+      }
+    ]
   }
 ]
