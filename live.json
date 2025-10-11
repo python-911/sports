@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541363237830_EQ2526_Hungary_vs_Armenia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "164420803257",
+    "okassetkey": "576126256971",
     "widevine_data": {
-      "kid": "054b8bce471dda8924644aeee990850b",
-      "key": "ae55618a85f8937cdb9b18156de8c5c0"
+      "kid": "246b00696db582264c60c9a16e84bb0d",
+      "key": "bc4b86b5a053165fc978dcfd7f57ae85"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541499854830_EQ2526_Norway_vs_Israel_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "763683862713",
+    "okassetkey": "829936227111",
     "widevine_data": {
-      "kid": "1cb9ea5f3998aed5b2fddffab81bde7e",
-      "key": "8a064135a1ebd9c08cdebec7e5a7da05"
+      "kid": "59ed73588a8a7f01c0cdbaf437be8fef",
+      "key": "ff0bcf5f9be749ecd0b938b073603178"
     },
     "sources": [
       {
@@ -46,10 +46,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: SFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6524/1760161156524-h",
-    "okassetkey": "908840248198",
+    "okassetkey": "210377949833",
     "widevine_data": {
-      "kid": "c6ba1d1b06accb9772980be9c4e14f4e",
-      "key": "fb4137429f1242a65e3507502fc0c3d8"
+      "kid": "fb00fa870cc8faf32c2897383885ed86",
+      "key": "81d32f64044f7d3fe639d0d8c122f9a6"
     },
     "sources": [
       {
@@ -66,10 +66,10 @@
     "isLive": "true",
     "title": "England W vs Sri Lanka W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7480/1760096407480-h",
-    "okassetkey": "079734356851",
+    "okassetkey": "367496785943",
     "widevine_data": {
-      "kid": "781e82c02dfae7e0ced3931776cb1f5b",
-      "key": "aebf67dddb170e56b44d6e4386d5fbac"
+      "kid": "108508d64bb26c884e2afbd4ae9b1531",
+      "key": "33ae2de46fb5d7bb0bb7b38934b0821c"
     },
     "sources": [
       {
@@ -86,10 +86,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "715986600178",
+    "okassetkey": "656538974311",
     "widevine_data": {
-      "kid": "58b6b290c7959f42cd2ea682b994254d",
-      "key": "4b11408b5e0be3405be66c4b3b2f08e3"
+      "kid": "541cca3f345f35f063196834371f4ded",
+      "key": "8d8ab0174238f831bf2168c1120e24aa"
     },
     "sources": []
   },
@@ -100,17 +100,12 @@
     "isLive": "true",
     "title": "Almer\u00eda VS Real Zaragoza",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137209_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "942520712245",
+    "okassetkey": "371395668991",
     "widevine_data": {
-      "kid": "1910d5d7a372f26651effe7b3ded7bff",
-      "key": "e821d87b8465a3e21631190fd7bfb44f"
+      "kid": "72260c7666c04423768525a5e3bc4f4a",
+      "key": "95eab458b08c6020d50be3e76288616a"
     },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137209.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 7,
@@ -119,10 +114,10 @@
     "isLive": "true",
     "title": "Oldham Athletic VS Barrow",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136999_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "064926859766",
+    "okassetkey": "905102625439",
     "widevine_data": {
-      "kid": "eeca59aec36bf7c85384886f922bab48",
-      "key": "60170911b580f7838003ce3b8c99bac7"
+      "kid": "fbf34bd62d1eb728e205a81faf86d404",
+      "key": "bbea3fea0ce25b71b5d010f64b651e81"
     },
     "sources": [
       {
@@ -138,10 +133,10 @@
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136882_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "681296948861",
+    "okassetkey": "180562695994",
     "widevine_data": {
-      "kid": "04219cab200325ce0aab5f5066fc92b6",
-      "key": "cf82e83bea15ee8fb0fc02e0cb020a20"
+      "kid": "af1bed080c0a863abe0c5a63b06a2599",
+      "key": "d07637f054d681455f00de51dad93fa3"
     },
     "sources": [
       {
