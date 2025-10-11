@@ -5,6 +5,8 @@ https://live-aws-cdn.okflix.top/hls/sliv1-1090492076.m3u8
 https://live-aws-cdn.okflix.top/hls/sliv1-1090492077.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6524/1760161156524-h" group-title="Badminton",BWF Arctic Open: SFs
 https://live-aws-cdn.okflix.top/hls/eng/hs-1540055312.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137265_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",United Arab Emirates VS Oman
+https://live-aws-cdn.okflix.top/hls/fan1-137265.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/137209_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Almería VS Real Zaragoza
 https://live-aws-cdn.okflix.top/hls/fan1-137209.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1/136999_CASACARDS_PARTNER_16_9_1920_1080.png" group-title="Sports",Oldham Athletic VS Barrow
