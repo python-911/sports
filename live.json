@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "2nd Test: India vs West Indies, Day 2",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7730/1760094947730-h",
-    "okassetkey": "817440411841",
+    "okassetkey": "956737076599",
     "widevine_data": {
-      "kid": "e8ea0c7b6d5b91659ed296c08eda6171",
-      "key": "a4e37f8fa9d04ac253bd3cbcb5269475"
+      "kid": "94ba77fc5423668f647a713dba7229a0",
+      "key": "be05968708259286f3aa951245abbec8"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "071558098527",
+    "okassetkey": "727062610991",
     "widevine_data": {
-      "kid": "aca7ae94393cb610987f8f82c7fd330c",
-      "key": "16a15b24343de78b85fd0efa79adf5ee"
+      "kid": "3abed683b0fbcc671a866f269e4514b6",
+      "key": "9db0b1c10eb0e07cc9facc011043dd89"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137621_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "961379716854",
+    "okassetkey": "510145156334",
     "widevine_data": {
-      "kid": "9bee4b9c5c5f3a02225202b86d2fe0a8",
-      "key": "c9b5f78dd61c422d5f93050b9b4b15b3"
+      "kid": "1e3461bfb3c12d063b45432f5de80133",
+      "key": "4136000e1ec2c4c91f179d243e013e6c"
     },
     "sources": [
       {
@@ -45,33 +45,5 @@
         "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137621.m3u8"
       }
     ]
-  },
-  {
-    "id": 4,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Toronto Sixers VS Montreal Royal Tigers",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137430_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "350905923976",
-    "widevine_data": {
-      "kid": "d05d24b3536c08b7b69a1f2f6a25738c",
-      "key": "70a0f33464368314c2f23c7b1a38776f"
-    },
-    "sources": []
-  },
-  {
-    "id": 5,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
-    "title": "Baycurrent Classic",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137313_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "547566977558",
-    "widevine_data": {
-      "kid": "f2944635eaa04f88b05b572cc42499bf",
-      "key": "256d226d2f399f830d5842cd32e7483b"
-    },
-    "sources": []
   }
 ]
