@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541363237830_EQ2526_Hungary_vs_Armenia_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "898065671818",
+    "okassetkey": "537166822765",
     "widevine_data": {
-      "kid": "5b220203a54931fa90786e0bbc5933a4",
-      "key": "b66db4a4ac80632401961734b6b74f28"
+      "kid": "b067619fb7bb32efa54f874bc0b17bb0",
+      "key": "68793363ab21a1cbf3e5bc0328157099"
     },
     "sources": [
       {
@@ -26,10 +26,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 2",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000009844/1759541499854830_EQ2526_Norway_vs_Israel_3oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "520986736912",
+    "okassetkey": "273724401307",
     "widevine_data": {
-      "kid": "890aac089e5a48b3e0deacd11d670300",
-      "key": "9fc936ab6338970284b2213e215acf33"
+      "kid": "d2bf376a1c26cdc09263f71b305f7483",
+      "key": "2c6a7509da7004c0f2fa12db95089596"
     },
     "sources": [
       {
@@ -46,10 +46,10 @@
     "isLive": "true",
     "title": "BWF Arctic Open: SFs",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/6524/1760161156524-h",
-    "okassetkey": "722445756600",
+    "okassetkey": "553603937256",
     "widevine_data": {
-      "kid": "db52a46f1ab7bc755a64643c7944e627",
-      "key": "fcfc21217ef82dc5f95b80016a891615"
+      "kid": "abc919fbdae8f55477d69cfced81b227",
+      "key": "dffc5ac9ee6464aa3ddf6a368a1f33cf"
     },
     "sources": [
       {
@@ -66,10 +66,10 @@
     "isLive": "true",
     "title": "Tamil Thalaivas vs Puneri Paltan",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/2420/1760097232420-h",
-    "okassetkey": "799290805955",
+    "okassetkey": "106790317568",
     "widevine_data": {
-      "kid": "22c42190e3d198f426cfb0be623609bf",
-      "key": "854abac3ce8c8351e7d827e2ebb53fce"
+      "kid": "5a89b1c56aad3c2be3118d5c7c6cd0da",
+      "key": "ae391987085c00d64258ccf5b150552f"
     },
     "sources": [
       {
@@ -121,18 +121,12 @@
     "isLive": "true",
     "title": "LIV",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010123/1760158127102773_APL25_day10_10oct_landscape_thumb.jpg?h=auto&w=720&q=low",
-    "okassetkey": "940051580611",
+    "okassetkey": "171025709747",
     "widevine_data": {
-      "kid": "29d9197586d77fa1deb5b8f99f1be4a6",
-      "key": "dc7291046c2c0a237675e544153a56d9"
+      "kid": "ddd74b12c2db7652ea3e37ea02db38e6",
+      "key": "583897afee224dd46fa054cf26aa82ee"
     },
-    "sources": [
-      {
-        "name": "English",
-        "language": "ENG",
-        "hls": "https://live-aws-cdn.okflix.top/hls/sliv1-1090492069.m3u8"
-      }
-    ]
+    "sources": []
   },
   {
     "id": 6,
@@ -141,10 +135,10 @@
     "isLive": "true",
     "title": "England W vs Sri Lanka W",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7480/1760096407480-h",
-    "okassetkey": "207575351823",
+    "okassetkey": "693471168343",
     "widevine_data": {
-      "kid": "7073eb9c7065abf0f9cb4f67dcd1411c",
-      "key": "7a0a9f46be029f853638a1d5838dab80"
+      "kid": "8c420ff3da83ec3bca0836bb0b960b1b",
+      "key": "fa5dbc943531daf06b6c7a88725947e1"
     },
     "sources": [
       {
@@ -161,10 +155,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "420663146526",
+    "okassetkey": "282157912134",
     "widevine_data": {
-      "kid": "220803f6513dad1671ca7e8ac9a68b40",
-      "key": "31589e6103556401c7f30babe533d9ba"
+      "kid": "1f017149d304e3f5a651db836550ae0a",
+      "key": "0c42942934ac8bd5f6b4dbe6a7319bda"
     },
     "sources": []
   },
@@ -175,10 +169,10 @@
     "isLive": "true",
     "title": "Sharjah VS Abu Dhabi",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137487_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "009058828049",
+    "okassetkey": "326653784077",
     "widevine_data": {
-      "kid": "6fd81286a8fb5da6a1567fddc65eda65",
-      "key": "f2a59b3f50aba831298f2912f442ad90"
+      "kid": "9b9bf2fb246693fec009416457b1e5ac",
+      "key": "1ce39b7126fff681f408e1615d2de53e"
     },
     "sources": [
       {
@@ -194,10 +188,10 @@
     "isLive": "true",
     "title": "Afghanistan VS Bangladesh",
     "imageUrl": "https://images.fancode.com/aig/match/v1/136882_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "650096092323",
+    "okassetkey": "201216952576",
     "widevine_data": {
-      "kid": "5b96899c0128402fc2f05bf84447656b",
-      "key": "376ade44f5b17a2371665eaa6467e466"
+      "kid": "3bca708273f2542620fe310081bacc89",
+      "key": "f6aefd9dccfd43b58459eee65965c057"
     },
     "sources": [
       {
