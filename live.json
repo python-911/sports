@@ -6,10 +6,10 @@
     "isLive": "true",
     "title": "2nd Test: India vs West Indies, Day 2",
     "imageUrl": "https://img1.hotstarext.com/image/upload/w_720,q_auto:low,f_auto/sources/r1/cms/prod/7730/1760094947730-h",
-    "okassetkey": "747639205330",
+    "okassetkey": "033534947267",
     "widevine_data": {
-      "kid": "541f7fa166877e82d4ea9d558cd4d564",
-      "key": "46daef8d125e1635ab02a25eeb05198b"
+      "kid": "3f3e681ebfa154ff01e5763293df0269",
+      "key": "d271dae54f88f1deadcd14d9f8fd5b54"
     },
     "sources": []
   },
@@ -20,10 +20,10 @@
     "isLive": "true",
     "title": "Sony Sports Ten 5",
     "imageUrl": "https://images.slivcdn.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg?h=auto&w=720&q=low",
-    "okassetkey": "913698194198",
+    "okassetkey": "572126016225",
     "widevine_data": {
-      "kid": "df5a9cd1f5c1875658c62b2750841a55",
-      "key": "77353a55a06fa0159a19c4ab2d6d65e4"
+      "kid": "863cd942839c085637e80303410606fb",
+      "key": "20101b6d55d45220d88ba76d9c443998"
     },
     "sources": []
   },
@@ -34,10 +34,10 @@
     "isLive": "true",
     "title": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137621_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "083036144481",
+    "okassetkey": "795162388141",
     "widevine_data": {
-      "kid": "52d52863e7877a62200cfa0e50a241ae",
-      "key": "d4601dc0cbc0358aed509940bc89ca78"
+      "kid": "71761c2c5d0eac930434658f3f80db26",
+      "key": "cb19239f5c0a4ea43bc2663fdb54f6ea"
     },
     "sources": [
       {
@@ -53,10 +53,10 @@
     "isLive": "true",
     "title": "Detroit Tigers VS Seattle Mariners",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137578_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "377403142350",
+    "okassetkey": "820499598982",
     "widevine_data": {
-      "kid": "4826358837ce8a3aa8b03e7c13211059",
-      "key": "603dee427b0c032a1300a931153c7b93"
+      "kid": "e14dc5ad73b1a22e8d0dd645a6c506ca",
+      "key": "b52d899ae33ce9207080dfd94cb8944d"
     },
     "sources": [
       {
@@ -70,31 +70,12 @@
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
-    "title": "Brampton Blitz VS White Rock Warriors",
-    "imageUrl": "https://images.fancode.com/aig/match/v1/137429_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "060440878843",
-    "widevine_data": {
-      "kid": "63a1a65f95458eddc01bfc363a57649f",
-      "key": "3d68788834a161aaf41f0d75c8a249b2"
-    },
-    "sources": [
-      {
-        "name": "HLS",
-        "hls": "https://live-aws-cdn.okflix.top/hls/fan1-137429.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "genre": "Sports",
-    "payType": "P",
-    "isLive": "true",
     "title": "Baycurrent Classic",
     "imageUrl": "https://images.fancode.com/aig/match/v1/137313_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "724141413974",
+    "okassetkey": "593904666470",
     "widevine_data": {
-      "kid": "94d56818cc7251fec81bb453ec1c1a62",
-      "key": "2e9cc115d8c8d72e17d193e2c0caa19e"
+      "kid": "7e75fb8107ecb8fbb0f150bfc6ddd4a5",
+      "key": "66dd503b8f6b254db2557988b1c7f7ea"
     },
     "sources": [
       {
@@ -104,16 +85,16 @@
     ]
   },
   {
-    "id": 7,
+    "id": 6,
     "genre": "Sports",
     "payType": "P",
     "isLive": "true",
     "title": "New South Wales Breakers VS Western Australia Women",
     "imageUrl": "https://images.fancode.com/aig/match/v1/133959_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "okassetkey": "706816003779",
+    "okassetkey": "180539616625",
     "widevine_data": {
-      "kid": "65bc4c533baf82d9c2b8f473e172b289",
-      "key": "eb87e4ef9c5b05c754ec715c4fedd509"
+      "kid": "332bcc69b0a03db6eae9acb8c5db6e6c",
+      "key": "b10c3555ec1b49ca494d68d1f16dc013"
     },
     "sources": [
       {
